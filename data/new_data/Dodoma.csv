@@ -1,0 +1,1021 @@
+Status_group,Region,District_name,Ward_name,Location,Source_group,Amount_tsh,Pop_served,Construction_year,Quality_group,Wptcode,Quality_group,Extraction_group,Breakdown_year,Payment_group,Funder,Installer,Management,Hardware Problem
+functional,Dodoma,Dodoma Urban,Zuzu,"35.59864465,-6.214358115",rainwater harvesting,0,0,unknown,insufficient,01052003241WP19,good,gravity,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.57966364,-6.211591949",shallow well,0,0,unknown,insufficient,01052003241WP15,good,india mark ii,unknown,never pay,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.5707338,-6.217009484",shallow well,0,0,unknown,insufficient,01052003241WP13,good,nira/tanira,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63008824,-6.17191876",borehole,0,0,unknown,enough,01052003241WP12,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63842592,-6.171669637",borehole,0,0,unknown,insufficient,01052003241WP10,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.64454166,-6.168193888",borehole,0,0,unknown,enough,01052003241WP08,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63961312,-6.168029902",borehole,0,0,unknown,enough,01052003241WP07,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63937336,-6.165991247",shallow well,0,0,unknown,enough,01052003241WP06,good,india mark ii,unknown,per bucket,Tanza,Tanza,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63948438,-6.165111774",borehole,0,0,unknown,enough,01052003241WP05,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.6376363,-6.163031621",borehole,0,0,unknown,enough,01052003241WP04,salty,mono,unknown,monthly,Commu,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.64182037,-6.157987635",borehole,0,0,unknown,enough,01052003241WP03,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Zuzu,"35.63593035,-6.15711701",borehole,0,0,unknown,enough,01052003241WP02,salty,mono,unknown,per bucket,Menon,Commu,vwc,none
+functional,Dodoma,Bahi,Zanka,"35.92287766,-5.787470035",spring,0,0,unknown,enough,01063101471WP04,good,gravity,unknown,never pay,DCT,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Zanka,"35.92942914,-5.787050667",spring,0,0,unknown,enough,01063101471WP01,good,gravity,unknown,never pay,,Gove,vwc,pump broken
+functional,Dodoma,Bahi,Zanka,"35.91196769,-5.793625588",spring,0,0,unknown,enough,01063101471WP09,good,gravity,unknown,never pay,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Zanka,"35.90131535,-5.794443148",spring,0,0,unknown,enough,01063101471WP10,good,gravity,unknown,never pay,DCT,Gove,vwc,under construction
+functional,Dodoma,Bahi,Zanka,"35.89663154,-5.80362312",spring,0,0,unknown,enough,01063101471WP11,good,gravity,unknown,never pay,DCT,Gove,vwc,tank out of use
+functional,Dodoma,Bahi,Zanka,"35.79656373,-5.812630627",borehole,0,0,unknown,enough,01063101471WP15,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Zanka,"35.92495584,-5.788687351",spring,0,0,unknown,enough,01063101471WP03,good,gravity,unknown,never pay,DCT,Gove,vwc,tap broken
+functional,Dodoma,Chemba,Zanka,"35.79970818,-5.805635749",borehole,0,0,unknown,enough,01063101471WP17,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Zanka,"35.80617294,-5.80858327",borehole,0,0,unknown,enough,01063101471WP18,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Zanka,"35.79959286,-5.789311049",borehole,0,0,unknown,enough,01063101471WP19,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Zanka,"35.8020082,-5.76799601",borehole,0,0,unknown,enough,01063101471WP22,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Zanka,"35.92311161,-5.788891499",spring,0,0,unknown,enough,01063101471WP06,good,gravity,unknown,never pay,DCT,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Zanka,"35.92234867,-5.790486643",spring,0,0,unknown,enough,01063101471WP07,good,gravity,unknown,never pay,DCT,Gove,vwc,under construction
+functional,Dodoma,Bahi,Zanka,"35.79752145,-5.81173472",borehole,0,0,unknown,enough,01063101471WP14,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.03788871,-5.443996569",borehole,0,0,unknown,insufficient,01043013031WP03_52,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.10665931,-5.472728018",borehole,0,0,unknown,insufficient,01043013031WP06_55,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.10049505,-5.477575169",borehole,0,0,unknown,insufficient,01043013031WP07_56,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.09877854,-5.481834793",rainwater harvesting,0,0,unknown,insufficient,01043013031WP13_62,good,gravity,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.09691692,-5.481765312",borehole,0,0,unknown,insufficient,01043013031WP14_63,good,mono,unknown,per bucket,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.09832612,-5.479015477",borehole,0,0,unknown,insufficient,01043013031WP16_65,good,mono,unknown,per bucket,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.0992626,-5.524097156",borehole,0,0,unknown,insufficient,01043013031WP17_66,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.1079689,-5.488467166",borehole,0,0,unknown,insufficient,01043013031WP11_60,good,mono,unknown,per bucket,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Zajilwa,"36.00002261,-5.433162597",borehole,0,0,unknown,insufficient,01043013031WP01_50,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27832103,-6.734204148",shallow well,0,0,unknown,enough,01010230150102121WP11,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.29435352,-6.656403757",shallow well,0,0,unknown,enough,01010230150102121WP15,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.30332977,-6.69641135",shallow well,0,0,unknown,insufficient,01010230150102121WP03,colored,nira/tanira,unknown,never pay,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27923007,-6.722039667",spring,0,0,unknown,enough,01010230150102121WP04,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27257658,-6.732573929",shallow well,0,0,unknown,enough,01010230150102121WP05,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.26794749,-6.736101801",shallow well,0,0,unknown,enough,01010230150102121WP06,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27570732,-6.744644832",shallow well,0,0,unknown,enough,01010230150102121WP08,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27853623,-6.74294692",spring,0,0,unknown,seasonal,01010230150102121WP09,good,other,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28250629,-6.736594744",shallow well,0,0,unknown,insufficient,01010230150102121WP10,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28386427,-6.669067714",spring,0,0,unknown,enough,01010230150102121WP13,good,gravity,unknown,never pay,Plan,DWE,vwc,tap broken
+functional,Dodoma,Mpwapwa,Wotta,"36.31361889,-6.719257156",spring,0,0,unknown,insufficient,01010230150102121WP45,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.2885793,-6.676835737",spring,0,0,unknown,enough,01010230150102121WP17,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.29674429,-6.676113285",spring,0,0,unknown,enough,01010230150102121WP18,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.2902702,-6.648475091",shallow well,0,0,unknown,enough,01010230150102121WP19,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28363462,-6.644348002",spring,0,0,unknown,enough,01010230150102121WP21,good,other,unknown,never pay,Private Individual,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28367955,-6.645870726",spring,0,0,unknown,enough,01010230150102121WP23,good,other,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Wotta,"36.28330223,-6.644872769",shallow well,0,0,unknown,enough,01010230150102121WP22,milky,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28423813,-6.623789281",shallow well,0,0,unknown,enough,01010230150102121WP26,milky,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27104527,-6.63304928",shallow well,0,0,unknown,enough,01010230150102121WP27,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27105566,-6.633114317",shallow well,0,0,unknown,enough,01010230150102121WP28,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27231583,-6.617310421",shallow well,0,0,unknown,insufficient,01010230150102121WP25,colored,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.31416445,-6.720934468",spring,0,0,unknown,insufficient,01010230150102121WP44,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.28277959,-6.628289005",spring,0,0,unknown,insufficient,01010230150102121WP30,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27279012,-6.639774078",spring,0,0,unknown,insufficient,01010230150102121WP31,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.31701719,-6.635550772",spring,0,0,unknown,insufficient,01010230150102121WP32,good,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.31129071,-6.623638025",shallow well,0,0,unknown,enough,01010230150102121WP33,good,nira/tanira,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.30830711,-6.635633448",shallow well,0,0,unknown,enough,01010230150102121WP34,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.29533248,-6.705475758",spring,0,0,unknown,enough,01010230150102121WP35,good,other,unknown,never pay,Plan,DWE,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.29938092,-6.71092103",spring,0,0,unknown,enough,01010230150102121WP37,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.2906603,-6.683305365",spring,0,0,unknown,enough,01010230150102121WP38,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.30528932,-6.678117588",spring,0,0,unknown,enough,01010230150102121WP39,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.30774896,-6.689409728",spring,0,0,unknown,enough,01010230150102121WP40,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.31065523,-6.701060375",spring,0,0,unknown,insufficient,01010230150102121WP41,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.31157301,-6.703260154",spring,0,0,unknown,enough,01010230150102121WP42,milky,other,unknown,never pay,Water,Gover,vwc,engine broken
+functional,Dodoma,Mpwapwa,Wotta,"36.3136682,-6.703888213",spring,0,0,unknown,insufficient,01010230150102121WP43,milky,other,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Wotta,"36.27290199,-6.639782893",shallow well,0,0,unknown,enough,01010230150102121WP29,colored,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Vingh'awe,"36.47659709,-6.391864925",shallow well,0,0,unknown,enough,01010230150102023WP06,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Vingh'awe,"36.50705986,-6.392950331",borehole,0,0,unknown,insufficient,01010230150102023WP09,good,submersible,unknown,never pay,Quick,Gover,vwc,pump broken
+functional,Dodoma,Mpwapwa,Vingh'awe,"36.50845304,-6.393259489",borehole,0,0,unknown,insufficient,01010230150102023WP10,salty,submersible,unknown,never pay,Quick,Gover,vwc,pump broken
+functional,Dodoma,Kongwa,Ugogoni,"36.48382759,-6.170858246",borehole,0,0,unknown,enough,01033086133WP16,salty,submersible,unknown,per bucket,World Bank,Cotra,vwc,tap broken
+functional,Dodoma,Kongwa,Ugogoni,"36.47450435,-6.162749712",borehole,0,0,unknown,enough,01033086133WP12,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.48185168,-6.17443418",borehole,0,0,unknown,enough,01033086133WP18,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.4059507,-6.13903483",borehole,0,0,unknown,enough,01033086133WP22,salty,mono,unknown,per bucket,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ugogoni,"36.4866019,-6.161311867",borehole,0,0,unknown,enough,01033086133WP15,salty,submersible,unknown,per bucket,World Bank,Commu,vwc,none
+functional,Dodoma,Kondoa,Ugogoni,"36.46710724,-6.213503615",spring,0,0,unknown,enough,01033086013WP26,good,gravity,unknown,annually,Water,Water,vwc,tap broken
+functional,Dodoma,Kongwa,Ugogoni,"36.47210307,-6.173773967",borehole,0,0,unknown,enough,01033086133WP21,salty,submersible,unknown,per bucket,Private Individual,Commu,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.41415828,-6.134300456",borehole,0,0,unknown,enough,01033086133WP24,salty,mono,unknown,per bucket,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.40227031,-6.142305864",borehole,0,0,unknown,enough,01033086133WP25,salty,mono,unknown,per bucket,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ugogoni,"36.4669261,-6.152500659",borehole,0,0,unknown,enough,01033086133WP10,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.45863993,-6.140680622",borehole,0,0,unknown,enough,01033086133WP11,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.47643819,-6.164590232",borehole,0,0,unknown,enough,01033086133WP13,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kongwa,Ugogoni,"36.47431698,-6.174491204",borehole,0,0,unknown,enough,01033086133WP20,salty,submersible,unknown,per bucket,World Bank,Contr,vwc,none
+functional,Dodoma,Kondoa,Thawi,"35.76022589,-4.702814293",shallow well,0,0,unknown,enough,01013014261WP01,good,nira/tanira,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Suruke,"35.735386,-4.944975074",shallow well,0,0,unknown,enough,01013014211WP02,good,nira/tanira,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Suruke,"35.73709867,-4.986342991",shallow well,0,0,unknown,enough,01013014211WP03,good,nira/tanira,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kongwa,Songambele,"36.44672451,-5.887286514",borehole,0,0,unknown,enough,01033086031WP07,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Songambele,"36.44832902,-5.886475582",borehole,0,0,unknown,enough,01033086031WP04,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Songambele,"36.44822366,-5.885706519",borehole,0,0,unknown,enough,01033086031WP05,good,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kondoa,Soera,"35.7615051,-4.605976579",borehole,0,0,unknown,enough,01013014281WP07,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.7568967,-4.620007736",borehole,0,0,unknown,enough,01013014281WP12,good,mono,unknown,never pay,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.76094821,-4.610057757",borehole,0,0,unknown,enough,01013014281WP05,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.76279004,-4.608501101",borehole,0,0,unknown,enough,01013014281WP08,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.75077505,-4.598662821",borehole,0,0,unknown,enough,01013014281WP01,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.76547672,-4.613986596",borehole,0,0,unknown,enough,01013014281WP09,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.76452154,-4.616530731",borehole,0,0,unknown,enough,01013014281WP10,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.75726268,-4.620133041",borehole,0,0,unknown,enough,01013014281WP11,good,mono,unknown,never pay,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Soera,"35.75812305,-4.60719487",borehole,0,0,unknown,enough,01013014281WP06,good,mono,unknown,per bucket,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Serya,"35.62944521,-4.90388311",borehole,0,0,unknown,enough,01013014211WP07,good,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.33782499,-6.109617245",borehole,0,0,unknown,enough,01033086021WP26,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,under construction
+functional,Dodoma,Kongwa,Sejeli,"36.33052149,-6.108724825",borehole,0,0,unknown,enough,01033086021WP25,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31819778,-6.066192155",borehole,0,0,unknown,enough,01033086021WP24,salty,mono,unknown,per bucket,Water,Commu,vwc,pipe broken
+functional,Dodoma,Kongwa,Sejeli,"36.3203981,-6.042293704",borehole,0,0,unknown,enough,01033086021WP23,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.35753615,-5.965307487",borehole,0,0,unknown,insufficient,01033086021WP39,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.29939224,-6.100147888",borehole,0,0,unknown,enough,01033086021WP30,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.33351277,-6.102727918",borehole,0,0,unknown,enough,01033086021WP27,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.30788702,-6.108013248",borehole,0,0,unknown,enough,01033086021WP32,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31333148,-6.106119365",borehole,0,0,unknown,enough,01033086021WP33,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31650756,-6.103003602",borehole,0,0,unknown,enough,01033086021WP34,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31858067,-6.102835056",borehole,0,0,unknown,enough,01033086021WP35,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31938715,-6.1032986",borehole,0,0,unknown,enough,01033086021WP36,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.32033181,-6.101817402",borehole,0,0,unknown,enough,01033086021WP37,salty,submersible,unknown,never pay,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.30639417,-6.112933125",borehole,0,0,unknown,enough,01033086021WP31,salty,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,source damaged
+functional,Dodoma,Kongwa,Sejeli,"36.32271434,-6.035547317",borehole,0,0,unknown,enough,01033086021WP22,salty,mono,unknown,never pay,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.3226726,-6.034006596",borehole,0,0,unknown,enough,01033086021WP20,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.32262329,-6.030500069",borehole,0,0,unknown,enough,01033086021WP19,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31593043,-6.029017012",borehole,0,0,unknown,enough,01033086021WP17,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.31355671,-6.100535932",borehole,0,0,unknown,enough,01033086021WP29,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.32840027,-6.135467693",borehole,0,0,unknown,enough,01033086021WP13,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.33153077,-6.134370766",borehole,0,0,unknown,enough,01033086021WP11,salty,submersible,unknown,per bucket,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.36110217,-6.125085566",borehole,0,0,unknown,enough,01033086021WP10,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.36097477,-6.115867787",borehole,0,0,unknown,enough,01033086021WP09,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.33602863,-6.14252613",borehole,0,0,unknown,enough,01033086021WP08,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.33361607,-6.143272469",borehole,0,0,unknown,enough,01033086021WP07,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.3389489,-6.149923121",borehole,0,0,unknown,enough,01033086021WP06,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.3397983,-6.154066877",borehole,0,0,unknown,enough,01033086021WP05,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.34203584,-6.155091409",borehole,0,0,unknown,enough,01033086021WP04,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.34070009,-6.156159535",borehole,0,0,unknown,enough,01033086021WP03,good,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.34080435,-6.158990696",borehole,0,0,unknown,enough,01033086021WP02,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,tap broken
+functional,Dodoma,Kongwa,Sejeli,"36.34378903,-6.159283969",borehole,0,0,unknown,enough,01033086021WP01,salty,submersible,unknown,per bucket,World Bank,Nice,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.29100755,-6.023762609",borehole,0,0,unknown,enough,01033086021WP16,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Sejeli,"36.31644424,-6.100666378",borehole,0,0,unknown,enough,01033086021WP28,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Chamwino,Segala,"36.26424738,-5.560345534",borehole,0,0,unknown,insufficient,01043013031WP27_88,good,mono,unknown,per bucket,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Segala,"36.26434208,-5.560281828",borehole,0,0,unknown,insufficient,01043013031WP28_89,good,mono,unknown,per bucket,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Segala,"36.16197204,-5.569762126",borehole,0,0,unknown,insufficient,01043013021WP13_78,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Segala,"36.22331612,-5.480624431",borehole,0,0,unknown,insufficient,01043013031WP41_101,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Segala,"36.22515826,-5.481173313",borehole,0,0,unknown,insufficient,01043013031WP42_102,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.33445014,-5.396757661",borehole,0,0,unknown,enough,01013014181WP07,salty,mono,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.31917099,-5.386404455",borehole,0,0,unknown,enough,01013014181WP06,salty,mono,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.31788703,-5.384164874",borehole,0,0,unknown,enough,01013014181WP05,good,mono,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.31861257,-5.385412526",borehole,0,0,unknown,enough,01013014181WP04,good,mono,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.3727131,-5.336996806",borehole,0,0,unknown,insufficient,01013014181WP03,salty,mono,unknown,never pay,World Bank,World,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.38355573,-5.320963031",borehole,0,0,unknown,insufficient,01013014181WP01,salty,mono,unknown,never pay,World Bank,World,vwc,none
+functional,Dodoma,Chemba,Sanzawa,"35.37958815,-5.330693046",borehole,0,0,unknown,insufficient,01013014181WP02,salty,mono,unknown,never pay,World Bank,World,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.74010634,-4.552393731",borehole,0,0,unknown,enough,01013014311WP18,good,mono,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.75009479,-4.5253556",borehole,0,0,unknown,enough,01013014311WP17,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.74396614,-4.538411397",borehole,0,0,unknown,enough,01013014311WP16,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.74029869,-4.549899488",borehole,0,0,unknown,enough,01013014311WP15,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.74005719,-4.554119731",borehole,0,0,unknown,enough,01013014311WP14,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Salanka,"35.74546602,-4.533809453",shallow well,0,0,unknown,enough,01013014311WP20,good,swn 80,unknown,per bucket,CBHI,DWE,vwc,none
+functional,Dodoma,Kongwa,Sagara,"36.58507273,-6.239316578",spring,0,0,unknown,insufficient,01033086111WP22,good,gravity,unknown,never pay,China Government,Chiko,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.53965091,-6.248658714",spring,0,0,unknown,enough,01033086111WP02,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.54598786,-6.254140912",spring,0,0,unknown,enough,01033086111WP20,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.54575182,-6.250424154",spring,0,0,unknown,enough,01033086111WP21,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.61955032,-6.237789096",spring,0,0,unknown,insufficient,01033086111WP23,good,gravity,unknown,never pay,Government of Tanzania,North,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.58748838,-6.246634335",spring,0,0,unknown,insufficient,01033086111WP24,good,gravity,unknown,never pay,China Government,Chiko,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.49052725,-6.223162224",spring,0,0,unknown,enough,01033086111WP12,salty,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.50247721,-6.228134657",spring,0,0,unknown,enough,01033086111WP11,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.51359654,-6.234199256",spring,0,0,unknown,enough,01033086111WP10,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.52460703,-6.240342873",spring,0,0,unknown,enough,01033086111WP09,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.53196628,-6.24489918",spring,0,0,unknown,enough,01033086111WP07,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.57280036,-6.244027413",spring,0,0,unknown,enough,01033086111WP26,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.53734644,-6.248019758",spring,0,0,unknown,enough,01033086111WP04,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.54098567,-6.251371561",spring,0,0,unknown,enough,01033086111WP03,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Sagara,"36.52737953,-6.177403316",borehole,0,0,unknown,enough,01033086133WP09,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.52341275,-6.152719168",borehole,0,0,unknown,enough,01033086133WP06,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.52509682,-6.175664997",borehole,0,0,unknown,enough,01033086133WP05,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.52429909,-6.180817962",borehole,0,0,unknown,enough,01033086133WP04,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.53312252,-6.182701058",borehole,0,0,unknown,enough,01033086133WP01,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.56102031,-6.249415206",spring,0,0,unknown,enough,01033086111WP17,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Sagara,"36.58060677,-6.244842907",spring,0,0,unknown,insufficient,01033086111WP25,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Mpwapwa,Rudi,"36.18646076,-6.857683635",rainwater harvesting,0,0,unknown,seasonal,01010230150102101WP27,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Mpwapwa,Rudi,"36.20486919,-6.921073337",spring,0,0,unknown,insufficient,01010230150102101WP24,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Rudi,"36.25740984,-6.959873602",spring,0,0,unknown,insufficient,01010230150102101WP07,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Rudi,"36.20252401,-6.923526692",spring,0,0,unknown,insufficient,01010230150102101WP18,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Rudi,"36.25580464,-6.950948462",spring,0,0,unknown,enough,01010230150102101WP08,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Rudi,"36.25609498,-6.960195141",spring,0,0,unknown,enough,01010230150102101WP10,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Rudi,"36.25480443,-6.961373691",spring,0,0,unknown,insufficient,01010230150102101WP15,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Pwaga,"36.50675364,-6.715969196",spring,0,0,unknown,enough,01010230150102061WP48,good,gravity,unknown,other,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.50444114,-6.654726398",spring,0,0,unknown,enough,01010230150102061WP42,good,gravity,unknown,per bucket,World Bank,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Pwaga,"36.5084571,-6.656971991",spring,0,0,unknown,enough,01010230150102061WP41,good,gravity,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.55211314,-6.687545072",spring,0,0,unknown,enough,01010230150102061WP40,good,gravity,unknown,per bucket,World Bank,Word,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.55915802,-6.68902032",spring,0,0,unknown,enough,01010230150102061WP35,good,gravity,unknown,monthly,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.55961876,-6.688993907",spring,0,0,unknown,insufficient,01010230150102061WP34,good,gravity,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.56160071,-6.681538393",rainwater harvesting,0,0,unknown,enough,01010230150102061WP31,good,nira/tanira,unknown,never pay,Local,Local,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.56522116,-6.687058681",spring,0,0,unknown,insufficient,01010230150102061WP30,good,gravity,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.56871387,-6.693861028",spring,0,0,unknown,enough,01010230150102061WP25,good,gravity,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.56899476,-6.695350698",spring,0,0,unknown,enough,01010230150102061WP24,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.57126041,-6.696744749",spring,0,0,unknown,enough,01010230150102061WP19,good,submersible,unknown,per bucket,Government of Tanzania,Rural,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.55819423,-6.688146725",spring,0,0,unknown,enough,01010230150102061WP36,good,gravity,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Pwaga,"36.5577685,-6.687626214",spring,0,0,unknown,enough,01010230150102061WP37,good,gravity,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Kondoa,Paranga,"35.76897487,-5.116572825",borehole,0,0,unknown,enough,01013014141WP18,salty,mono,unknown,per bucket,TASAF,DWE,private operator,none
+functional,Dodoma,Kondoa,Paranga,"35.77286165,-5.117493673",borehole,0,0,unknown,enough,01013014141WP17,salty,mono,unknown,per bucket,TASAF,DWE,private operator,none
+functional,Dodoma,Chemba,Paranga,"35.82142839,-5.110638864",rainwater harvesting,0,0,unknown,enough,01013014141WP02,good,other,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Chemba,Paranga,"35.82520002,-5.107039539",borehole,0,0,unknown,enough,01013014141WP01,good,mono,unknown,per bucket,Government of Tanzania,Centr,private operator,none
+functional,Dodoma,Kongwa,Pandambili,"36.7333217,-6.082186488",borehole,0,0,unknown,insufficient,01033086081WP42,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.73986292,-6.082813839",borehole,0,0,unknown,insufficient,01033086081WP40,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.76925466,-6.107950411",borehole,0,0,unknown,insufficient,01033086081WP39,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.7290757,-6.082374648",borehole,0,0,unknown,insufficient,01033086081WP43,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72683301,-6.082309598",borehole,0,0,unknown,insufficient,01033086081WP44,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.73586007,-6.082356668",borehole,0,0,unknown,insufficient,01033086081WP41,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72297926,-6.082310645",borehole,0,0,unknown,insufficient,01033086081WP45,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.71716633,-6.081994145",borehole,0,0,unknown,insufficient,01033086081WP46,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.71706763,-6.083861695",borehole,0,0,unknown,insufficient,01033086081WP47,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72268667,-6.084384012",borehole,0,0,unknown,insufficient,01033086081WP48,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72559344,-6.084028293",borehole,0,0,unknown,insufficient,01033086081WP49,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72938267,-6.084255307",borehole,0,0,unknown,insufficient,01033086081WP50,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.73224322,-6.084695937",borehole,0,0,unknown,insufficient,01033086081WP51,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.74138095,-6.087861352",borehole,0,0,unknown,insufficient,01033086081WP52,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.7388193,-6.087305278",borehole,0,0,unknown,insufficient,01033086081WP53,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.72812211,-6.078875246",borehole,0,0,unknown,insufficient,01033086081WP54,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,none
+functional,Dodoma,Kongwa,Pandambili,"36.73060242,-6.075741166",borehole,0,0,unknown,insufficient,01033086081WP55,salty,submersible,unknown,per bucket,World Bank,Rhobi,vwc,pipe broken
+functional,Dodoma,Kondoa,Pahi,"35.92241253,-4.634230868",borehole,0,0,unknown,enough,01013014021WP60,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.93401455,-4.711922346",spring,0,0,unknown,enough,01013014021WP32,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.92817573,-4.714637366",spring,0,0,unknown,enough,01013014021WP33,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.92097594,-4.719213634",spring,0,0,unknown,insufficient,01013014021WP34,good,gravity,unknown,never pay,AICT,AICT,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91543236,-4.656768432",borehole,0,0,unknown,enough,01013014021WP52,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91074043,-4.648784444",borehole,0,0,unknown,enough,01013014021WP53,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91526172,-4.64737216",borehole,0,0,unknown,enough,01013014021WP54,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91513169,-4.643034707",borehole,0,0,unknown,enough,01013014021WP55,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91478132,-4.640197129",borehole,0,0,unknown,enough,01013014021WP56,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91390503,-4.637285492",borehole,0,0,unknown,enough,01013014021WP57,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91438846,-4.633717601",borehole,0,0,unknown,enough,01013014021WP58,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.91265931,-4.632433274",borehole,0,0,unknown,enough,01013014021WP59,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Pahi,"35.95003977,-4.685634678",spring,0,0,unknown,enough,01013014021WP29,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.24018083,-5.179176193",borehole,0,0,unknown,enough,01013014351WP04,good,other motorpump,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.30303885,-5.23837976",borehole,0,0,unknown,enough,01013014201WP06,good,afridev,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.25084217,-5.172107056",borehole,0,0,unknown,enough,01013014351WP09,good,other motorpump,unknown,never pay,Shule,Shule,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.28050862,-5.197869041",shallow well,0,0,unknown,enough,01013014201WP08,good,swn 80,unknown,never pay,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.2498913,-5.1719169",borehole,0,0,unknown,enough,01013014351WP08,good,other motorpump,unknown,never pay,Shule,Shule,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.23839901,-5.172737173",borehole,0,0,unknown,enough,01013014351WP06,good,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Chemba,Ovada,"35.23821619,-5.168247884",borehole,0,0,unknown,enough,01013014351WP07,good,other motorpump,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.83604845,-6.127423686",borehole,0,0,unknown,enough,01052003121WP07,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.89178731,-6.056509463",borehole,0,0,unknown,enough,01052003121WP29,salty,submersible,unknown,never pay,JWTZ,JWTZ,other,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.81833138,-6.127411872",borehole,0,0,unknown,insufficient,01052003121WP16,good,mono,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.83380306,-6.127816261",borehole,0,0,unknown,insufficient,01052003121WP08,good,submersible,unknown,never pay,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.82097829,-6.137818234",borehole,0,0,unknown,insufficient,01052003121WP18,good,mono,unknown,never pay,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.88451397,-6.064122481",rainwater harvesting,0,0,unknown,insufficient,01052003121WP21,good,gravity,unknown,never pay,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.82403993,-6.133739251",shallow well,0,0,unknown,insufficient,01052003121WP05,good,india mark ii,unknown,per bucket,Baptist Church,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.88392269,-6.056860351",shallow well,0,0,unknown,insufficient,01052003121WP26,salty,nira/tanira,unknown,never pay,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.83552621,-6.127236633",borehole,0,0,unknown,insufficient,01052003121WP06,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.81887496,-6.137886078",borehole,0,0,unknown,insufficient,01052003121WP01,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.81604334,-6.137248189",borehole,0,0,unknown,insufficient,01052003121WP02,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.81953127,-6.136174818",borehole,0,0,unknown,insufficient,01052003121WP03,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Nzuguni,"35.82299651,-6.13641505",borehole,0,0,unknown,insufficient,01052003121WP04,good,submersible,unknown,never pay,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Ntyuka,"35.76019171,-6.228610719",borehole,0,0,unknown,insufficient,01052003183WP01,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Ntyuka,"35.75886359,-6.223567699",borehole,0,0,unknown,insufficient,01052003183WP03,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Ntyuka,"35.7603811,-6.228670498",borehole,0,0,unknown,insufficient,01052003183WP02,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Dodoma Urban,Ntyuka,"35.75863157,-6.218838127",borehole,0,0,unknown,insufficient,01052003183WP05,good,submersible,unknown,per bucket,DUWAS,DUWAS,water authority,none
+functional,Dodoma,Bahi,Nondwa,"35.39036688,-6.402496863",borehole,0,0,unknown,enough,01063101341WP04,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.3892452,-6.406294608",borehole,0,0,unknown,enough,01063101341WP05,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.38633285,-6.408502706",borehole,0,0,unknown,enough,01063101341WP06,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.38204864,-6.413914691",borehole,0,0,unknown,enough,01063101341WP07,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.39583147,-6.398206382",borehole,0,0,unknown,enough,01063101341WP02,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Dodoma Urban,Nondwa,"35.33317079,-6.597331492",borehole,0,0,unknown,enough,01063101541WP02,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Dodoma Urban,Nondwa,"35.37394148,-6.500562613",borehole,0,0,unknown,enough,01063101541WP01,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.37577547,-6.41685525",borehole,0,0,unknown,enough,01063101341WP08,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.3893315,-6.399942406",borehole,0,0,unknown,enough,01063101341WP09,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.39322563,-6.39453874",borehole,0,0,unknown,enough,01063101341WP01,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Nondwa,"35.39358216,-6.399919333",borehole,0,0,unknown,enough,01063101341WP03,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Kongwa,Njoge,"36.68854144,-5.946309313",spring,0,0,unknown,insufficient,01033086061WP13,good,gravity,unknown,per bucket,Water,Commu,vwc,pipe broken
+functional,Dodoma,Kongwa,Njoge,"36.68906767,-5.948528687",spring,0,0,unknown,insufficient,01033086061WP15,good,gravity,unknown,per bucket,Water,Commu,vwc,pipe broken
+functional,Dodoma,Kongwa,Njoge,"36.6894888,-5.949277977",spring,0,0,unknown,insufficient,01033086061WP16,good,gravity,unknown,per bucket,Water,Commu,vwc,pipe broken
+functional,Dodoma,Kongwa,Njoge,"36.68994849,-5.950167503",spring,0,0,unknown,insufficient,01033086061WP17,good,gravity,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Njoge,"36.69143079,-5.955538909",spring,0,0,unknown,insufficient,01033086061WP18,good,gravity,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Njoge,"36.6928176,-5.956084035",spring,0,0,unknown,insufficient,01033086061WP19,good,gravity,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Chamwino,Nhinhi,"35.74589788,-6.580550208",rainwater harvesting,0,0,unknown,insufficient,01043013231WP05_379,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Chamwino,Nhinhi,"35.74589642,-6.580148498",rainwater harvesting,0,0,unknown,insufficient,01043013231WP06_380,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Kongwa,Ngomai,"36.63648022,-6.020083588",borehole,0,0,unknown,enough,01033086061WP05,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.6283601,-5.956322258",borehole,0,0,unknown,insufficient,01033086061WP12,salty,submersible,unknown,per bucket,Commu,Socie,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.63834232,-6.023297056",borehole,0,0,unknown,enough,01033086061WP01,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Ngomai,"36.63382123,-6.01743922",borehole,0,0,unknown,enough,01033086061WP03,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Ngomai,"36.63457442,-6.019791832",borehole,0,0,unknown,enough,01033086061WP04,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Ngomai,"36.64045869,-6.021060222",borehole,0,0,unknown,enough,01033086061WP06,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Ngomai,"36.6412428,-6.023216002",borehole,0,0,unknown,enough,01033086061WP07,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.62890315,-5.937316467",borehole,0,0,unknown,insufficient,01033086061WP08,salty,submersible,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.62703806,-5.934437541",borehole,0,0,unknown,insufficient,01033086061WP09,salty,submersible,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.62870394,-6.015593093",borehole,0,0,unknown,enough,01033086061WP02,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.62687464,-5.937881223",borehole,0,0,unknown,insufficient,01033086061WP10,salty,submersible,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Ngomai,"36.62931579,-5.938679869",borehole,0,0,unknown,insufficient,01033086061WP11,salty,submersible,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.80709438,-6.30304429",spring,0,0,unknown,insufficient,01033086091WP07,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82542974,-6.303957022",spring,0,0,unknown,insufficient,01033086091WP01,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82458917,-6.264647666",spring,0,0,unknown,insufficient,01033086091WP25,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82563572,-6.264110202",spring,0,0,unknown,insufficient,01033086091WP24,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.83581954,-6.259521557",spring,0,0,unknown,insufficient,01033086091WP17,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82592337,-6.311997733",spring,0,0,unknown,insufficient,01033086091WP12,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82680359,-6.317712534",spring,0,0,unknown,insufficient,01033086091WP16,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.8272732,-6.265197914",spring,0,0,unknown,insufficient,01033086091WP23,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.81535874,-6.306211521",spring,0,0,unknown,insufficient,01033086091WP04,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.81014752,-6.300328297",spring,0,0,unknown,insufficient,01033086091WP05,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.82828132,-6.313898971",spring,0,0,unknown,insufficient,01033086091WP09,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.8269262,-6.313544563",spring,0,0,unknown,insufficient,01033086091WP10,good,gravity,unknown,annually,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Nghumbi,"36.81168866,-6.268930122",spring,0,0,unknown,insufficient,01033086091WP26,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.8262755,-6.311654752",spring,0,0,unknown,insufficient,01033086091WP11,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.83575034,-6.261022091",spring,0,0,unknown,insufficient,01033086091WP19,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Nghumbi,"36.83537818,-6.264372169",spring,0,0,unknown,insufficient,01033086091WP20,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Chamwino,Nghambi,"36.35349008,-6.221930866",rainwater harvesting,0,0,unknown,seasonal,01010230150102151WP20,good,gravity,unknown,never pay,Anglican Church,ANGLI,other,none
+functional,Dodoma,Dodoma Urban,Nghambi,"36.34993318,-6.228150112",borehole,0,0,unknown,enough,01010230150102151WP24,salty,wind-powered,unknown,per bucket,ITALI,ITALI,private operator,none
+functional,Dodoma,Mpwapwa,Nghambi,"36.35346335,-6.224511333",rainwater harvesting,0,0,unknown,seasonal,01010230150102151WP23,good,nira/tanira,unknown,never pay,CMSR,CMSR,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.36017919,-6.220872795",shallow well,0,0,unknown,enough,01010230150102151WP22,salty,nira/tanira,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.35396378,-6.223935082",rainwater harvesting,0,0,unknown,seasonal,01010230150102151WP21,good,gravity,unknown,never pay,Anglican Church,ANGLI,other,none
+functional,Dodoma,Chamwino,Nghambi,"36.23769402,-6.16365631",shallow well,0,0,unknown,enough,01010230150102151WP31,salty,nira/tanira,unknown,per bucket,Anglican Church,ANGLI,vwc,none
+functional,Dodoma,Bahi,Nghambi,"36.34938644,-6.223976254",rainwater harvesting,0,0,unknown,seasonal,01010230150102151WP25,good,gravity,unknown,never pay,Anglican Church,ANGLI,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.24080863,-6.161882416",shallow well,0,0,unknown,enough,01010230150102151WP29,salty,nira/tanira,unknown,never pay,Anglican Church,ANGLI,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.2584972,-6.193751419",rainwater harvesting,0,0,unknown,seasonal,01010230150102151WP28,good,gravity,unknown,never pay,Anglican Church,ANGLI,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.26625333,-6.185227549",borehole,0,0,unknown,insufficient,01010230150102151WP27,good,wind-powered,unknown,per bucket,ITALI,ITALI,vwc,none
+functional,Dodoma,Chamwino,Nghambi,"36.32462551,-6.217511268",borehole,0,0,unknown,insufficient,01010230150102151WP26,salty,nira/tanira,unknown,never pay,Anglican Church,ANGLI,vwc,none
+functional,Dodoma,Chamwino,Nghambaku,"35.63084592,-6.848035385",borehole,0,0,unknown,insufficient,01043013261WP04_417,good,submersible,unknown,per bucket,KOICA,COICA,vwc,none
+functional,Dodoma,Chamwino,Nghambaku,"35.62943274,-6.854162741",borehole,0,0,unknown,insufficient,01043013261WP06_419,good,submersible,unknown,per bucket,KOICA,KOICA,vwc,none
+functional,Dodoma,Chamwino,Nghambaku,"35.6267769,-6.853244499",borehole,0,0,unknown,insufficient,01043013261WP05_418,good,submersible,unknown,per bucket,KOICA,KOICA,vwc,none
+functional,Dodoma,Chamwino,Nghambaku,"35.63468119,-6.839911877",borehole,0,0,unknown,insufficient,01043013261WP03_416,good,submersible,unknown,per bucket,KOICA,KOICA,vwc,none
+functional,Dodoma,Chamwino,Nghambaku,"35.63623028,-6.925587641",borehole,0,0,unknown,insufficient,01043013261WP01_414,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Dodoma Urban,Ngh'ongh'onha,"35.82850919,-6.247293955",shallow well,0,0,unknown,insufficient,01052003161WP01,good,india mark ii,unknown,never pay,Baptist Church,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Ngh'ongh'onha,"35.83847708,-6.238579458",borehole,0,0,unknown,insufficient,01052003161WP09,good,wind-powered,unknown,per bucket,Dioce,Commu,private operator,none
+functional,Dodoma,Bahi,Mwitikira,"35.6626932,-6.517049666",borehole,0,0,unknown,enough,01063101241WP07,good,mono,unknown,per bucket,World Bank,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Mwitikira,"35.66324098,-6.524037018",borehole,0,0,unknown,enough,01063101241WP08,good,mono,unknown,per bucket,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.66564574,-6.525289849",borehole,0,0,unknown,enough,01063101241WP09,good,mono,unknown,per bucket,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.65776761,-6.532734518",borehole,0,0,unknown,enough,01063101241WP10,good,mono,unknown,per bucket,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.65755782,-6.526272328",borehole,0,0,unknown,enough,01063101241WP11,good,mono,unknown,per bucket,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.66145274,-6.523392211",borehole,0,0,unknown,enough,01063101241WP12,good,mono,unknown,per bucket,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.66099203,-6.523011329",borehole,0,0,unknown,enough,01063101241WP13,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.66175338,-6.521028254",borehole,0,0,unknown,enough,01063101241WP14,good,mono,unknown,monthly,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.66100548,-6.514287298",borehole,0,0,unknown,enough,01063101241WP04,good,mono,unknown,monthly,Government of Tanzania,Gove,vwc,pipe broken
+functional,Dodoma,Bahi,Mwitikira,"35.69376591,-6.624668546",borehole,0,0,unknown,enough,01063101241WP01,good,submersible,unknown,per bucket,BSF,DWE/,vwc,tap broken
+functional,Dodoma,Bahi,Mwitikira,"35.66195101,-6.502184576",borehole,0,0,unknown,enough,01063101241WP06,good,mono,unknown,per bucket,D CT,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.65634159,-6.516969146",borehole,0,0,unknown,enough,01063101241WP03,good,mono,unknown,monthly,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mwitikira,"35.65467681,-6.50466964",borehole,0,0,unknown,enough,01063101241WP05,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Mvumi Mission,"35.90838603,-6.394675813",borehole,0,0,unknown,insufficient,01043087031WP01_434,good,submersible,unknown,per bucket,Government of Tanzania,JACKS,vwc,none
+functional,Dodoma,Bahi,Mvumi Mission,"35.97264617,-6.356166399",borehole,0,0,unknown,insufficient,01043087031WP07_439,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Bahi,Mvumi Mission,"35.89355529,-6.383882958",shallow well,0,0,unknown,insufficient,01043087031WP04_437,good,nira/tanira,unknown,never pay,Government of Tanzania,Marti,vwc,none
+functional,Dodoma,Bahi,Mvumi Mission,"35.92115844,-6.40278148",shallow well,0,0,unknown,insufficient,01043087031WP03_436,good,nira/tanira,unknown,never pay,Government of Tanzania,Marti,vwc,none
+functional,Dodoma,Bahi,Mvumi Mission,"35.90839494,-6.395459928",borehole,0,0,unknown,insufficient,01043087031WP02_435,good,submersible,unknown,per bucket,Government of Tanzania,Jacks,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.8522359,-6.347883614",borehole,0,0,unknown,insufficient,01043013151WP09_268,good,submersible,unknown,per bucket,Government of Tanzania,COMMU,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86390465,-6.339008391",borehole,0,0,unknown,insufficient,01043013151WP13_272,good,wind-powered,unknown,per bucket,CCPS,CCPS,private operator,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84580378,-6.345437134",borehole,0,0,unknown,insufficient,01043013151WP03_262,good,submersible,unknown,never pay,Commu,Commu,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84681011,-6.346352481",borehole,0,0,unknown,insufficient,01043013151WP02_261,good,submersible,unknown,per bucket,Fabia,Fabia,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84700655,-6.344766084",borehole,0,0,unknown,insufficient,01043013151WP07_266,good,submersible,unknown,per bucket,Schoo,TANAS,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84846474,-6.345891577",borehole,0,0,unknown,insufficient,01043013151WP15_274,good,submersible,unknown,per bucket,COMMU,TANAS,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86232601,-6.383076582",shallow well,0,0,unknown,insufficient,01043013151WP35_294,good,nira/tanira,unknown,never pay,Kijij,Musa,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86278255,-6.339505289",borehole,0,0,unknown,insufficient,01043013151WP14_273,good,wind-powered,unknown,per bucket,CPPS,CCPS,private operator,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.85855323,-6.340714927",borehole,0,0,unknown,insufficient,01043013151WP12_271,good,wind-powered,unknown,per bucket,COMMU,TANAS,private operator,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84714851,-6.349134219",borehole,0,0,unknown,insufficient,01043013151WP18_277,good,submersible,unknown,per bucket,COMMU,TANAS,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.8453191,-6.360933658",rainwater harvesting,0,0,unknown,insufficient,01043013151WP24_283,good,gravity,unknown,never pay,SCHOO,SCHOO,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.84994282,-6.361434029",borehole,0,0,unknown,insufficient,01043013151WP25_284,good,submersible,unknown,per bucket,DCT,DCT,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86251365,-6.381846902",shallow well,0,0,unknown,insufficient,01043013151WP34_293,good,nira/tanira,unknown,never pay,Kijij,Musa,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86435469,-6.366667293",shallow well,0,0,unknown,insufficient,01043013151WP30_289,good,nira/tanira,unknown,never pay,Malec,Musa,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.86131531,-6.378573268",shallow well,0,0,unknown,insufficient,01043013151WP32_291,good,nira/tanira,unknown,never pay,Malec,Musa,vwc,none
+functional,Dodoma,Chamwino,Mvumi Makulu,"35.8625125,-6.381162579",shallow well,0,0,unknown,insufficient,01043013151WP33_292,good,nira/tanira,unknown,never pay,Malec,Musa,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.86983204,-6.310056397",borehole,0,0,unknown,insufficient,010430131141WP016_10,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.8717578,-6.314957093",borehole,0,0,unknown,insufficient,010430131141WP018_12,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.87851934,-6.309425079",borehole,0,0,unknown,insufficient,010430131141WP019_13,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.90276074,-6.333666055",borehole,0,0,unknown,insufficient,010430131141WP04_4,good,mono,unknown,per bucket,LVIA,GOVER,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.90486393,-6.33668742",borehole,0,0,unknown,insufficient,010430131141WP03_3,good,submersible,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.90440634,-6.346180894",borehole,0,0,unknown,insufficient,010430131141WP02_2,good,mono,unknown,per bucket,LVIA,ONESM,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.90378268,-6.340668336",borehole,0,0,unknown,insufficient,010430131141WP01_1,good,mono,unknown,per bucket,LVIA,Onesm,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.87983217,-6.297771915",borehole,0,0,unknown,insufficient,010430131141WP020_14,good,other,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.87179267,-6.310665629",borehole,0,0,unknown,insufficient,010430131141WP017_11,good,mono,unknown,per bucket,Umoja,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.86714671,-6.31438177",borehole,0,0,unknown,insufficient,010430131141WP014_8,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.89111674,-6.29289255",borehole,0,0,unknown,insufficient,010430131141WP10_229,good,mono,unknown,per bucket,Private Individual,Linda,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.89967039,-6.285352887",borehole,0,0,unknown,insufficient,010430131141WP09_228,good,mono,unknown,per bucket,Private Individual,Linda,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.89588167,-6.287056034",borehole,0,0,unknown,insufficient,010430131141WP08_227,good,mono,unknown,per bucket,Private Individual,Linda,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.89023986,-6.290462958",borehole,0,0,unknown,insufficient,010430131141WP07_226,good,mono,unknown,never pay,Private Individual,Linda,vwc,none
+functional,Dodoma,Chamwino,Muungano,"35.86743443,-6.31133916",borehole,0,0,unknown,insufficient,010430131141WP015_9,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Bahi,Mundemu,"35.67256754,-5.955842583",borehole,0,0,unknown,enough,01063101451WP03,good,mono,unknown,never pay,Water,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Mundemu,"35.66698926,-5.949029032",borehole,0,0,unknown,enough,01063101451WP04,good,mono,unknown,monthly,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Mundemu,"35.66195376,-5.944490804",borehole,0,0,unknown,enough,01063101451WP06,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Mundemu,"35.68429104,-5.924650158",shallow well,0,0,unknown,enough,01063101451WP10,good,nira/tanira,unknown,never pay,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mundemu,"35.68428707,-5.923575974",rainwater harvesting,0,0,unknown,enough,01063101451WP12,good,other,unknown,never pay,BSF,Gove,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89027851,-6.172391166",borehole,0,0,unknown,insufficient,01052003141WP40,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.88925876,-6.167335261",borehole,0,0,unknown,insufficient,01052003141WP28,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.88679604,-6.16856311",borehole,0,0,unknown,insufficient,01052003141WP29,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.88559075,-6.169298424",borehole,0,0,unknown,insufficient,01052003141WP30,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89108428,-6.165637425",borehole,0,0,unknown,insufficient,01052003141WP37,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89167919,-6.170100163",borehole,0,0,unknown,insufficient,01052003141WP38,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89298624,-6.166421851",borehole,0,0,unknown,insufficient,01052003141WP41,salty,mono,unknown,monthly,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89324958,-6.164049553",borehole,0,0,unknown,insufficient,01052003141WP45,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89936678,-6.161569277",borehole,0,0,unknown,insufficient,01052003141WP48,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.9113134,-6.165666514",borehole,0,0,unknown,insufficient,01052003141WP49,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.8995764,-6.158824554",shallow well,0,0,unknown,enough,01052003141WP51,good,india mark ii,unknown,never pay,Baptist Church,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89378771,-6.15476308",borehole,0,0,unknown,insufficient,01052003141WP52,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89483757,-6.153288119",borehole,0,0,unknown,insufficient,01052003141WP54,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89040839,-6.142550332",borehole,0,0,unknown,insufficient,01052003141WP63,salty,mono,unknown,monthly,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89965268,-6.153738696",borehole,0,0,unknown,insufficient,01052003141WP64,salty,mono,unknown,monthly,Water,MWE &,vwc,none
+functional,Dodoma,Dodoma Urban,Mtumba,"35.89239322,-6.16701484",borehole,0,0,unknown,insufficient,01052003141WP27,salty,mono,unknown,per bucket,Water,MWE &,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.54322531,-6.451903635",borehole,0,0,unknown,enough,01063101321WP13,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.54247456,-6.461968464",borehole,0,0,unknown,enough,01063101321WP11,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.54167655,-6.464256668",rainwater harvesting,0,0,unknown,enough,01063101321WP10,good,gravity,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.54171524,-6.464109994",borehole,0,0,unknown,enough,01063101321WP09,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.58216496,-6.4343597",borehole,0,0,unknown,enough,01063101321WP08,good,mono,unknown,monthly,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.59143926,-6.437045362",borehole,0,0,unknown,enough,01063101321WP04,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.59475269,-6.436229145",borehole,0,0,unknown,enough,01063101321WP03,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Mtitaa,"35.59538597,-6.439562701",borehole,0,0,unknown,enough,01063101321WP02,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.59964599,-6.437085282",borehole,0,0,unknown,enough,01063101321WP01,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.59212584,-6.439146755",borehole,0,0,unknown,enough,01063101321WP05,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.58548208,-6.439503278",borehole,0,0,unknown,enough,01063101321WP07,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mtitaa,"35.58984519,-6.437985447",borehole,0,0,unknown,enough,01063101321WP06,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.99898028,-7.024766175",borehole,0,0,unknown,insufficient,01010230150102101WP42,salty,submersible,unknown,never pay,Quick,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.97427535,-7.109205821",borehole,0,0,unknown,enough,01010230150102101WP32,salty,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.97527716,-7.106864888",borehole,0,0,unknown,enough,01010230150102101WP33,salty,submersible,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.97045091,-7.10898215",borehole,0,0,unknown,enough,01010230150102101WP34,salty,submersible,unknown,never pay,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.9724931,-7.110871012",borehole,0,0,unknown,enough,01010230150102101WP35,salty,submersible,unknown,per bucket,World Bank,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Mtera,"35.96751759,-7.105170361",borehole,0,0,unknown,enough,01010230150102101WP36,salty,submersible,unknown,never pay,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.99755356,-7.028184259",borehole,0,0,unknown,enough,01010230150102101WP39,salty,submersible,unknown,never pay,Quick,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mtera,"35.97800484,-7.106399717",borehole,0,0,unknown,enough,01010230150102101WP31,salty,submersible,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kongwa,Mtanana,"36.58103974,-6.051972556",borehole,0,0,unknown,insufficient,01033086071WP17,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.58656756,-6.059485364",borehole,0,0,unknown,insufficient,01033086071WP13,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.58637259,-6.057982579",borehole,0,0,unknown,insufficient,01033086071WP12,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.58686663,-6.051062564",borehole,0,0,unknown,insufficient,01033086071WP11,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.57214713,-6.038861088",borehole,0,0,unknown,insufficient,01033086071WP09,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.57282631,-6.040318396",borehole,0,0,unknown,insufficient,01033086071WP08,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.57302071,-6.041537917",borehole,0,0,unknown,insufficient,01033086071WP07,salty,mono,unknown,per bucket,Water,Commu,private operator,none
+functional,Dodoma,Kongwa,Mtanana,"36.58706723,-6.079523516",borehole,0,0,unknown,enough,01033086071WP02,good,submersible,unknown,per bucket,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.5869123,-6.079532459",borehole,0,0,unknown,enough,01033086071WP01,good,submersible,unknown,per bucket,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.58894787,-6.060388385",borehole,0,0,unknown,insufficient,01033086071WP14,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Mtanana,"36.59730445,-6.052705425",borehole,0,0,unknown,insufficient,01033086071WP15,salty,mono,unknown,per bucket,Water,Commu,private operator,tap broken
+functional,Dodoma,Bahi,Msisi,"35.64323889,-5.841554988",borehole,0,0,unknown,enough,01063101461WP02,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.69552087,-5.86131556",borehole,0,0,unknown,enough,01063101461WP15,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.69467676,-5.868612151",borehole,0,0,unknown,enough,01063101461WP14,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.69479438,-5.864529258",borehole,0,0,unknown,enough,01063101461WP13,good,mono,unknown,per bucket,,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Msisi,"35.69063187,-5.83279364",borehole,0,0,unknown,enough,01063101461WP12,good,mono,unknown,per bucket,BSF,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Msisi,"35.62235822,-5.839635776",borehole,0,0,unknown,enough,01063101461WP09,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.62232321,-5.83121791",borehole,0,0,unknown,enough,01063101461WP07,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.61186267,-5.856809231",borehole,0,0,unknown,enough,01063101461WP05,good,mono,unknown,per bucket,Water,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Msisi,"35.63117877,-5.843612063",borehole,0,0,unknown,enough,01063101461WP04,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.63763998,-5.843518155",borehole,0,0,unknown,enough,01063101461WP03,good,mono,unknown,monthly,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.69067926,-5.853238902",borehole,0,0,unknown,enough,01063101461WP16,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Msisi,"35.69504433,-5.85086273",borehole,0,0,unknown,enough,01063101461WP17,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.09868474,-6.269828901",shallow well,0,0,unknown,insufficient,01043013121WP13_242,good,nira/tanira,unknown,never pay,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.11179024,-6.277293507",borehole,0,0,unknown,insufficient,01043013121WP15_244,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.11505595,-6.279268029",borehole,0,0,unknown,insufficient,01043013121WP16_245,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.11867467,-6.277633318",borehole,0,0,unknown,insufficient,01043013121WP17_246,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.12426643,-6.278311107",borehole,0,0,unknown,insufficient,01043013121WP19_248,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Msamalo,"36.12424749,-6.2681859",borehole,0,0,unknown,insufficient,01043013121WP23_252,good,wind-powered,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chemba,Mrijo,"36.287005,-5.179185194",borehole,0,0,unknown,enough,01013014101WP05,good,mono,unknown,per bucket,Commu,Commu,vwc,none
+functional,Dodoma,Chemba,Mrijo,"36.29272404,-5.177332721",borehole,0,0,unknown,enough,01013014101WP06,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.58657601,-6.707912054",borehole,0,0,unknown,insufficient,01043013251WP08_407,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.6694317,-6.759320962",borehole,0,0,unknown,insufficient,01043013251WP14_413,good,mono,unknown,per bucket,KOICA,KOCA,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.61900101,-6.601030076",borehole,0,0,unknown,insufficient,01043013251WP01_400,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.59907503,-6.705102969",borehole,0,0,unknown,insufficient,01043013251WP03_402,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.66749033,-6.748736665",borehole,0,0,unknown,insufficient,01043013251WP12_411,good,submersible,unknown,per bucket,KOICA,KOICA,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.67522325,-6.74698782",borehole,0,0,unknown,insufficient,01043013251WP13_412,good,mono,unknown,per bucket,KOICA,KOICA,vwc,none
+functional,Dodoma,Chamwino,Mpwayungu,"35.59217004,-6.709689084",borehole,0,0,unknown,insufficient,01043013251WP07_406,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.77512531,-6.389629285",shallow well,0,0,unknown,insufficient,01052003171WP24,colored,india mark ii,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.75256216,-6.402561254",shallow well,0,0,unknown,insufficient,01052003171WP21,good,nira/tanira,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.74312695,-6.372128145",shallow well,0,0,unknown,insufficient,01052003171WP20,good,india mark ii,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.75845762,-6.31404702",borehole,0,0,unknown,enough,01052003171WP30,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.75457603,-6.331263723",borehole,0,0,unknown,enough,01052003171WP34,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.74682323,-6.331068108",borehole,0,0,unknown,enough,01052003171WP45,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.74409544,-6.371633459",rainwater harvesting,0,0,unknown,insufficient,01052003171WP17,good,other,unknown,never pay,Commu,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.7502247,-6.323133596",borehole,0,0,unknown,enough,01052003171WP40,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.74603783,-6.323029",borehole,0,0,unknown,enough,01052003171WP43,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.74618098,-6.326578954",borehole,0,0,unknown,enough,01052003171WP44,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.75931043,-6.315871686",borehole,0,0,unknown,enough,01052003171WP29,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mpunguzi,"35.76080557,-6.331264147",borehole,0,0,unknown,enough,01052003171WP33,good,mono,unknown,per bucket,World Bank,Commu,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.38818354,-5.646451407",borehole,0,0,unknown,insufficient,01013014171WP11,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Kondoa,Mpendo,"35.35303158,-5.661542177",borehole,0,0,unknown,enough,01013014171WP05,good,mono,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.39538509,-5.66348588",borehole,0,0,unknown,insufficient,01013014171WP13,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Chemba,Mpendo,"35.25677173,-5.565090401",borehole,0,0,unknown,enough,01013014171WP01,salty,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Mpendo,"35.25606841,-5.566698443",borehole,0,0,unknown,enough,01013014171WP02,salty,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.4033628,-5.656706342",borehole,0,0,unknown,insufficient,01013014171WP12,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Chemba,Mpendo,"35.25522073,-5.568418953",borehole,0,0,unknown,enough,01013014171WP03,salty,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.35253052,-5.662899846",borehole,0,0,unknown,enough,01013014171WP04,good,mono,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.40284667,-5.649071736",borehole,0,0,unknown,insufficient,01013014171WP09,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Kondoa,Mpendo,"35.40082696,-5.649093923",borehole,0,0,unknown,insufficient,01013014171WP10,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Kondoa,Mpendo,"35.40967851,-5.646673672",borehole,0,0,unknown,insufficient,01013014171WP08,salty,mono,unknown,never pay,World Bank,DWE,vwc,tank out of use
+functional,Dodoma,Kondoa,Mpendo,"35.35571076,-5.650966169",borehole,0,0,unknown,enough,01013014171WP07,good,mono,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Mpendo,"35.35410679,-5.661304566",borehole,0,0,unknown,enough,01013014171WP06,good,mono,unknown,per bucket,DED,DWE,vwc,none
+functional,Dodoma,Bahi,Mpamantwa,"35.38335649,-5.979428969",shallow well,0,0,unknown,enough,01063101391WP03,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,pipe broken
+functional,Dodoma,Bahi,Mpamantwa,"35.3850441,-5.985305058",rainwater harvesting,0,0,unknown,enough,01063101391WP04,good,gravity,unknown,never pay,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mpamantwa,"35.36672938,-5.902811163",shallow well,0,0,unknown,enough,01063101391WP05,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Mpamantwa,"35.34946329,-6.047836555",rainwater harvesting,0,0,unknown,enough,01063101391WP01,good,gravity,unknown,never pay,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Mpamantwa,"35.38629601,-5.955472753",shallow well,0,0,unknown,enough,01063101391WP02,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.48287631,-6.339062317",borehole,0,0,unknown,enough,01063101301WP05,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.45793732,-6.354010047",borehole,0,0,unknown,enough,01063101301WP07,good,wind-powered,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.45167849,-6.361563326",rainwater harvesting,0,0,unknown,seasonal,01063101301WP08,good,nira/tanira,unknown,never pay,CPPS,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.51017232,-6.285155852",rainwater harvesting,0,0,unknown,seasonal,01063101301WP02,good,nira/tanira,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.45741703,-6.353115966",borehole,0,0,unknown,enough,01063101301WP06,good,wind-powered,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.43762983,-6.364042781",borehole,0,0,unknown,enough,01063101301WP10,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.45153944,-6.361271103",rainwater harvesting,0,0,unknown,seasonal,01063101301WP09,good,nira/tanira,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Mpalanga,"35.51036731,-6.285036642",rainwater harvesting,0,0,unknown,seasonal,01063101301WP01,good,nira/tanira,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Chemba,Mondo,"35.92230259,-4.989843813",shallow well,0,0,unknown,enough,01013014071WP05,good,nira/tanira,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Mondo,"35.89007436,-5.023121079",borehole,0,0,unknown,enough,01013014071WP02,good,mono,unknown,never pay,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.8689183,-4.69051901",spring,0,0,unknown,enough,01013014271WP11,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.85506461,-4.642591339",borehole,0,0,unknown,insufficient,01013014271WP21,good,mono,unknown,per bucket,DWE,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.85837259,-4.647906302",spring,0,0,unknown,enough,01013014271WP23,good,gravity,unknown,monthly,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.85696992,-4.652596304",spring,0,0,unknown,insufficient,01013014271WP24,good,gravity,unknown,monthly,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.85846971,-4.655302598",spring,0,0,unknown,insufficient,01013014271WP25,good,gravity,unknown,monthly,Kirde,DWE,vwc,none
+functional,Dodoma,Chemba,Mnenia,"35.90262189,-4.629517601",borehole,0,0,unknown,insufficient,01013014271WP30,good,mono,unknown,per bucket,Water,DWE,vwc,pipe broken
+functional,Dodoma,Chemba,Mnenia,"35.90017905,-4.632057134",borehole,0,0,unknown,insufficient,01013014271WP32,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Mnenia,"35.89556988,-4.635796142",borehole,0,0,unknown,enough,01013014271WP33,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Mnenia,"35.88782952,-4.630637575",borehole,0,0,unknown,enough,01013014271WP35,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Mnenia,"35.87985901,-4.607240787",borehole,0,0,unknown,enough,01013014271WP36,good,mono,unknown,per bucket,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.86694769,-4.678458273",spring,0,0,unknown,enough,01013014271WP07,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.86724499,-4.680764223",spring,0,0,unknown,enough,01013014271WP08,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.86553905,-4.682827995",spring,0,0,unknown,enough,01013014271WP09,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.86770106,-4.690237441",spring,0,0,unknown,enough,01013014271WP10,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Mnenia,"35.8696589,-4.693640812",spring,0,0,unknown,enough,01013014271WP14,good,gravity,unknown,never pay,Kirde,DWE,vwc,tap broken
+functional,Dodoma,Kondoa,Mnenia,"35.86882754,-4.696213027",spring,0,0,unknown,enough,01013014271WP16,good,gravity,unknown,never pay,CMSR,DWE,vwc,none
+functional,Dodoma,Chemba,Mnenia,"35.8287782,-4.615647787",borehole,0,0,unknown,insufficient,01013014271WP27,salty,mono,unknown,per bucket,Kirde,DWE,vwc,engine broken
+functional,Dodoma,Chemba,Mnenia,"35.89155746,-4.639941315",borehole,0,0,unknown,enough,01013014271WP34,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.2235168,-6.733655676",borehole,0,0,unknown,enough,01010230150102111WP29,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.18695038,-6.725097227",borehole,0,0,unknown,enough,01010230150102111WP32,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.17907887,-6.723056067",borehole,0,0,unknown,enough,01010230150102111WP33,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.18107383,-6.719018888",borehole,0,0,unknown,enough,01010230150102111WP34,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.17346006,-6.711445144",borehole,0,0,unknown,enough,01010230150102111WP35,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.17198813,-6.709954349",borehole,0,0,unknown,enough,01010230150102111WP37,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.16636766,-6.708060804",shallow well,0,0,unknown,insufficient,01010230150102111WP38,good,nira/tanira,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.19513988,-6.792968789",rainwater harvesting,0,0,unknown,seasonal,01010230150102111WP02,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.11567488,-6.870419892",spring,0,0,unknown,enough,01010230150102111WP04,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.18733461,-6.731536751",borehole,0,0,unknown,insufficient,01010230150102111WP31,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.22226626,-6.737471227",borehole,0,0,unknown,insufficient,01010230150102111WP28,good,submersible,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mlunduzi,"36.22612675,-6.724907601",borehole,0,0,unknown,insufficient,01010230150102111WP30,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Chamwino,Mlowa Bwawani,"35.82199941,-6.600578917",borehole,0,0,unknown,insufficient,01043013231WP26_399,good,submersible,unknown,per bucket,RC,RC,private operator,none
+functional,Dodoma,Chamwino,Mlowa Bwawani,"35.7464199,-6.686490571",borehole,0,0,unknown,insufficient,01043013231WP13_387,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Mlowa Bwawani,"35.81342539,-6.598586075",shallow well,0,0,unknown,insufficient,01043013231WP20_393,good,nira/tanira,unknown,never pay,RC,RC,vwc,none
+functional,Dodoma,Chamwino,Mlowa Bwawani,"35.81918568,-6.589641895",shallow well,0,0,unknown,insufficient,01043013231WP18_391,good,india mark ii,unknown,per bucket,TAG,TAG,vwc,none
+functional,Dodoma,Kongwa,Mlali,"36.77238907,-6.299561008",spring,0,0,unknown,insufficient,01033086091WP39,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.77916643,-6.305357835",spring,0,0,unknown,insufficient,01033086091WP41,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.76355094,-6.301532375",spring,0,0,unknown,enough,01033086091WP49,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.76951817,-6.313234033",spring,0,0,unknown,insufficient,01033086091WP50,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74818653,-6.297040379",spring,0,0,unknown,insufficient,01033086091WP29,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74939009,-6.294956746",spring,0,0,unknown,enough,01033086091WP28,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74290564,-6.29266148",spring,0,0,unknown,insufficient,01033086091WP34,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74300308,-6.28862682",spring,0,0,unknown,insufficient,01033086091WP35,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.76343656,-6.288428674",spring,0,0,unknown,insufficient,01033086091WP45,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74700861,-6.29096479",spring,0,0,unknown,insufficient,01033086091WP36,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74992891,-6.284374687",spring,0,0,unknown,insufficient,01033086091WP37,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,none
+functional,Dodoma,Kongwa,Mlali,"36.749879,-6.294623565",spring,0,0,unknown,insufficient,01033086091WP31,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74945508,-6.293085065",spring,0,0,unknown,insufficient,01033086091WP38,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.74739727,-6.29841426",spring,0,0,unknown,enough,01033086091WP30,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.76304844,-6.300204843",spring,0,0,unknown,insufficient,01033086091WP47,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.7583806,-6.292118876",spring,0,0,unknown,insufficient,01033086091WP46,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.76927285,-6.297510373",spring,0,0,unknown,insufficient,01033086091WP44,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.75449483,-6.297228092",spring,0,0,unknown,enough,01033086091WP33,good,gravity,unknown,never pay,Government of Tanzania,DWE,vwc,none
+functional,Dodoma,Kongwa,Mlali,"36.77049036,-6.288554504",spring,0,0,unknown,insufficient,01033086091WP43,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Mlali,"36.77270489,-6.306294104",spring,0,0,unknown,insufficient,01033086091WP42,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Dodoma Urban,Mkonze,"35.66829887,-6.195174498",shallow well,0,0,unknown,insufficient,01052003221WP25,colored,nira/tanira,unknown,never pay,World Bank,World,vwc,none
+functional,Dodoma,Dodoma Urban,Mkonze,"35.72075059,-6.20786368",shallow well,0,0,unknown,seasonal,01052003221WP15,colored,india mark ii,unknown,per bucket,TZ as,TZ as,other,none
+functional,Dodoma,Dodoma Urban,Mkonze,"35.67519264,-6.205667292",borehole,0,0,unknown,insufficient,01052003221WP16,good,mono,unknown,per bucket,Water,MWE &,private operator,none
+functional,Dodoma,Dodoma Urban,Mkonze,"35.67644606,-6.20760116",rainwater harvesting,0,0,unknown,insufficient,01052003221WP18,good,gravity,unknown,never pay,Water,MWE &,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.12600442,-6.550167192",rainwater harvesting,0,0,unknown,seasonal,01010230150102131WP31,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.12839082,-6.660864822",spring,0,0,unknown,enough,01010230150102131WP08,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.13015074,-6.656323014",spring,0,0,unknown,insufficient,01010230150102131WP09,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.13031541,-6.655710988",spring,0,0,unknown,enough,01010230150102131WP10,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.12751398,-6.657221622",spring,0,0,unknown,enough,01010230150102131WP12,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.13034356,-6.668256998",spring,0,0,unknown,enough,01010230150102131WP13,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mima,"36.09861562,-6.585616785",borehole,0,0,unknown,enough,01010230150102131WP25,good,submersible,unknown,per bucket,World Bank,Local,private operator,none
+functional,Dodoma,Mpwapwa,Mima,"36.09527761,-6.586300484",borehole,0,0,unknown,enough,01010230150102131WP26,good,submersible,unknown,per bucket,World Bank,Local,private operator,none
+functional,Dodoma,Mpwapwa,Mima,"36.14213232,-6.668392415",spring,0,0,unknown,enough,01010230150102131WP11,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Chamwino,Membe,"36.19237731,-5.87312054",borehole,0,0,unknown,insufficient,01043013051WP01_109,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.63881912,-6.943293956",shallow well,0,0,unknown,enough,01010230150102161WP01,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.63842837,-6.943602909",shallow well,0,0,unknown,enough,01010230150102161WP02,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.64282413,-6.951073682",shallow well,0,0,unknown,enough,01010230150102161WP04,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.60122739,-6.976856508",shallow well,0,0,unknown,enough,01010230150102161WP27,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.60954434,-6.981735222",shallow well,0,0,unknown,enough,01010230150102161WP10,colored,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.598053,-7.016050332",shallow well,0,0,unknown,enough,01010230150102161WP30,good,nira/tanira,unknown,never pay,Local,Local,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.60873811,-6.981318442",shallow well,0,0,unknown,enough,01010230150102161WP09,colored,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.60972374,-6.975904642",shallow well,0,0,unknown,enough,01010230150102161WP08,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.6362465,-6.90942963",shallow well,0,0,unknown,enough,01010230150102161WP00,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mbuga,"36.6145519,-6.958349748",shallow well,0,0,unknown,enough,01010230150102161WP05,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Dodoma Urban,Mbalawala,"35.65713817,-6.025915348",shallow well,0,0,unknown,enough,01052003301WP13,salty,nira/tanira,unknown,never pay,Dioce,Commu,other,none
+functional,Dodoma,Dodoma Urban,Mbalawala,"35.68356504,-6.057412192",shallow well,0,0,unknown,enough,01052003301WP14,good,nira/tanira,unknown,never pay,Dioce,Commu,other,none
+functional,Dodoma,Dodoma Urban,Mbalawala,"35.67831764,-6.030299215",borehole,0,0,unknown,insufficient,01052003301WP15,good,wind-powered,unknown,per bucket,Government of Tanzania,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mbabala,"35.60099239,-6.291689237",shallow well,0,0,unknown,insufficient,01052003231WP23,colored,india mark ii,unknown,never pay,Baptist Church,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mbabala,"35.5830246,-6.316300752",shallow well,0,0,unknown,insufficient,01052003231WP02,colored,nira/tanira,unknown,never pay,Trach,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mbabala,"35.58848995,-6.303407243",shallow well,0,0,unknown,insufficient,01052003231WP04,salty,india mark ii,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Mbabala,"35.61510207,-6.289806975",shallow well,0,0,unknown,insufficient,01052003231WP21,colored,nira/tanira,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.4621909,-6.343106886",spring,0,0,unknown,enough,01010230150102011WP01,good,submersible,unknown,per bucket,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.45549909,-6.342026722",spring,0,0,unknown,enough,01010230150102011WP03,good,submersible,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.45415433,-6.355492068",spring,0,0,unknown,enough,01010230150102011WP05,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.45843007,-6.333047486",spring,0,0,unknown,enough,01010230150102011WP08,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.45863455,-6.344009425",spring,0,0,unknown,enough,01010230150102011WP02,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.41079309,-6.447117242",shallow well,0,0,unknown,enough,01010230150102011WP30,salty,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.46090266,-6.328203892",spring,0,0,unknown,enough,01010230150102011WP07,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Mazae,"36.46210229,-6.335619865",spring,0,0,unknown,enough,01010230150102011WP06,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kongwa,Matongoro,"36.47183368,-5.823927636",borehole,0,0,unknown,insufficient,01033086051WP22,salty,submersible,unknown,per bucket,Commu,Gover,private operator,none
+functional,Dodoma,Kongwa,Matongoro,"36.48602606,-5.743619716",borehole,0,0,unknown,insufficient,01033086051WP07,salty,mono,unknown,per bucket,LVIA,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Matongoro,"36.47180381,-5.823811218",borehole,0,0,unknown,insufficient,01033086051WP21,salty,submersible,unknown,per bucket,Commu,Gover,private operator,tap broken
+functional,Dodoma,Mpwapwa,Matomondo,"36.7170223,-6.438206793",spring,0,0,unknown,enough,010010230150102031WP08,good,gravity,unknown,never pay,World Bank,World,vwc,tap broken
+functional,Dodoma,Mpwapwa,Matomondo,"36.71146096,-6.448997105",shallow well,0,0,unknown,enough,010010230150102031WP01,salty,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Matomondo,"36.63182059,-6.452733839",shallow well,0,0,unknown,enough,010010230150102031WP23,salty,nira/tanira,unknown,per bucket,LISA,Gover,private operator,none
+functional,Dodoma,Mpwapwa,Massa,"36.41328924,-6.966431678",spring,0,0,unknown,enough,01010230150102081WP16,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.40925646,-6.969397404",spring,0,0,unknown,enough,01010230150102081WP15,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.39803562,-6.969987486",spring,0,0,unknown,enough,01010230150102081WP09,good,gravity,unknown,annually,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.35915326,-7.020655779",spring,0,0,unknown,enough,01010230150102081WP06,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.36321115,-7.016214657",spring,0,0,unknown,insufficient,01010230150102081WP00,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Massa,"36.3580227,-7.022543817",spring,0,0,unknown,enough,01010230150102081WP04,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.35843431,-7.021562818",spring,0,0,unknown,enough,01010230150102081WP03,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.3599666,-7.020754859",spring,0,0,unknown,insufficient,01010230150102081WP02,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Massa,"36.36166158,-7.01632882",spring,0,0,unknown,insufficient,01010230150102081WP01,good,gravity,unknown,annually,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Massa,"36.35824062,-7.041123821",spring,0,0,unknown,enough,01010230150102081WP05,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.81050729,-4.601610873",spring,0,0,unknown,enough,01013014291WP06,good,gravity,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84293994,-4.573120986",spring,0,0,unknown,enough,01013014291WP22,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84327316,-4.579724537",spring,0,0,unknown,enough,01013014291WP20,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84343719,-4.583297851",spring,0,0,unknown,insufficient,01013014291WP19,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84456525,-4.587213895",spring,0,0,unknown,insufficient,01013014291WP18,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.8448034,-4.573667522",spring,0,0,unknown,enough,01013014291WP24,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.8016286,-4.598336574",spring,0,0,unknown,enough,01013014291WP14,good,gravity,unknown,never pay,Shule,Shule,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.80490014,-4.596410826",spring,0,0,unknown,enough,01013014291WP13,good,gravity,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84922526,-4.573390031",spring,0,0,unknown,enough,01013014291WP25,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.81158475,-4.596017036",spring,0,0,unknown,enough,01013014291WP09,good,gravity,unknown,never pay,Commu,Commu,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.80961376,-4.597397219",spring,0,0,unknown,enough,01013014291WP08,good,gravity,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.84641974,-4.562035267",spring,0,0,unknown,enough,01013014291WP26,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.80769852,-4.599777358",spring,0,0,unknown,enough,01013014291WP05,good,gravity,unknown,never pay,CCM,Commu,vwc,none
+functional,Dodoma,Kondoa,Masange,"35.80752399,-4.59925346",spring,0,0,unknown,insufficient,01013014291WP04,good,gravity,unknown,never pay,Government of Tanzania,Centr,vwc,tap broken
+functional,Dodoma,Chamwino,Manzase,"35.91798652,-6.627954841",borehole,0,0,unknown,insufficient,01043013211WP07_371,salty,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Manzase,"35.88475745,-6.689406754",rainwater harvesting,0,0,unknown,insufficient,01043013211WP06_370,good,other,unknown,unknown,Government of Tanzania,COMMU,vwc,none
+functional,Dodoma,Chamwino,Manda,"35.31290169,-6.779812872",borehole,0,0,unknown,insufficient,01043013281WP01_421,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.1581229,-6.135132593",rainwater harvesting,0,0,unknown,insufficient,01043013101WP26_197,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.1633624,-6.132740716",borehole,0,0,unknown,insufficient,01043013101WP24_195,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.27137039,-6.118176544",shallow well,0,0,unknown,insufficient,01043013101WP01_172,good,nira/tanira,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.20722572,-6.125566722",shallow well,0,0,unknown,insufficient,01043013101WP03_174,good,nira/tanira,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.16710396,-6.137485705",rainwater harvesting,0,0,unknown,insufficient,01043013101WP30_201,good,other,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.22788354,-6.162124059",borehole,0,0,unknown,insufficient,01043013101WP07_178,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Manchali,"36.1516465,-6.137492806",shallow well,0,0,unknown,insufficient,01043013101WP28_199,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.43526861,-7.225508531",shallow well,0,0,unknown,enough,01010230150102091WP26,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.41844971,-7.229145192",shallow well,0,0,unknown,enough,01010230150102091WP23,colored,nira/tanira,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.42909418,-7.220460248",shallow well,0,0,unknown,enough,01010230150102091WP24,colored,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.51392259,-7.277995891",shallow well,0,0,unknown,enough,01010230150102091WP38,salty,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Chato,Malolo,"36.74919607,-7.286489522",river/lake,300,120,2002,enough,05013044243WP34_1060,good,gravity,unknown,on failure,St,St,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.51640562,-7.300481568",shallow well,0,0,unknown,insufficient,01010230150102091WP35,salty,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.36333678,-7.297600472",shallow well,0,0,unknown,enough,01010230150102091WP31,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.36144449,-7.290919153",shallow well,0,0,unknown,insufficient,01010230150102091WP29,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.43450991,-7.226814323",shallow well,0,0,unknown,insufficient,01010230150102091WP27,colored,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.51373405,-7.28083179",shallow well,0,0,unknown,enough,01010230150102091WP37,salty,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Malolo,"36.51394275,-7.287230403",shallow well,0,0,unknown,enough,01010230150102091WP36,salty,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.80975567,-5.963442174",borehole,0,0,unknown,enough,01052003081WP03,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81434188,-5.956404211",borehole,0,0,unknown,enough,01052003081WP02,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81844212,-5.956250306",borehole,0,0,unknown,enough,01052003081WP01,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.8092374,-5.966737993",borehole,0,0,unknown,enough,01052003081WP09,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81175955,-5.968507442",borehole,0,0,unknown,enough,01052003081WP08,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81563633,-5.966533978",borehole,0,0,unknown,enough,01052003081WP06,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81453953,-5.972589949",borehole,0,0,unknown,enough,01052003081WP05,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Makutupora,"35.81622327,-5.975484527",borehole,0,0,unknown,enough,01052003081WP04,good,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.64084135,-5.520585813",borehole,0,0,unknown,enough,01013014341WP15,good,submersible,unknown,per bucket,CMSR,DWE,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.64221773,-5.533457743",borehole,0,0,unknown,enough,01013014341WP13,good,submersible,unknown,per bucket,CMSR,DWE,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.64077346,-5.52778357",borehole,0,0,unknown,enough,01013014341WP12,good,submersible,unknown,per bucket,CMSR,DWE,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.42871336,-5.571469177",shallow well,0,0,unknown,enough,01013014341WP06,good,swn 80,unknown,never pay,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.49437355,-5.633847716",borehole,0,0,unknown,enough,01013014341WP04,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Makorongo,"35.64210867,-5.524129229",borehole,0,0,unknown,enough,01013014341WP16,good,submersible,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Kongwa,Makawa,"36.44972739,-5.71441464",borehole,0,0,unknown,insufficient,01033086051WP08,salty,mono,unknown,per bucket,LVIA,Commu,private operator,none
+functional,Dodoma,Kongwa,Makawa,"36.53550736,-5.755069385",borehole,0,0,unknown,insufficient,01033086051WP03,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Makawa,"36.48400916,-5.71954807",borehole,0,0,unknown,insufficient,01033086051WP12,salty,mono,unknown,per bucket,LVIA,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Makawa,"36.48120108,-5.716899288",borehole,0,0,unknown,enough,01033086051WP11,salty,mono,unknown,per bucket,LVIA,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Makawa,"36.48056438,-5.717802521",borehole,0,0,unknown,insufficient,01033086051WP10,salty,mono,unknown,per bucket,LVIA,Commu,private operator,tap broken
+functional,Dodoma,Kongwa,Makawa,"36.47821771,-5.719052963",borehole,0,0,unknown,insufficient,01033086051WP09,salty,mono,unknown,per bucket,LVIA,Commu,private operator,tap broken
+functional,Dodoma,Chamwino,Makang'wa,"35.86888413,-6.420515088",borehole,0,0,unknown,insufficient,01043013202WP20_359,good,mono,unknown,per bucket,Mzung,Mzung,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.84171146,-6.508183426",borehole,0,0,unknown,insufficient,01043013202WP03_342,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.8377394,-6.491640974",borehole,0,0,unknown,insufficient,01043013202WP09_348,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.8370037,-6.497751926",borehole,0,0,unknown,insufficient,01043013202WP08_347,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.83888254,-6.498277872",borehole,0,0,unknown,insufficient,01043013202WP07_346,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.8379786,-6.501625228",borehole,0,0,unknown,insufficient,01043013202WP06_345,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.84060617,-6.50288165",borehole,0,0,unknown,insufficient,01043013202WP04_343,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.86875976,-6.424979478",borehole,0,0,unknown,insufficient,01043013202WP18_357,good,mono,unknown,per bucket,Mzung,Mzung,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.85690273,-6.427779257",shallow well,0,0,unknown,insufficient,01043013202WP17_356,good,nira/tanira,unknown,never pay,Malec,Malec,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.84513881,-6.506801712",borehole,0,0,unknown,insufficient,01043013202WP02_341,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.83289199,-6.490635612",borehole,0,0,unknown,insufficient,01043013202WP13_352,good,submersible,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Makang'wa,"35.86655784,-6.420641592",borehole,0,0,unknown,insufficient,01043013202WP15_354,good,mono,unknown,per bucket,Fathe,COMMU,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.36976468,-5.731433586",borehole,0,0,unknown,enough,01063101431WP03,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.36343358,-5.730234099",borehole,0,0,unknown,enough,01063101431WP02,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Makanda,"35.3482664,-5.717488127",borehole,0,0,unknown,enough,01063101431WP01,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.37461975,-5.738916263",borehole,0,0,unknown,enough,01063101431WP05,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.37877818,-5.736845468",borehole,0,0,unknown,enough,01063101431WP06,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.4434932,-5.744613707",shallow well,0,0,unknown,enough,01063101431WP9,good,nira/tanira,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.44765281,-5.742866627",shallow well,0,0,unknown,enough,01063101431WP10,good,nira/tanira,unknown,never pay,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.38106968,-5.740369668",borehole,0,0,unknown,enough,01063101431WP08,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,under construction
+functional,Dodoma,Bahi,Makanda,"35.38021857,-5.735435316",borehole,0,0,unknown,enough,01063101431WP07,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Makanda,"35.37218286,-5.733422984",borehole,0,0,unknown,enough,01063101431WP04,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,pipe broken
+functional,Dodoma,Chamwino,Majeleko,"36.17687192,-6.093443078",shallow well,0,0,unknown,insufficient,01043013091WP03_131,good,nira/tanira,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.18532708,-6.100814307",shallow well,0,0,unknown,insufficient,01043013091WP05_133,good,nira/tanira,unknown,never pay,CRDB,CRDB,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.18583841,-6.100692967",shallow well,0,0,unknown,insufficient,01043013091WP06_134,good,nira/tanira,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.20506325,-6.126767881",shallow well,0,0,unknown,insufficient,01043013091WP08_136,good,nira/tanira,unknown,never pay,Private Individual,Amadi,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.20716467,-6.125599765",shallow well,0,0,unknown,insufficient,01043013091WP09_137,good,wind-powered,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.17527595,-6.07578594",shallow well,0,0,unknown,insufficient,01043013091WP10_138,good,nira/tanira,unknown,never pay,CMSR,CMSR,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.18754673,-6.082668561",rainwater harvesting,0,0,unknown,insufficient,01043013091WP13_141,good,nira/tanira,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.18755902,-6.082826523",rainwater harvesting,0,0,unknown,insufficient,01043013091WP14_142,good,nira/tanira,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.17969914,-6.077852136",rainwater harvesting,0,0,unknown,insufficient,01043013091WP15_143,good,gravity,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.17978391,-6.077899183",rainwater harvesting,0,0,unknown,insufficient,01043013091WP16_144,good,gravity,unknown,never pay,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Majeleko,"36.18016565,-6.098322208",shallow well,0,0,unknown,insufficient,01043013091WP04_132,good,nira/tanira,unknown,never pay,BSF,BSF,vwc,tap broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.57441955,-6.431324186",spring,0,0,unknown,enough,01010230150102041WP27,good,gravity,unknown,per bucket,World Bank,SAXON,vwc,engine broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.53310067,-6.383295505",spring,0,0,unknown,enough,01010230150102041WP07,good,gravity,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.55711018,-6.399974832",spring,0,0,unknown,enough,01010230150102041WP01,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.53837598,-6.387920296",spring,0,0,unknown,enough,01010230150102041WP06,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.5386631,-6.387479861",spring,0,0,unknown,enough,01010230150102041WP05,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.54096321,-6.389164439",spring,0,0,unknown,enough,01010230150102041WP04,salty,gravity,unknown,never pay,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.54547649,-6.392675942",spring,0,0,unknown,enough,01010230150102041WP03,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,tap broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.55054235,-6.395984434",spring,0,0,unknown,enough,01010230150102041WP02,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,pump broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.53425731,-6.402300338",spring,0,0,unknown,insufficient,01010230150102041WP35,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,tap broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.52610339,-6.395830007",spring,0,0,unknown,insufficient,01010230150102041WP34,good,gravity,unknown,per bucket,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.535478,-6.375275361",spring,0,0,unknown,enough,01010230150102041WP31,good,gravity,unknown,per bucket,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Lupeta,"36.54277741,-6.408395728",spring,0,0,unknown,enough,01010230150102041WP32,good,gravity,unknown,per bucket,World Bank,SAXON,vwc,none
+functional,Dodoma,Mpwapwa,Lupeta,"36.52646311,-6.39548717",spring,0,0,unknown,enough,01010230150102041WP33,salty,gravity,unknown,per bucket,World Bank,SAXON,vwc,pump broken
+functional,Dodoma,Mpwapwa,Lumuma,"36.65804855,-6.709189268",shallow well,0,0,unknown,enough,01010230150102061WP18,good,nira/tanira,unknown,monthly,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Lumuma,"36.65062057,-6.717892109",shallow well,0,0,unknown,enough,01010230150102061WP16,good,nira/tanira,unknown,never pay,Water,Water,vwc,pump broken
+functional,Dodoma,Mpwapwa,Lumuma,"36.61382384,-6.836190104",shallow well,0,0,unknown,insufficient,01010230150102061WP01,good,other handpump,unknown,never pay,Local,Local,vwc,none
+functional,Dodoma,Mpwapwa,Lumuma,"36.63567898,-6.788994909",shallow well,0,0,unknown,enough,01010230150102061WP04,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Lumuma,"36.62043887,-6.827841082",shallow well,0,0,unknown,enough,01010230150102061WP02,good,nira/tanira,unknown,never pay,Local,Local,vwc,none
+functional,Dodoma,Mpwapwa,Lumuma,"36.6342936,-6.754095658",shallow well,0,0,unknown,enough,01010230150102061WP08,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.38985429,-6.795520192",spring,0,0,unknown,insufficient,01010230150102071WP21,good,gravity,unknown,annually,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.38561577,-6.800723809",spring,0,0,unknown,enough,01010230150102071WP18,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.35632318,-6.807062118",spring,0,0,unknown,enough,01010230150102071WP17,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.3857007,-6.797082448",spring,0,0,unknown,insufficient,01010230150102071WP16,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.38860662,-6.787804292",spring,0,0,unknown,insufficient,01010230150102071WP14,good,gravity,unknown,other,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.42657373,-6.818443552",spring,0,0,unknown,insufficient,01010230150102071WP32,good,gravity,unknown,annually,Water,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Luhundwa,"36.45360232,-6.792618957",spring,0,0,unknown,enough,01010230150102071WP25,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.44558633,-6.800639013",spring,0,0,unknown,enough,01010230150102071WP27,good,submersible,unknown,annually,Water,Local,vwc,none
+functional,Dodoma,Chamwino,Luhundwa,"36.38866602,-6.791174621",spring,0,0,unknown,insufficient,01010230150102071WP13,good,gravity,unknown,other,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.46897449,-6.746652978",spring,0,0,unknown,insufficient,01010230150102071WP02,good,gravity,unknown,annually,Water,Water,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.43867153,-6.803583849",spring,0,0,unknown,insufficient,01010230150102071WP30,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Luhundwa,"36.44486759,-6.800179392",spring,0,0,unknown,enough,01010230150102071WP28,good,submersible,unknown,annually,Water,Local,vwc,none
+functional,Dodoma,Mpwapwa,Lufu,"36.47076892,-6.83977783",shallow well,0,0,unknown,enough,01010230150102071WP12,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Lufu,"36.49926578,-6.836998792",shallow well,0,0,unknown,enough,01010230150102071WP09,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Lufu,"36.50271895,-6.829079554",shallow well,0,0,unknown,insufficient,01010230150102071WP07,good,nira/tanira,unknown,never pay,Water,Water,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.48376089,-5.787948435",borehole,0,0,unknown,enough,01063101441WP09,good,mono,unknown,per bucket,CMSR,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Lamaiti,"35.45007324,-5.833188926",borehole,0,0,unknown,enough,01063101441WP14,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.45135846,-5.823380626",borehole,0,0,unknown,enough,01063101441WP13,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.45676326,-5.832818113",borehole,0,0,unknown,enough,01063101441WP12,good,mono,unknown,per bucket,Water,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Lamaiti,"35.4511581,-5.836434771",borehole,0,0,unknown,enough,01063101441WP10,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.49060748,-5.795331875",borehole,0,0,unknown,enough,01063101441WP06,good,mono,unknown,per bucket,ADP/W,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Lamaiti,"35.48932189,-5.794062482",borehole,0,0,unknown,enough,01063101441WP07,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.49073563,-5.795081735",borehole,0,0,unknown,enough,01063101441WP05,good,mono,unknown,never pay,ADP/W,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.51007372,-5.724554999",shallow well,0,0,unknown,enough,01063101441WP01,good,india mark ii,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.48000873,-5.736881695",shallow well,0,0,unknown,enough,01063101441WP03,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.48504998,-5.796170419",borehole,0,0,unknown,enough,01063101441WP08,good,mono,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Lamaiti,"35.45540953,-5.839382388",borehole,0,0,unknown,enough,01063101441WP11,good,mono,unknown,per bucket,Water,Gove,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.29273438,-5.166580712",borehole,0,0,unknown,enough,01013014201WP01,good,mono,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.29868055,-5.167290848",borehole,0,0,unknown,enough,01013014201WP02,good,mono,unknown,per bucket,AICT,AICT,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.30408422,-5.128635173",borehole,0,0,unknown,enough,01013014201WP05,good,mono,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.35815552,-5.181095958",borehole,0,0,unknown,enough,01013014201WP12,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.35265658,-5.178818463",borehole,0,0,unknown,enough,01013014201WP11,good,other motorpump,unknown,per bucket,World Bank,DWE,vwc,engine broken
+functional,Dodoma,Chemba,Lalta,"35.30919694,-5.168072063",borehole,0,0,unknown,enough,01013014201WP04,good,mono,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Lalta,"35.30071888,-5.160273691",borehole,0,0,unknown,enough,01013014201WP03,good,mono,unknown,per bucket,AICT,AICT,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.40348487,-5.26134387",borehole,0,0,unknown,enough,01013014191WP11,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.40407219,-5.244832846",borehole,0,0,unknown,enough,01013014191WP10,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.40121307,-5.24237727",borehole,0,0,unknown,enough,01013014191WP09,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.42613417,-5.217468769",borehole,0,0,unknown,enough,01013014191WP19,salty,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.42313486,-5.221288883",borehole,0,0,unknown,enough,01013014191WP18,salty,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.42277251,-5.222862106",borehole,0,0,unknown,enough,01013014191WP17,salty,other motorpump,unknown,per bucket,World Bank,DWE,vwc,engine broken
+functional,Dodoma,Chemba,Kwamtoro,"35.49929802,-5.276949136",borehole,0,0,unknown,enough,01013014191WP27,good,other motorpump,unknown,per bucket,Kirde,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.42471882,-5.225667281",borehole,0,0,unknown,enough,01013014191WP15,salty,other motorpump,unknown,per bucket,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.43076145,-5.228700083",borehole,0,0,unknown,enough,01013014191WP14,salty,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.43698745,-5.22752333",borehole,0,0,unknown,enough,01013014191WP13,salty,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.39668655,-5.250174929",borehole,0,0,unknown,enough,01013014191WP07,good,mono,unknown,per bucket,Missi,Missi,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.40803119,-5.250409696",borehole,0,0,unknown,enough,01013014191WP06,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.39893221,-5.249566452",borehole,0,0,unknown,enough,01013014191WP05,good,mono,unknown,never pay,Missi,Missi,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.49215838,-5.270867674",borehole,0,0,unknown,enough,01013014191WP29,good,other motorpump,unknown,per bucket,Kirde,DWE,vwc,none
+functional,Dodoma,Chemba,Kwamtoro,"35.4236408,-5.223705314",borehole,0,0,unknown,enough,01013014191WP16,salty,other motorpump,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.41407876,-6.216606877",spring,0,0,unknown,insufficient,01033086013WP14,good,gravity,unknown,never pay,Commu,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.41554714,-6.215471242",spring,0,0,unknown,insufficient,01033086013WP16,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Kongwa,"36.41407027,-6.208042736",spring,0,0,unknown,insufficient,01033086013WP17,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.40948327,-6.212116487",spring,0,0,unknown,insufficient,01033086013WP18,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.40636466,-6.211545578",spring,0,0,unknown,insufficient,01033086013WP19,good,gravity,unknown,never pay,LVIA,commu,vwc,none
+functional,Dodoma,Kondoa,Kongwa,"36.41151307,-6.210441686",spring,0,0,unknown,insufficient,01033086013WP23,good,gravity,unknown,never pay,CBHI,Commu,vwc,tap broken
+functional,Dodoma,Kondoa,Kongwa,"36.4018385,-6.205114149",borehole,0,0,unknown,enough,01033086013WP22,good,submersible,unknown,per bucket,Water,Water,water authority,none
+functional,Dodoma,Kongwa,Kongwa,"36.40509009,-6.210791631",borehole,0,0,unknown,insufficient,01033086013WP20,salty,submersible,unknown,per bucket,Water,Water,water authority,tap broken
+functional,Dodoma,Kongwa,Kongwa,"36.41680753,-6.217995647",spring,0,0,unknown,enough,01033086013WP12,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Kongwa,"36.42209544,-6.225915593",spring,0,0,unknown,enough,01033086013WP10,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.41533125,-6.21277994",spring,0,0,unknown,enough,01033086013WP15,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.42392751,-6.231745654",spring,0,0,unknown,enough,01033086013WP07,good,gravity,unknown,never pay,CBHI,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.4245538,-6.233349554",spring,0,0,unknown,insufficient,01033086013WP06,good,gravity,unknown,never pay,LVIA,Commu,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.42558812,-6.231847942",spring,0,0,unknown,enough,01033086013WP05,good,gravity,unknown,never pay,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Kongwa,"36.40714877,-6.231016533",spring,0,0,unknown,enough,01033086013WP04,good,gravity,unknown,never pay,St ph,St ph,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.42546678,-6.227735648",spring,0,0,unknown,enough,01033086013WP11,good,gravity,unknown,never pay,St ph,St ph,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.40151666,-6.228843201",spring,0,0,unknown,enough,01033086013WP01,good,gravity,unknown,never pay,Commu,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Kongwa,"36.4012053,-6.227034305",spring,0,0,unknown,enough,01033086013WP02,good,gravity,unknown,never pay,St ph,St ph,vwc,none
+functional,Dodoma,Kongwa,Kongwa,"36.42201964,-6.230280348",spring,0,0,unknown,dry,01033086013WP08,good,gravity,unknown,never pay,St ph,St ph,vwc,pipe broken
+functional,Dodoma,Kongwa,Kongwa,"36.4035578,-6.232007209",spring,0,0,unknown,enough,01033086013WP03,good,gravity,unknown,never pay,St ph,St ph,vwc,tap broken
+functional,Dodoma,Kondoa,Kolo,"35.83004573,-4.733986648",borehole,0,0,unknown,enough,01013014241WP03,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.83249729,-4.734671913",borehole,0,0,unknown,enough,01013014241WP04,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.83586007,-4.729822893",borehole,0,0,unknown,enough,01013014241WP06,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.8405649,-4.723695491",borehole,0,0,unknown,enough,01013014241WP07,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.8394498,-4.730614017",borehole,0,0,unknown,enough,01013014241WP09,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.82903543,-4.730694871",borehole,0,0,unknown,enough,01013014241WP10,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.83500317,-4.731967902",borehole,0,0,unknown,enough,01013014241WP05,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.82694791,-4.73491937",borehole,0,0,unknown,enough,01013014241WP01,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kolo,"35.84501751,-4.724089633",borehole,0,0,unknown,enough,01013014241WP08,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.84178107,-4.460896481",spring,0,0,unknown,enough,01013014321WP20,good,gravity,unknown,never pay,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.89906616,-4.507146262",borehole,0,0,unknown,enough,01013014321WP03,good,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.90447494,-4.530688884",borehole,0,0,unknown,enough,01013014321WP05,good,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.87001389,-4.457806533",spring,0,0,unknown,insufficient,01013014321WP06,good,gravity,unknown,never pay,Zaben,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.86009009,-4.461420775",spring,0,0,unknown,insufficient,01013014321WP07,good,gravity,unknown,never pay,Zaben,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.82622261,-4.462873897",spring,0,0,unknown,enough,01013014321WP10,good,gravity,unknown,never pay,TASAF,DWE,vwc,tap broken
+functional,Dodoma,Kondoa,Kisese,"35.83424112,-4.485427469",spring,0,0,unknown,insufficient,01013014321WP13,good,gravity,unknown,never pay,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.83266368,-4.478605538",spring,0,0,unknown,insufficient,01013014321WP14,good,gravity,unknown,never pay,TASAF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.82503736,-4.46030254",spring,0,0,unknown,enough,01013014321WP16,good,gravity,unknown,never pay,Commu,Commu,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.90155422,-4.517653317",borehole,0,0,unknown,enough,01013014321WP01,good,mono,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.81244337,-4.430908711",shallow well,0,0,unknown,enough,01013014321WP31,good,nira/tanira,unknown,never pay,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.89531112,-4.485893404",borehole,0,0,unknown,enough,01013014321WP02,good,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Kondoa,Kisese,"35.90309618,-4.524686166",borehole,0,0,unknown,enough,01013014321WP04,good,mono,unknown,per bucket,World Bank,DWE,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.38478077,-6.627983667",spring,0,0,unknown,insufficient,01010230150102053WP10,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.38922446,-6.62664186",spring,0,0,unknown,enough,01010230150102053WP09,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.38888327,-6.615655937",spring,0,0,unknown,enough,01010230150102053WP06,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.3827364,-6.601319856",spring,0,0,unknown,insufficient,01010230150102053WP05,good,gravity,unknown,never pay,Eater,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.3829287,-6.595154345",spring,0,0,unknown,enough,01010230150102053WP04,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.39466046,-6.625130868",spring,0,0,unknown,enough,01010230150102053WP08,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kingiti,"36.38110968,-6.628967306",spring,0,0,unknown,enough,01010230150102053WP11,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kondoa,Kingale,"35.7731774,-5.062066002",borehole,0,0,unknown,insufficient,01013014221WP02,salty,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kingale,"35.76432552,-5.056126691",borehole,0,0,unknown,enough,01013014221WP04,salty,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kingale,"35.77849708,-5.054222793",borehole,0,0,unknown,enough,01013014221WP05,salty,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kingale,"35.7439942,-5.092072659",borehole,0,0,unknown,enough,01013014221WP07,good,mono,unknown,per bucket,DWE,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.73377327,-5.001539283",borehole,0,0,unknown,enough,01013014221WP08,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.73357032,-5.007982748",borehole,0,0,unknown,enough,01013014221WP11,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.74413465,-5.000106277",borehole,0,0,unknown,enough,01013014221WP12,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.74038572,-4.996629321",borehole,0,0,unknown,enough,01013014221WP13,good,other motorpump,unknown,per bucket,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.69736465,-5.023424033",borehole,0,0,unknown,insufficient,01013014221WP14,good,other motorpump,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.70149522,-5.02269089",borehole,0,0,unknown,enough,01013014221WP15,good,other motorpump,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kingale,"35.7031401,-5.020277771",borehole,0,0,unknown,enough,01013014221WP16,good,other motorpump,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kingale,"35.76455197,-5.059280362",borehole,0,0,unknown,enough,01013014221WP03,salty,other motorpump,unknown,per bucket,BSF,DWE,vwc,tap broken
+functional,Dodoma,Mpwapwa,Kimagai,"36.57400279,-6.481999765",rainwater harvesting,0,0,unknown,seasonal,01010230150102041WP13,good,gravity,unknown,never pay,World Bank,World,vwc,pipe broken
+functional,Dodoma,Kondoa,Kilimani,"35.82347688,-4.865556125",borehole,0,0,unknown,enough,01013014211WP01,good,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.87146829,-4.360544846",shallow well,0,0,unknown,enough,01013014331WP13,salty,nira/tanira,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.88147388,-4.350661767",shallow well,0,0,unknown,enough,01013014331WP12,salty,nira/tanira,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.82930076,-4.378641017",shallow well,0,0,unknown,enough,01013014331WP10,good,nira/tanira,unknown,never pay,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.83291505,-4.335831183",shallow well,0,0,unknown,enough,01013014331WP08,salty,nira/tanira,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.84157975,-4.335004485",shallow well,0,0,unknown,enough,01013014331WP05,good,nira/tanira,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.82778995,-4.351000789",shallow well,0,0,unknown,enough,01013014331WP04,good,nira/tanira,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Kikore,"35.86211541,-4.364514235",shallow well,0,0,unknown,enough,01013014331WP14,salty,nira/tanira,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Dodoma Urban,Kikombo,"35.98698434,-6.229910964",shallow well,0,0,unknown,insufficient,01052003151WP08,good,india mark ii,unknown,per bucket,Private Individual,India,private operator,none
+functional,Dodoma,Dodoma Urban,Kikombo,"35.98640664,-6.22997843",shallow well,0,0,unknown,insufficient,01052003151WP09,good,india mark ii,unknown,per bucket,Private Individual,India,private operator,none
+functional,Dodoma,Dodoma Urban,Kikombo,"36.0316739,-6.21260118",shallow well,0,0,unknown,enough,01052003151WP10,good,nira/tanira,unknown,never pay,Private Individual,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Kikombo,"36.00142731,-6.216824265",borehole,0,0,unknown,insufficient,01052003151WP21,good,mono,unknown,monthly,Kikom,Kikom,vwc,none
+functional,Dodoma,Dodoma Urban,Kikombo,"36.00033246,-6.212591873",shallow well,0,0,unknown,enough,01052003151WP22,salty,nira/tanira,unknown,never pay,Private Individual,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Kikombo,"36.00512465,-6.217470735",rainwater harvesting,0,0,unknown,insufficient,01052003151WP18,good,gravity,unknown,never pay,TASAF,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Kikombo,"35.98971101,-6.2175969",shallow well,0,0,unknown,enough,01052003151WP25,good,india mark ii,unknown,never pay,Private Individual,Commu,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.48702562,-6.096616783",borehole,0,0,unknown,enough,01063101411WP14,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.48046789,-6.086366548",borehole,0,0,unknown,enough,01063101411WP22,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.48321027,-6.08674232",borehole,0,0,unknown,enough,01063101411WP21,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.48356368,-6.086168274",borehole,0,0,unknown,enough,01063101411WP20,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.48423637,-6.085646386",borehole,0,0,unknown,enough,01063101411WP19,good,submersible,unknown,monthly,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.48429343,-6.085947983",borehole,0,0,unknown,enough,01063101411WP18,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.48553098,-6.095148605",borehole,0,0,unknown,enough,01063101411WP17,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.48934941,-6.096341232",borehole,0,0,unknown,enough,01063101411WP16,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.48536278,-6.097768367",shallow well,0,0,unknown,enough,01063101411WP15,good,nira/tanira,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Mpwapwa,Kigwe,"35.54906022,-6.196050157",shallow well,0,0,unknown,enough,01063101411WP02,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.49193266,-6.099380917",borehole,0,0,unknown,enough,01063101411WP13,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.49230623,-6.09676785",borehole,0,0,unknown,enough,01063101411WP12,good,submersible,unknown,per bucket,CMSR,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.4906566,-6.092703225",borehole,0,0,unknown,enough,01063101411WP11,good,submersible,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.49153093,-6.09323872",rainwater harvesting,0,0,unknown,enough,01063101411WP10,good,gravity,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.49443803,-6.092181922",borehole,0,0,unknown,enough,01063101411WP09,good,submersible,unknown,monthly,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.50113687,-6.101568327",shallow well,0,0,unknown,enough,01063101411WP08,good,nira/tanira,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.5061134,-6.14182569",shallow well,0,0,unknown,enough,01063101411WP07,good,nira/tanira,unknown,per bucket,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.5005324,-6.161686423",borehole,0,0,unknown,enough,01063101411WP06,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.53222407,-6.202642928",borehole,0,0,unknown,enough,01063101411WP04,good,wind-powered,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.47785313,-6.088622015",borehole,0,0,unknown,enough,01063101411WP23,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.46397709,-6.079109748",borehole,0,0,unknown,enough,01063101411WP26,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.46063652,-6.075828103",borehole,0,0,unknown,enough,01063101411WP27,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.47402274,-6.087596578",borehole,0,0,unknown,enough,01063101411WP30,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Kigwe,"35.47144977,-6.087132577",borehole,0,0,unknown,enough,01063101411WP29,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Kigwe,"35.46959996,-6.083569386",borehole,0,0,unknown,enough,01063101411WP28,good,submersible,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.39353266,-6.656746918",spring,0,0,unknown,enough,01010230150102053WP12,good,submersible,unknown,annually,Priva,Priva,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.37261529,-6.711650028",spring,0,0,unknown,enough,01010230150102053WP49,good,submersible,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.3983002,-6.65906443",spring,0,0,unknown,enough,01010230150102053WP15,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.40408082,-6.657227086",spring,0,0,unknown,enough,01010230150102053WP17,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.3954871,-6.659733959",spring,0,0,unknown,enough,01010230150102053WP13,good,gravity,unknown,never pay,Water,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Kibakwe,"36.40455378,-6.65884158",spring,0,0,unknown,enough,01010230150102053WP18,good,gravity,unknown,annually,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.39477078,-6.661923112",spring,0,0,unknown,enough,01010230150102053WP20,good,gravity,unknown,annually,Priva,Priva,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.38297409,-6.704543924",shallow well,0,0,unknown,insufficient,01010230150102053WP21,good,nira/tanira,unknown,per bucket,CMSR,Gover,private operator,pump broken
+functional,Dodoma,Mpwapwa,Kibakwe,"36.39732572,-6.731756939",spring,0,0,unknown,enough,01010230150102053WP23,good,gravity,unknown,annually,World Bank,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.3667861,-6.714328876",spring,0,0,unknown,enough,01010230150102053WP34,good,submersible,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.36899202,-6.717116357",spring,0,0,unknown,enough,01010230150102053WP38,good,submersible,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.37553174,-6.713516257",spring,0,0,unknown,insufficient,01010230150102053WP44,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Kibakwe,"36.37389901,-6.706434175",shallow well,0,0,unknown,insufficient,01010230150102053WP45,good,nira/tanira,unknown,monthly,CMSR,CMSR,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.37257914,-6.709530632",spring,0,0,unknown,insufficient,01010230150102053WP47,good,gravity,unknown,monthly,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Kibakwe,"36.38281378,-6.704616721",shallow well,0,0,unknown,enough,01010230150102053WP22,good,nira/tanira,unknown,per bucket,CMSR,Local,vwc,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.64575854,-6.127800125",borehole,0,0,unknown,insufficient,01033086123WP01,salty,mono,unknown,per bucket,Government of Tanzania,Gover,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.63661559,-6.127431234",borehole,0,0,unknown,insufficient,01033086123WP02,salty,mono,unknown,per bucket,Government of Tanzania,Gover,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.65283762,-6.13197683",borehole,0,0,unknown,insufficient,01033086123WP03,salty,mono,unknown,per bucket,Government of Tanzania,Gover,water authority,tap broken
+functional,Dodoma,Kongwa,Kibaigwa,"36.65235854,-6.128904599",borehole,0,0,unknown,insufficient,01033086123WP04,salty,mono,unknown,per bucket,Government of Tanzania,Gover,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.63711131,-6.062294414",borehole,0,0,unknown,seasonal,01033086123WP06,good,submersible,unknown,per bucket,Water,Water,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.64061599,-6.066358881",borehole,0,0,unknown,seasonal,01033086123WP07,good,submersible,unknown,per bucket,Water,Water,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.64396022,-6.069606441",borehole,0,0,unknown,seasonal,01033086123WP08,good,submersible,unknown,per bucket,Water,Water,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.64047771,-6.071610055",borehole,0,0,unknown,seasonal,01033086123WP09,good,submersible,unknown,per bucket,Water,Water,water authority,none
+functional,Dodoma,Kongwa,Kibaigwa,"36.65327634,-6.123662042",borehole,0,0,unknown,insufficient,01033086123WP05,salty,mono,unknown,per bucket,Government of Tanzania,Gover,water authority,none
+functional,Dodoma,Chemba,Kalamba,"35.8647333,-4.936000018",shallow well,0,0,unknown,enough,01013014051WP09,colored,nira/tanira,unknown,never pay,RC Ch,RC Ch,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.86503211,-4.918446012",shallow well,0,0,unknown,enough,01013014051WP07,colored,nira/tanira,unknown,never pay,RC Ch,RC Ch,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.86203165,-4.946390985",borehole,0,0,unknown,enough,01013014051WP06,good,afridev,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.87161703,-4.87033694",shallow well,0,0,unknown,enough,01013014051WP05,good,nira/tanira,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.87820667,-4.879492387",shallow well,0,0,unknown,enough,01013014051WP04,good,swn 80,unknown,never pay,CBHI,DWE,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.93704445,-4.818090059",shallow well,0,0,unknown,enough,01013014051WP02,good,nira/tanira,unknown,never pay,CBHI,DWE,vwc,none
+functional,Dodoma,Chemba,Kalamba,"35.95967189,-4.826095593",shallow well,0,0,unknown,enough,01013014051WP01,good,nira/tanira,unknown,never pay,DED,DWE,vwc,none
+functional,Dodoma,Mpwapwa,Iwondo,"36.07990006,-6.711139696",spring,0,0,unknown,insufficient,01010230150102131WP02,good,gravity,unknown,never pay,Government of Tanzania,Local,vwc,none
+functional,Dodoma,Mpwapwa,Iwondo,"36.00324935,-6.669373757",borehole,0,0,unknown,enough,01010230150102131WP19,good,submersible,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Iwondo,"36.0024875,-6.670747558",borehole,0,0,unknown,insufficient,01010230150102131WP20,good,other,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78554104,-4.536348075",spring,0,0,unknown,insufficient,01013014291WP60,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.7777087,-4.542312543",spring,0,0,unknown,enough,01013014291WP58,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.77527358,-4.543814342",spring,0,0,unknown,enough,01013014291WP57,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.77347725,-4.544050022",spring,0,0,unknown,enough,01013014291WP56,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.84266267,-4.511137454",spring,0,0,unknown,enough,01013014291WP29,good,gravity,unknown,monthly,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78531903,-4.562071053",spring,0,0,unknown,enough,01013014291WP38,good,gravity,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.7987107,-4.510236091",spring,0,0,unknown,enough,01013014291WP66,good,gravity,unknown,never pay,Kirde,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78711645,-4.564190259",spring,0,0,unknown,enough,01013014291WP37,good,gravity,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.77910647,-4.546846605",spring,0,0,unknown,insufficient,01013014291WP55,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.83789851,-4.52342892",spring,0,0,unknown,enough,01013014291WP31,good,gravity,unknown,monthly,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.80132553,-4.564986389",spring,0,0,unknown,insufficient,01013014291WP34,good,gravity,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78072204,-4.551453711",spring,0,0,unknown,insufficient,01013014291WP54,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.79272274,-4.561238592",spring,0,0,unknown,insufficient,01013014291WP53,good,gravity,unknown,never pay,Government of Tanzania,Centr,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.84194785,-4.5202751",spring,0,0,unknown,enough,01013014291WP30,good,gravity,unknown,monthly,BSF,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78741344,-4.54889288",spring,0,0,unknown,enough,01013014291WP51,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.78675013,-4.553599853",spring,0,0,unknown,enough,01013014291WP50,good,gravity,unknown,never pay,Water,DWE,vwc,none
+functional,Dodoma,Kondoa,Itololo,"35.84745583,-4.534167989",spring,0,0,unknown,enough,01013014291WP33,good,gravity,unknown,monthly,BSF,DWE,vwc,none
+functional,Dodoma,Chamwino,Itiso,"36.08036923,-5.71737755",shallow well,0,0,unknown,insufficient,01043013021WP09_75,good,nira/tanira,unknown,never pay,MAMAD,MAMAD,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.96146278,-6.483739029",borehole,0,0,unknown,insufficient,01043013201WP07_325,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.96227557,-6.506843356",borehole,0,0,unknown,insufficient,01043013201WP09_327,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.95506109,-6.535755833",borehole,0,0,unknown,insufficient,01043013201WP11_329,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.92743712,-6.479443319",shallow well,0,0,unknown,insufficient,01043013201WP16_334,good,india mark ii,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.92758462,-6.478549664",shallow well,0,0,unknown,insufficient,01043013201WP18_336,good,india mark ii,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.9703397,-6.484956607",borehole,0,0,unknown,insufficient,01043013201WP06_324,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.95681117,-6.481413567",borehole,0,0,unknown,insufficient,01043013201WP02_320,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.95811947,-6.484231636",borehole,0,0,unknown,insufficient,01043013201WP01_319,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.96092238,-6.4699093",borehole,0,0,unknown,insufficient,01043013201WP05_323,good,mono,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Iringamvumi,"35.9566913,-6.481174719",rainwater harvesting,0,0,unknown,insufficient,01043013201WP04_322,good,nira/tanira,unknown,never pay,WFP,WFP,vwc,none
+functional,Dodoma,Mpwapwa,Ipera,"36.48859995,-7.198751321",shallow well,0,0,unknown,insufficient,01010230150102091WP22,good,nira/tanira,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Ipera,"36.43463748,-7.027675236",spring,0,0,unknown,insufficient,01010230150102091WP03,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Ipera,"36.49438257,-7.108231219",spring,0,0,unknown,insufficient,01010230150102091WP16,colored,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Ipera,"36.43904888,-7.017848938",spring,0,0,unknown,insufficient,01010230150102091WP00,good,gravity,unknown,annually,Water,Gover,vwc,tap broken
+functional,Dodoma,Mpwapwa,Ipera,"36.43896065,-7.025850797",spring,0,0,unknown,insufficient,01010230150102091WP02,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Mpwapwa,Ipera,"36.47802185,-7.198394824",spring,0,0,unknown,enough,01010230150102091WP20,good,gravity,unknown,never pay,Water,Gover,vwc,none
+functional,Dodoma,Dodoma Urban,Ipala,"35.94078192,-6.024015057",borehole,0,0,unknown,dry,01052003111WP02,good,mono,unknown,per bucket,Water,Commu,private operator,pipe broken
+functional,Dodoma,Dodoma Urban,Ipala,"35.92297178,-6.054660296",shallow well,0,0,unknown,enough,01052003111WP01,good,india mark ii,unknown,never pay,Roman,Commu,vwc,none
+functional,Dodoma,Bahi,Ilindi,"35.51808203,-5.889495655",shallow well,0,0,unknown,enough,01063101421WP08,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,pump broken
+functional,Dodoma,Bahi,Ilindi,"35.52296357,-5.861637386",shallow well,0,0,unknown,enough,01063101421WP06,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Ilindi,"35.52983267,-5.958604294",shallow well,0,0,unknown,enough,01063101421WP04,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Ilindi,"35.51232877,-5.879421028",shallow well,0,0,unknown,enough,01063101421WP07,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Ilindi,"35.55310804,-5.950944127",shallow well,0,0,unknown,enough,01063101421WP02,good,india mark ii,unknown,never pay,EAGT,Gove,vwc,none
+functional,Dodoma,Chamwino,Ikowa,"36.14781655,-6.225364485",borehole,0,0,unknown,insufficient,01043013111WP14_220,good,wind-powered,unknown,per bucket,LVIA,LVIA,vwc,none
+functional,Dodoma,Chamwino,Ikowa,"36.12919473,-6.211059804",shallow well,0,0,unknown,insufficient,01043013111WP07_211,good,nira/tanira,unknown,never pay,CMSR,CMSR,vwc,none
+functional,Dodoma,Chamwino,Igandu,"36.07943821,-6.367335497",shallow well,0,0,unknown,insufficient,01043013131WP04_256,good,nira/tanira,unknown,never pay,CMSR,Marti,vwc,none
+functional,Dodoma,Chamwino,Igandu,"36.07041222,-6.364524804",shallow well,0,0,unknown,insufficient,01043013131WP06_258,good,nira/tanira,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Igandu,"36.0762607,-6.367346035",shallow well,0,0,unknown,insufficient,01043013131WP05_257,good,nira/tanira,unknown,never pay,MRTC,Jerem,vwc,none
+functional,Dodoma,Kongwa,Iduo,"36.68323485,-6.289571404",spring,0,0,unknown,insufficient,01033086141WP51,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Iduo,"36.68785844,-6.28284637",spring,0,0,unknown,insufficient,01033086141WP52,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Iduo,"36.68237176,-6.294290022",spring,0,0,unknown,insufficient,01033086141WP49,good,gravity,unknown,annually,LVIA,Commu,vwc,tap broken
+functional,Dodoma,Chamwino,Idifu,"35.96800025,-6.430495548",borehole,0,0,unknown,insufficient,01043013191WP08_318,good,submersible,unknown,per bucket,KOICA,GOVER,vwc,none
+functional,Dodoma,Chamwino,Idifu,"35.96800985,-6.43050073",borehole,0,0,unknown,insufficient,01043013191WP07_317,good,submersible,unknown,per bucket,KOICA,GOVER,vwc,none
+functional,Dodoma,Chamwino,Idifu,"36.05827923,-6.418331358",borehole,0,0,unknown,insufficient,01043013191WP02_312,salty,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Idifu,"36.05823329,-6.418353487",borehole,0,0,unknown,insufficient,01043013191WP01_311,salty,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.56395309,-6.341313483",borehole,0,0,unknown,enough,01063101331WP08,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.55647143,-6.418006763",borehole,0,0,unknown,enough,01063101331WP05,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.57094564,-6.342442392",borehole,0,0,unknown,enough,01063101331WP13,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.56191714,-6.337039085",borehole,0,0,unknown,enough,01063101331WP14,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.54756815,-6.336432908",borehole,0,0,unknown,enough,01063101331WP15,good,mono,unknown,per bucket,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.55177403,-6.418824829",borehole,0,0,unknown,enough,01063101331WP04,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.55659423,-6.419141969",borehole,0,0,unknown,enough,01063101331WP03,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.56741628,-6.336980544",borehole,0,0,unknown,enough,01063101331WP07,good,mono,unknown,per bucket,World Bank,Gove,vwc,none
+functional,Dodoma,Bahi,Ibugule,"35.55936727,-6.417954464",borehole,0,0,unknown,enough,01063101331WP06,good,mono,unknown,per bucket,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.4319627,-6.003326957",rainwater harvesting,0,0,unknown,seasonal,01063101401WP01,good,gravity,unknown,never pay,Government of Tanzania,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.43908417,-5.902073209",shallow well,0,0,unknown,enough,01063101401WP08,good,nira/tanira,unknown,never pay,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.42996715,-5.91151912",shallow well,0,0,unknown,enough,01063101401WP09,good,nira/tanira,unknown,never pay,BSF,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.4207925,-5.898533071",shallow well,0,0,unknown,enough,01063101401WP10,good,nira/tanira,unknown,never pay,CMCR,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.42764987,-6.022967098",borehole,0,0,unknown,enough,01063101401WP04,good,mono,unknown,never pay,DCT,Gove,vwc,none
+functional,Dodoma,Bahi,Ibihwa,"35.42832065,-6.022848289",borehole,0,0,unknown,enough,01063101401WP05,good,mono,unknown,never pay,DCT,Gove,vwc,tap broken
+functional,Dodoma,Bahi,Ibihwa,"35.42898189,-6.016721459",shallow well,0,0,unknown,enough,01063101401WP06,good,nira/tanira,unknown,never pay,CMSR,Gove,vwc,none
+functional,Dodoma,Bahi,Huzi,"35.47812638,-6.654423203",borehole,0,0,unknown,insufficient,01043013291WP12_433,good,mono,unknown,per bucket,BSF,BSF,vwc,none
+functional,Dodoma,Chamwino,Huzi,"35.51439457,-6.560670247",borehole,0,0,unknown,insufficient,01043013291WP02_423,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Huzi,"35.51352768,-6.569282062",borehole,0,0,unknown,insufficient,01043013291WP04_425,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Huzi,"35.51845619,-6.570819649",borehole,0,0,unknown,insufficient,01043013291WP03_424,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chemba,Hondo mairo,"35.58061842,-4.814300269",borehole,0,0,unknown,enough,01013014251WP01,good,other motorpump,unknown,per bucket,BSF,DWE,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.91403545,-5.886268991",shallow well,0,0,unknown,insufficient,01052003101WP42,salty,india mark ii,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.97212309,-5.937802976",rainwater harvesting,0,0,unknown,insufficient,01052003101WP17,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.9725386,-5.938630549",spring,0,0,unknown,insufficient,01052003101WP18,good,gravity,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.97190961,-5.939861479",rainwater harvesting,0,0,unknown,insufficient,01052003101WP19,good,nira/tanira,unknown,never pay,TAIPO,TAIPO,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"36.05732439,-5.943103914",shallow well,0,0,unknown,insufficient,01052003101WP05,good,nira/tanira,unknown,never pay,Government of Tanzania,DWE,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.92211691,-5.91437702",shallow well,0,0,unknown,insufficient,01052003101WP34,salty,nira/tanira,unknown,never pay,World Bank,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.93729795,-5.863187097",shallow well,0,0,unknown,enough,01052003101WP45,good,nira/tanira,unknown,never pay,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"36.04544238,-5.925863692",shallow well,0,0,unknown,insufficient,01052003101WP06,good,nira/tanira,unknown,never pay,Government of Tanzania,DWE,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.97207727,-5.937722505",rainwater harvesting,0,0,unknown,insufficient,01052003101WP16,good,gravity,unknown,never pay,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.97205257,-5.956594036",shallow well,0,0,unknown,insufficient,01052003101WP25,good,nira/tanira,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.93601696,-5.867100115",shallow well,0,0,unknown,enough,01052003101WP44,good,nira/tanira,unknown,never pay,Water,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.91419524,-5.885867764",shallow well,0,0,unknown,insufficient,01052003101WP43,salty,india mark ii,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"35.98917543,-5.887829091",spring,0,0,unknown,insufficient,01052003101WP11,good,gravity,unknown,never pay,CMCR,Commu,vwc,none
+functional,Dodoma,Dodoma Urban,Hombolo,"36.04739715,-5.934693048",borehole,0,0,unknown,dry,01052003101WP04,good,mono,unknown,per bucket,Roman,Roman,vwc,source damaged
+functional,Dodoma,Dodoma Urban,Hombolo,"36.04250845,-5.942837556",shallow well,0,0,unknown,insufficient,01052003101WP08,good,nira/tanira,unknown,never pay,Government of Tanzania,DWE,vwc,none
+functional,Dodoma,Kongwa,Hogoro,"36.45046102,-5.947402373",borehole,0,0,unknown,insufficient,01033086031WP16,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.45035587,-5.951293099",borehole,0,0,unknown,insufficient,01033086031WP17,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.45047141,-5.95382733",borehole,0,0,unknown,insufficient,01033086031WP20,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.44772996,-5.967005246",borehole,0,0,unknown,insufficient,01033086031WP21,salty,mono,unknown,per bucket,World Bank,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.33976453,-5.882332955",borehole,0,0,unknown,insufficient,01033086031WP22,salty,mono,unknown,per bucket,Government of Tanzania,Gover,vwc,none
+functional,Dodoma,Kongwa,Hogoro,"36.45545197,-5.943360986",borehole,0,0,unknown,enough,01033086031WP14,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.45052166,-5.943670073",borehole,0,0,unknown,enough,01033086031WP13,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.45806625,-5.980293108",borehole,0,0,unknown,enough,01033086031WP31,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.44669478,-5.989105166",borehole,0,0,unknown,enough,01033086031WP30,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.44820912,-5.98656305",borehole,0,0,unknown,enough,01033086031WP29,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.4476604,-5.944672624",borehole,0,0,unknown,insufficient,01033086031WP12,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.44299678,-5.948456902",borehole,0,0,unknown,insufficient,01033086031WP11,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.33990719,-5.894865604",borehole,0,0,unknown,insufficient,01033086031WP23,salty,mono,unknown,per bucket,Government of Tanzania,Gover,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.44723471,-5.950498102",borehole,0,0,unknown,insufficient,01033086031WP10,salty,mono,unknown,per bucket,Water,Commu,vwc,none
+functional,Dodoma,Kongwa,Hogoro,"36.45364606,-5.948547282",borehole,0,0,unknown,insufficient,01033086031WP15,salty,mono,unknown,per bucket,Water,Commu,vwc,tap broken
+functional,Dodoma,Kongwa,Hogoro,"36.41077159,-5.991741352",borehole,0,0,unknown,enough,01033086031WP25,salty,submersible,unknown,per bucket,World Bank,Cosmo,vwc,tap broken
+functional,Dodoma,Kondoa,Haubi,"35.9512767,-4.781499978",shallow well,0,0,unknown,enough,01013014041WP03,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.95486337,-4.77233153",shallow well,0,0,unknown,enough,01013014041WP05,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.9492313,-4.769336315",shallow well,0,0,unknown,enough,01013014041WP06,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.94543947,-4.764966746",shallow well,0,0,unknown,enough,01013014041WP07,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.94278523,-4.766727121",shallow well,0,0,unknown,enough,01013014041WP08,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.94314334,-4.765064763",shallow well,0,0,unknown,enough,01013014041WP09,good,nira/tanira,unknown,never pay,Rafik,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.94414999,-4.775261907",shallow well,0,0,unknown,enough,01013014041WP11,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.93520639,-4.774827981",shallow well,0,0,unknown,enough,01013014041WP12,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.93200684,-4.783729881",shallow well,0,0,unknown,enough,01013014041WP13,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.91120339,-4.787659098",shallow well,0,0,unknown,enough,01013014041WP14,good,nira/tanira,unknown,never pay,Rafik,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.95151817,-4.803775985",shallow well,0,0,unknown,enough,01013014041WP15,good,nira/tanira,unknown,never pay,Rafik,DWE,vwc,none
+functional,Dodoma,Kondoa,Haubi,"35.95679023,-4.804020494",shallow well,0,0,unknown,enough,01013014041WP16,good,nira/tanira,unknown,never pay,Water,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.97161251,-4.807761658",shallow well,0,0,unknown,enough,01013014041WP17,good,nira/tanira,unknown,never pay,Water,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.969989,-4.784462485",shallow well,0,0,unknown,insufficient,01013014041WP19,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.96042135,-4.786717123",shallow well,0,0,unknown,enough,01013014041WP21,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.95674252,-4.779550675",shallow well,0,0,unknown,enough,01013014041WP02,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Kondoa,Haubi,"35.98569557,-4.751758932",shallow well,0,0,unknown,enough,01013014041WP01,good,nira/tanira,unknown,never pay,BSF,DWE,wug,none
+functional,Dodoma,Chamwino,Haneti,"35.84718266,-5.484425316",borehole,0,0,unknown,insufficient,01043013011WP14_28,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84648435,-5.560228042",borehole,0,0,unknown,insufficient,01043013011WP04_18,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84584985,-5.487307374",borehole,0,0,unknown,insufficient,01043013011WP17_31,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84586669,-5.482036712",borehole,0,0,unknown,insufficient,01043013011WP11_25,good,mono,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84458934,-5.483505843",borehole,0,0,unknown,insufficient,01043013011WP18_32,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84504697,-5.567499026",borehole,0,0,unknown,insufficient,01043013011WP01_15,good,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.72699096,-5.53619536",borehole,0,0,unknown,insufficient,01043013011WP19_33,salty,mono,unknown,per bucket,Water,Water,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84298658,-5.483049313",borehole,0,0,unknown,insufficient,01043013011WP12_26,good,other handpump,unknown,never pay,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84781213,-5.48942439",borehole,0,0,unknown,insufficient,01043013011WP16_30,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84589627,-5.491507511",borehole,0,0,unknown,insufficient,01043013011WP15_29,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none
+functional,Dodoma,Chamwino,Haneti,"35.84701851,-5.482266721",borehole,0,0,unknown,insufficient,01043013011WP13_27,good,mono,unknown,per bucket,Government of Tanzania,GOVER,vwc,none

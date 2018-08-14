@@ -1,0 +1,1021 @@
+Status_group,Region,District_name,Ward_name,Location,Source_group,Amount_tsh,Pop_served,Construction_year,Quality_group,Wptcode,Quality_group,Extraction_group,Breakdown_year,Payment_group,Funder,Installer,Management,Hardware Problem
+functional,Dar es salaam,Kinondoni,Wazo,"39.17224013,-6.705049356",river/lake,100,267,2010,insufficient,07012020164WP21,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17059708,-6.672765708",river/lake,50,2698,2010,enough,07012020164WP01,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.16975915,-6.672663842",borehole,0,2152,2000,enough,07012020164WP02,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.16843964,-6.672348603",borehole,0,1114,2000,enough,07012020164WP03,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17280613,-6.671868206",river/lake,50,3589,2000,enough,07012020164WP04,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17385502,-6.672517569",river/lake,50,2954,2000,enough,07012020164WP05,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.15608471,-6.673420129",river/lake,50,3568,2000,insufficient,07012020164WP06,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13603616,-6.685280299",river/lake,100,2353,2010,insufficient,07012020164WP07,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13443513,-6.700662783",river/lake,100,256,2010,insufficient,07012020164WP08,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13257435,-6.700916655",river/lake,100,320,2010,insufficient,07012020164WP09,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13195124,-6.688805563",river/lake,100,258,2010,insufficient,07012020164WP10,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13323662,-6.684847292",river/lake,100,356,2010,enough,07012020164WP11,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.13990249,-6.688387688",river/lake,100,296,2010,enough,07012020164WP12,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17408293,-6.69633255",river/lake,100,563,2010,insufficient,07012020164WP14,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17428201,-6.697106538",river/lake,100,259,2010,insufficient,07012020164WP15,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17470843,-6.700018712",river/lake,100,361,2010,insufficient,07012020164WP16,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17314979,-6.703163654",river/lake,100,310,2010,insufficient,07012020164WP17,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17597914,-6.704230089",river/lake,100,251,2010,insufficient,07012020164WP18,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17544117,-6.705057494",river/lake,100,239,2010,insufficient,07012020164WP19,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Wazo,"39.17284096,-6.705054071",river/lake,100,283,2010,insufficient,07012020164WP20,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.31023416,-6.869574222",borehole,30,1,2010,enough,07032021021WP01,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.32787134,-6.863763746",borehole,0,120,1980,enough,07032021021WP03,good,mono,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.32276137,-6.857523719",borehole,20,33,2000,seasonal,07032021021WP07,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.31874843,-6.859314891",borehole,20,50,2000,enough,07032021021WP08,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.32230666,-6.850262015",borehole,0,120,2010,enough,07032021021WP10,good,submersible,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Vijibweni,"39.32307892,-6.850647508",borehole,0,89,2010,enough,07032021021WP11,good,submersible,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Somangila,"39.40961317,-6.876340098",shallow well,0,200,2000,enough,07032021051WP01,good,nira/tanira,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Somangila,"39.40782335,-6.873879975",shallow well,0,106,2000,enough,07032021051WP02,good,nira/tanira,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Somangila,"39.40721626,-6.886785391",shallow well,0,1,2000,enough,07032021051WP03,good,nira/tanira,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Somangila,"39.4353604,-6.882402841",borehole,0,160,2010,enough,07032021051WP25,salty,mono,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Somangila,"39.43543291,-6.88612125",borehole,0,140,2000,seasonal,07032021051WP26,good,india mark ii,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Pugu,"39.11951676,-6.93072159",borehole,50,250,2000,insufficient,07022019023WP01_41,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.11519375,-6.89114278",borehole,50,50,2010,enough,07022019023WP53_93,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12828356,-6.876117645",borehole,50,350,2000,enough,07022019023WP74_113,salty,india mark ii,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.13200721,-6.86610433",borehole,50,350,2010,enough,07022019023WP76_115,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12406441,-6.877152545",borehole,50,250,2010,enough,07022019023WP72_111,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12643529,-6.882813138",borehole,50,250,2010,enough,07022019023WP70_109,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12168457,-6.888495068",borehole,50,159,2010,enough,07022019023WP68_107,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.1248551,-6.884587204",borehole,50,200,2010,enough,07022019023WP67_106,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12316481,-6.886802332",borehole,50,250,2010,enough,07022019023WP66_105,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12155753,-6.88793773",borehole,50,150,2010,enough,07022019023WP65_104,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12033011,-6.88949509",shallow well,100,150,2010,enough,07022019023WP64_103,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11954001,-6.884644136",borehole,50,100,2010,enough,07022019023WP63_102,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12058466,-6.882597031",borehole,50,250,2010,insufficient,07022019023WP62_101,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12157454,-6.883938299",borehole,100,300,2010,enough,07022019023WP61_100,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12140525,-6.885473294",borehole,100,350,2010,enough,07022019023WP60_99,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.11696702,-6.888184051",borehole,0,1200,2010,enough,07022019023WP57_97,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Pugu,"39.1143289,-6.891552367",borehole,100,100,2010,enough,07022019023WP54_94,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12143333,-6.892155836",borehole,100,100,2010,enough,07022019023WP51_91,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.13657239,-6.868040868",borehole,100,500,2010,enough,07022019023WP79_118,milky,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.1180237,-6.893869654",borehole,100,100,2010,enough,07022019023WP48_88,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.1181266,-6.893359793",borehole,100,100,2010,enough,07022019023WP47_87,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11858937,-6.892577269",borehole,100,150,2010,insufficient,07022019023WP46_86,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11996164,-6.898023",borehole,100,150,2010,insufficient,07022019023WP45_85,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11818306,-6.905695987",borehole,100,50,2010,enough,07022019023WP37_77,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11378795,-6.912836781",borehole,50,1,2000,enough,07022019023WP28_68,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Pugu,"39.11569775,-6.914863098",borehole,0,1300,2010,enough,07022019023WP27_67,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Pugu,"39.1174919,-6.91311951",borehole,100,150,2000,enough,07022019023WP26_66,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12016025,-6.893271475",shallow well,100,100,2010,enough,07022019023WP49_89,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.11975589,-6.926902289",borehole,50,150,2010,enough,07022019023WP03_43,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12672507,-6.917442281",borehole,50,200,2010,enough,07022019023WP04_44,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.09920933,-6.926885893",borehole,50,100,2000,enough,07022019023WP05_45,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.10122881,-6.926802162",borehole,50,100,2000,enough,07022019023WP07_47,good,submersible,unknown,per bucket,0,0,wug,engine stolen
+functional,Dar es salaam,Ilala,Pugu,"39.12261315,-6.9193988",borehole,50,100,2010,enough,07022019023WP09_49,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12355778,-6.919401239",borehole,50,120,2010,enough,07022019023WP10_50,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12210812,-6.913834024",borehole,50,300,2000,enough,07022019023WP12_52,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.12599001,-6.913140885",borehole,50,100,2000,enough,07022019023WP14_54,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.1210781,-6.912604457",borehole,50,200,2010,enough,07022019023WP17_57,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Pugu,"39.12093052,-6.913786971",borehole,50,100,2010,enough,07022019023WP19_59,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.1327062,-6.866194822",borehole,100,250,2010,enough,07022019023WP77_116,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Pugu,"39.13468888,-6.868626247",borehole,100,400,2010,enough,07022019023WP78_117,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43186894,-7.098367496",borehole,50,90,2000,enough,07032021231WP37,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.4336884,-7.09634074",borehole,50,70,2000,enough,07032021231WP34,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43572905,-7.094969049",borehole,50,40,2000,enough,07032021231WP32,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43119444,-7.100783282",borehole,50,40,2000,enough,07032021213WP38,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.434248,-7.099433835",borehole,0,89,2000,enough,07032021231WP29,salty,mono,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43368204,-7.097916751",borehole,50,53,2000,insufficient,07032021231WP26,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.50758115,-7.160887856",borehole,1000,50,2010,seasonal,07032021231WP24,salty,submersible,unknown,monthly,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.41037347,-7.101529931",borehole,50,25,2000,enough,07032021231WP52,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.5215713,-7.128882683",borehole,50,50,2000,enough,07032021231WP21,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.52368487,-7.12684025",borehole,50,120,2000,enough,07032021231WP20,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.52269564,-7.126849246",borehole,50,40,2000,enough,07032021231WP19,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.52187046,-7.125729099",borehole,50,45,2000,enough,07032021231WP18,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.52081696,-7.119983402",borehole,50,20,2000,enough,07032021231WP17,good,mono,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53459924,-7.088183005",borehole,50,50,2000,enough,07032021231WP16,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53148056,-7.094850746",borehole,50,150,2000,enough,07032021231WP15,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.52931401,-7.086220154",borehole,50,100,2000,enough,07032021231WP14,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53081544,-7.077146991",borehole,50,230,2000,enough,07032021231WP12,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53303845,-7.073306772",borehole,50,140,2000,enough,07032021231WP11,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53389648,-7.071747597",borehole,50,130,2000,enough,07032021231WP10,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53197102,-7.067286088",borehole,50,150,2000,enough,07032021231WP07,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43090198,-7.099832564",borehole,50,50,2000,enough,07032021213WP41,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53358444,-7.058895162",borehole,50,80,2000,enough,07032021231WP05,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53166316,-7.059532972",borehole,50,110,2000,enough,07032021231WP04,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53122066,-7.046074874",borehole,50,140,2000,enough,07032021231WP03,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53215382,-7.053598654",borehole,0,150,2000,enough,07032021231WP02,good,india mark ii,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53131281,-7.0427844",borehole,50,120,2000,enough,07032021231WP01,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.41254197,-7.107353282",borehole,50,30,2000,enough,07032021213WP51,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.42404602,-7.098130342",borehole,50,30,2000,enough,07032021213WP49,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.41895043,-7.111010444",borehole,50,15,2000,enough,07032021213WP48,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43059383,-7.098635727",borehole,50,25,2000,enough,07032021213WP47,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.42745228,-7.104523042",borehole,50,20,2000,enough,07032021213WP45,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.42943665,-7.102157894",borehole,50,46,2000,enough,07032021213WP44,salty,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53352229,-7.059617611",borehole,0,70,2000,enough,07032021231WP06,good,afridev,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53657848,-7.06448803",borehole,50,80,2000,enough,07032021231WP08,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Ilala,Msongola,"39.18702129,-6.97791506",borehole,50,300,2000,enough,07022019031WP24_142,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.09589709,-6.958543296",borehole,50,80,2010,enough,07022019223WP119_461,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.22751944,-6.913654914",borehole,0,1510,2000,enough,07022019213WP07_190,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Msongola,"39.17847294,-6.973131996",borehole,50,80,2000,enough,07022019031WP02_120,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17752577,-6.974769241",borehole,50,1,2010,enough,07022019031WP03_121,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.17648024,-6.957098372",borehole,100,100,2000,enough,07022019031WP10_128,good,submersible,unknown,per bucket,0,0,wua,none
+functional,Dar es salaam,Ilala,Msongola,"39.16784508,-6.961364423",borehole,50,490,2000,insufficient,07022019031WP11_129,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17387157,-6.963385331",borehole,100,300,2000,insufficient,07022019031WP12_130,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.18112175,-6.968091287",borehole,50,500,2000,enough,07022019031WP15_133,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17497586,-6.971240384",borehole,50,150,2000,enough,07022019031WP16_134,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17194405,-6.977408838",borehole,100,400,2000,enough,07022019031WP19_137,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.17850987,-6.982284447",borehole,50,200,2010,insufficient,07022019031WP21_139,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17802798,-6.982805882",borehole,50,200,2010,enough,07022019031WP22_140,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17786374,-6.983837533",borehole,50,250,2010,enough,07022019031WP23_141,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.18862685,-6.973904213",borehole,50,300,2000,enough,07022019031WP26_144,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.16346623,-6.981743878",borehole,50,100,2010,enough,07022019031WP27_145,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.15664413,-6.999344156",borehole,50,400,2000,enough,07022019031WP36_154,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.15707883,-7.001204941",borehole,50,400,2000,enough,07022019031WP37_155,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.15529297,-7.002865178",borehole,50,400,2010,enough,07022019031WP38_156,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.14909457,-7.00520187",borehole,100,50,2010,enough,07022019031WP39_157,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.15823161,-7.000822455",borehole,100,100,2010,enough,07022019031WP41_159,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.15854653,-7.001200052",borehole,100,100,2010,enough,07022019031WP42_160,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.12437194,-6.83540953",shallow well,0,300,2000,seasonal,07022019051WP02_163,good,nira/tanira,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.15884491,-6.822600365",borehole,100,200,2000,enough,07022019051WP03_164,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.16417761,-6.833534009",borehole,100,1,2010,enough,07022019051WP04_165,unknown,other,unknown,unknown,0,0,wug,under construction
+functional,Dar es salaam,Ilala,Msongola,"39.22313775,-6.915689108",borehole,50,150,2010,enough,07022019213WP08_191,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.16378702,-6.854541902",borehole,50,300,2000,enough,07022019051WP11_172,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.17129615,-6.852890837",borehole,100,120,2000,enough,07022019051WP12_173,unknown,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.15709311,-6.844455554",borehole,100,200,2010,enough,07022019051WP13_174,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.15539186,-6.843759974",borehole,100,150,2010,enough,07022019051WP14_175,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.17926898,-6.85137656",borehole,100,120,2010,enough,07022019051WP20_181,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.16718801,-6.842189699",borehole,100,150,2010,enough,07022019051WP21_182,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.19915573,-6.9053659",borehole,50,100,2010,enough,07022019213WP01_184,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.20379018,-6.906802361",borehole,50,150,2000,enough,07022019213WP02_185,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.20842942,-6.908569344",borehole,50,300,2000,enough,07022019213WP03_186,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.21480324,-6.906863076",borehole,0,250,2000,enough,07022019213WP04_187,good,india mark ii,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Msongola,"39.21454719,-6.907518147",borehole,50,150,2000,enough,07022019213WP05_188,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.22419322,-6.911269827",borehole,50,200,2010,enough,07022019213WP06_189,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Msongola,"39.16657092,-6.835814573",shallow well,200,150,2010,enough,07022019051WP05_166,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34344056,-6.862967738",borehole,50,100,2000,enough,07032021241WP32,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Mjimwema,"39.3629743,-6.86267162",borehole,50,150,2000,enough,07032021241WP48,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.36702187,-6.865451703",borehole,0,140,2000,seasonal,07032021241WP42,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.36865443,-6.864910718",borehole,50,120,2000,seasonal,07032021241WP41,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.37183298,-6.865426549",borehole,50,56,2000,insufficient,07032021241WP38,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.37370696,-6.870474149",borehole,50,80,2000,seasonal,07032021241WP36,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.37560415,-6.867044095",borehole,0,400,2000,enough,07032021241WP35,salty,mono,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34664076,-6.867875863",borehole,50,10,2000,enough,07032021241WP34,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34679814,-6.864147682",borehole,50,80,2000,seasonal,07032021241WP33,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34417595,-6.859663868",borehole,50,120,2000,enough,07032021241WP31,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35517325,-6.860482968",borehole,50,250,2000,enough,07032021241WP30,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.3552924,-6.862064285",borehole,50,150,2000,enough,07032021241WP29,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35724028,-6.860822413",borehole,50,120,2000,seasonal,07032021241WP28,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35507162,-6.857874854",borehole,50,50,2000,seasonal,07032021241WP27,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.3563375,-6.859225782",borehole,50,30,2000,insufficient,07032021241WP25,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34915765,-6.856115586",borehole,50,30,2000,seasonal,07032021241WP24,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35134171,-6.855303323",borehole,50,1,2000,seasonal,07032021241WP23,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.37121958,-6.866154479",borehole,50,150,2000,seasonal,07032021241WP39,salty,mono,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35191178,-6.863978156",borehole,50,30,2000,insufficient,07032021241WP19,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35160157,-6.847006805",borehole,50,15,2000,enough,07032021241WP18,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35034559,-6.84879096",borehole,50,25,2000,enough,07032021241WP17,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35084923,-6.850684668",borehole,50,15,2000,enough,07032021241WP16,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34271659,-6.851640208",borehole,50,30,2000,enough,07032021241WP11,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.34267674,-6.85502351",borehole,50,12,2000,enough,07032021241WP10,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.352696,-6.849602834",borehole,13000,320,1970,enough,07032021241WP09,good,submersible,unknown,monthly,0,0,other - school,none
+functional,Dar es salaam,Kinondoni,Mjimwema,"39.34118476,-6.835985786",borehole,0,30,2000,enough,07032021241WP06,good,submersible,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.3509804,-6.854889396",borehole,50,30,2000,enough,07032021241WP14,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.3425651,-6.849567553",borehole,50,15,2000,enough,07032021241WP12,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Mjimwema,"39.35271131,-6.85370469",borehole,50,25,2000,enough,07032021241WP15,salty,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Kinondoni,Mbweni,"39.11067764,-6.591367974",borehole,100,568,2010,enough,07012020171WP07,good,submersible,2012,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Temeke,Mbezi,"39.0975142,-6.699342441",borehole,100,634,2010,enough,07012020263WP04,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Temeke,Mbezi,"39.10664496,-6.709189107",borehole,100,268,2000,enough,07012020263WP01,salty,submersible,2008,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Mbezi,"39.10618109,-6.708615124",borehole,0,834,2000,enough,07012020263WP02,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Temeke,Mbezi,"39.10361692,-6.709741607",borehole,200,856,2010,enough,07012020263WP03,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07778081,-7.003415412",borehole,100,250,2010,enough,07022019223WP15_495,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13981553,-6.91209516",borehole,100,150,2000,enough,07022019223WP174_522,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13551062,-6.919085231",borehole,100,80,2010,enough,07022019223WP173_521,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.0807633,-7.000181316",shallow well,0,1,unknown,unknown,07022019223WP00_430,unknown,other,unknown,unknown,0,0,unknown,none
+functional,Dar es salaam,Ilala,Majohe,"39.13676293,-6.91974614",borehole,100,100,2010,enough,07022019223WP171_519,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13710355,-6.914220851",borehole,100,120,2010,enough,07022019223WP170_518,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07707901,-7.006875933",shallow well,100,150,2000,enough,07022019223WP17_517,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13540896,-6.913907809",borehole,100,100,2010,enough,07022019223WP169_516,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13575381,-6.917212574",borehole,100,120,2010,enough,07022019223WP168_515,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10871086,-6.94240039",borehole,100,100,2010,enough,07022019223WP160_507,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07684285,-7.005917695",borehole,100,250,2010,enough,07022019223WP16_506,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.1075555,-6.943649566",borehole,100,109,2010,enough,07022019223WP158_504,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10315309,-6.945432615",borehole,100,250,2010,enough,07022019223WP156_502,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10086306,-6.949239324",borehole,100,100,2010,enough,07022019223WP155_501,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10171934,-6.949382093",borehole,100,120,2010,enough,07022019223WP154_500,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.09875287,-6.952408618",borehole,100,80,2010,enough,07022019223WP153_499,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10034506,-6.95267666",borehole,100,50,2010,enough,07022019223WP152_498,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.09852085,-6.955966845",borehole,100,100,2000,enough,07022019223WP151_497,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.09852243,-6.957067711",borehole,100,60,2010,enough,07022019223WP150_496,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.09834032,-6.958177282",borehole,100,60,2010,enough,07022019223WP149_494,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.0976144,-6.960938141",borehole,50,250,2010,enough,07022019223WP148_493,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15977848,-6.898067826",shallow well,0,100,2000,unknown,07022019223WP194_544,good,nira/tanira,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.10237572,-6.950681729",borehole,100,250,2010,enough,07022019223WP146_491,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10938034,-6.944912096",borehole,100,100,2010,enough,07022019223WP144_489,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.1086116,-6.94535033",borehole,100,90,2010,enough,07022019223WP143_488,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.13707554,-6.918983564",borehole,100,100,2010,enough,07022019223WP172_520,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.1032336,-6.953443201",borehole,0,250,2010,enough,07022019223WP141_486,salty,submersible,unknown,never pay,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.10290409,-6.955496223",borehole,100,100,2010,enough,07022019223WP140_485,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.16227868,-6.899766696",shallow well,50,120,2000,enough,07022019223WP195_545,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.09997675,-6.954669942",borehole,0,300,2010,enough,07022019223WP139_483,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Majohe,"39.16244797,-6.899542657",borehole,50,100,2000,unknown,07022019223WP196_546,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15619234,-6.912784131",borehole,50,150,2010,enough,07022019223WP180_529,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.15610161,-6.914353928",borehole,50,90,2010,enough,07022019223WP181_530,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15593904,-6.914907236",borehole,50,100,2010,enough,07022019223WP182_531,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.15364948,-6.92497238",borehole,0,250,2010,enough,07022019223WP184_533,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Majohe,"39.12831519,-6.934808716",borehole,0,500,2010,enough,07022019223WP185_534,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Majohe,"39.16210483,-6.897923554",borehole,50,150,2010,enough,07022019223WP199_549,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08327689,-7.003112531",borehole,100,150,2010,enough,07022019223WP27_562,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07968216,-7.012835288",borehole,0,250,2010,enough,07022019223WP20_550,salty,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.09010935,-7.000479956",borehole,100,200,2010,enough,07022019223WP32_567,good,other,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08690739,-6.999474044",borehole,100,100,2010,enough,07022019223WP33_568,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.16292212,-6.900260088",borehole,100,150,2010,enough,07022019223WP200_551,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08646292,-6.999162837",borehole,50,150,2010,enough,07022019223WP35_570,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08364835,-6.997767938",borehole,0,100,2010,enough,07022019223WP36_571,good,submersible,unknown,never pay,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.16266897,-6.912739728",borehole,100,50,2010,enough,07022019223WP190_540,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.0816642,-7.001750348",borehole,100,100,2010,enough,07022019223WP38_573,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08145143,-7.002534652",borehole,100,90,2010,enough,07022019223WP39_574,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08069434,-7.002241047",borehole,100,100,2010,enough,07022019223WP40_575,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08049538,-7.001927643",borehole,100,150,2010,enough,07022019223WP41_576,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.0874873,-6.987873602",borehole,100,200,2010,enough,07022019223WP43_578,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.08767225,-6.987110839",borehole,100,100,2000,enough,07022019223WP44_579,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.07883712,-7.001312387",borehole,100,100,2010,enough,07022019223WP50_585,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15772863,-6.902649199",shallow well,50,150,2010,unknown,07022019223WP202_553,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.068423,-7.00790871",borehole,50,120,unknown,enough,07022019223WP46_581,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.0772966,-7.001627797",borehole,50,100,2010,enough,07022019223WP48_583,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07892165,-7.001331074",borehole,100,309,2010,enough,07022019223WP49_584,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.16307993,-6.905596986",borehole,100,150,2010,enough,07022019223WP204_555,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.08233848,-7.014895333",borehole,0,250,2010,enough,07022019223WP21_556,good,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.08294436,-7.016234569",borehole,0,250,2000,enough,07022019223WP22_557,salty,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.08342696,-7.003503795",borehole,100,250,2010,enough,07022019223WP28_563,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15701604,-6.910245918",borehole,50,120,2010,unknown,07022019223WP175_523,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.15647013,-6.91028659",shallow well,50,80,unknown,enough,07022019223WP176_524,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.16372468,-6.90988991",shallow well,0,150,2000,enough,07022019223WP191_541,good,nira/tanira,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.08082473,-7.003155992",borehole,100,250,2010,enough,07022019223WP24_559,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.1345597,-6.934546602",borehole,0,550,2010,enough,07022019223WP186_535,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Majohe,"39.07963396,-7.002708032",borehole,100,250,2010,enough,07022019223WP25_560,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Majohe,"39.07920098,-7.0104785",borehole,0,500,2000,insufficient,07022019223WP19_539,salty,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.15612455,-6.910704924",borehole,50,300,2010,enough,07022019223WP179_527,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Majohe,"39.08194162,-7.000936505",borehole,100,100,2010,enough,07022019223WP37_572,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.0949129,-6.645144338",river/lake,25,129,2010,enough,07012020184WP19,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.08928693,-6.64304486",borehole,25,176,2010,enough,07012020184WP05,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09462455,-6.640351792",river/lake,25,158,2010,enough,07012020184WP06,good,submersible,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09572859,-6.639631953",river/lake,25,183,2010,enough,07012020184WP07,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09497273,-6.63979441",river/lake,25,149,2010,enough,07012020184WP25,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09331542,-6.649182974",river/lake,25,159,2010,enough,07012020184WP13,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09622345,-6.641054497",river/lake,25,136,2010,enough,07012020184WP24,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09680568,-6.64178127",river/lake,25,121,2010,enough,07012020184WP23,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Mabwepande,"39.09014112,-6.638759172",river/lake,25,144,2010,enough,07012020184WP29,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09167923,-6.639360301",river/lake,25,162,2010,enough,07012020184WP28,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09367042,-6.638919056",river/lake,25,132,2010,enough,07012020184WP26,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09620499,-6.642110074",river/lake,25,132,2010,enough,07012020184WP22,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09651253,-6.642426446",river/lake,25,113,2010,enough,07012020184WP21,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09669236,-6.643155995",river/lake,25,158,2010,enough,07012020184WP20,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09194412,-6.64678354",river/lake,25,123,2010,enough,07012020184WP18,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.0918288,-6.647001975",river/lake,25,163,2010,enough,07012020184WP17,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09251539,-6.64777205",river/lake,25,126,2010,enough,07012020184WP16,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09453747,-6.649063572",river/lake,25,183,2010,enough,07012020184WP15,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09376666,-6.639694687",river/lake,25,102,2010,enough,07012020184WP27,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Mabwepande,"39.08939705,-6.638435904",river/lake,25,152,2010,enough,07012020184WP30,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09553702,-6.642260516",river/lake,25,153,2010,enough,07012020184WP08,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09615908,-6.646025714",river/lake,25,168,2010,enough,07012020184WP09,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09380171,-6.648229258",river/lake,25,193,2010,enough,07012020184WP10,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09279766,-6.648372306",river/lake,25,185,2010,enough,07012020184WP11,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09277656,-6.649327361",river/lake,25,148,2010,enough,07012020184WP12,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Mabwepande,"39.09456841,-6.649986881",river/lake,25,136,2010,enough,07012020184WP14,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Ilala,Kivule,"39.1688557,-6.89750381",borehole,50,200,2010,enough,07022019213WP219_324,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16935223,-6.924722546",borehole,100,80,2010,enough,07022019213WP182_284,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.15901221,-6.944686178",shallow well,0,400,2000,enough,07022019213WP180_282,good,nira/tanira,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.20302253,-6.919721943",borehole,50,200,2000,enough,07022019213WP18_281,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18022126,-6.912974878",borehole,100,200,2010,enough,07022019213WP190_293,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17157416,-6.933044729",borehole,150,100,2000,enough,07022019213WP179_280,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17926888,-6.939322418",borehole,50,200,2000,enough,07022019213WP176_277,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17641524,-6.931224747",borehole,50,150,2000,enough,07022019213WP175_276,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18238785,-6.93043582",borehole,50,80,2010,enough,07022019213WP174_275,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18114798,-6.930719799",borehole,25,80,unknown,enough,07022019213WP173_274,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18185397,-6.929961959",borehole,50,100,2010,enough,07022019213WP172_273,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18808223,-6.928430498",borehole,50,100,2010,enough,07022019213WP171_272,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.1870229,-6.928894238",borehole,50,150,2010,enough,07022019213WP170_271,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17002641,-6.895799021",borehole,50,150,2000,enough,07022019213WP223_329,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17011864,-6.895065737",borehole,50,90,2010,enough,07022019213WP225_331,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16687128,-6.895977869",borehole,50,450,2010,enough,07022019213WP226_332,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16820967,-6.902893652",borehole,50,450,2010,enough,07022019213WP228_334,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16793053,-6.902792948",shallow well,100,100,2000,enough,07022019213WP229_335,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19928902,-6.91976431",borehole,100,150,2010,enough,07022019213WP23_336,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17074782,-6.898558213",borehole,50,200,2010,enough,07022019213WP230_337,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17067398,-6.897947234",borehole,50,100,2010,enough,07022019213WP231_338,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17887131,-6.924400457",borehole,100,100,2010,enough,07022019213WP184_286,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17223064,-6.901125775",borehole,50,90,2010,enough,07022019213WP233_340,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17339583,-6.898497599",borehole,50,90,2010,enough,07022019213WP234_341,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17343131,-6.898380196",borehole,100,50,2010,enough,07022019213WP235_342,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17304784,-6.896921361",borehole,50,80,2010,enough,07022019213WP236_343,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17370295,-6.900463528",borehole,50,100,2000,enough,07022019213WP237_344,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17171565,-6.902741299",borehole,50,150,2010,enough,07022019213WP238_345,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17397115,-6.905810123",borehole,50,120,2010,enough,07022019213WP239_346,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.1997567,-6.917616677",borehole,50,100,2000,enough,07022019213WP24_347,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17914192,-6.904694821",borehole,50,100,2000,enough,07022019213WP240_348,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18037102,-6.906907262",borehole,50,250,2000,enough,07022019213WP242_350,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17744651,-6.908384891",borehole,50,300,2000,enough,07022019213WP243_351,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17020618,-6.8954911",borehole,50,80,2010,enough,07022019213WP224_330,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19703555,-6.900033134",borehole,0,500,2010,enough,07022019213WP48_378,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.16921843,-6.902696584",shallow well,100,100,2010,enough,07022019213WP246_354,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19886934,-6.916924671",borehole,50,100,2010,enough,07022019213WP26_356,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19691118,-6.910932828",borehole,50,120,2010,enough,07022019213WP27_357,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.1975061,-6.912877323",borehole,50,120,2000,enough,07022019213WP28_358,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19985733,-6.912344337",borehole,50,200,2000,enough,07022019213WP29_359,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.20189688,-6.915262257",borehole,50,120,2010,enough,07022019213WP31_361,good,submersible,unknown,per bucket,0,0,private operator,tap broken
+functional,Dar es salaam,Ilala,Kivule,"39.2033255,-6.912528462",borehole,50,100,2010,enough,07022019213WP32_362,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.20577759,-6.915189889",borehole,50,100,2010,enough,07022019213WP33_363,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.20326183,-6.917420716",borehole,50,150,2010,enough,07022019213WP34_364,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19675731,-6.897460294",borehole,50,1,2000,insufficient,07022019213WP35_365,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19588016,-6.900200121",borehole,100,120,unknown,enough,07022019213WP37_367,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19394529,-6.901321568",borehole,50,100,2010,enough,07022019213WP38_368,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19371551,-6.901118732",borehole,50,100,2000,enough,07022019213WP39_369,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19570674,-6.903115197",borehole,50,150,2010,enough,07022019213WP40_370,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19452394,-6.903552278",borehole,50,150,2010,enough,07022019213WP41_371,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19424065,-6.903094004",borehole,50,120,2010,enough,07022019213WP42_372,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19523308,-6.903434177",borehole,100,100,2010,enough,07022019213WP43_373,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17056994,-6.89545148",borehole,50,250,2010,enough,07022019213WP222_328,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16975548,-6.896779969",borehole,50,200,2010,enough,07022019213WP221_327,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16970522,-6.896935188",borehole,50,200,2000,enough,07022019213WP220_326,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19280794,-6.903579375",borehole,50,200,2010,enough,07022019213WP44_374,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.20133706,-6.920555799",borehole,50,100,2010,enough,07022019213WP22_325,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.17231797,-6.900502165",borehole,50,100,2010,enough,07022019213WP232_339,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.16855795,-6.897416742",borehole,50,200,2010,enough,07022019213WP218_323,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18351494,-6.901224667",borehole,50,300,2000,enough,07022019213WP217_322,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18058291,-6.903215481",borehole,50,150,2000,enough,07022019213WP216_321,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17882549,-6.904211177",borehole,50,350,2000,enough,07022019213WP215_320,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17321737,-6.906556042",borehole,50,350,2000,enough,07022019213WP214_319,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.17257301,-6.907540018",borehole,0,700,2010,enough,07022019213WP212_317,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.17192056,-6.907037739",borehole,0,700,2010,enough,07022019213WP211_316,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.17210449,-6.906602171",borehole,0,700,2000,enough,07022019213WP210_315,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.19776177,-6.896557652",borehole,100,120,2000,enough,07022019213WP54_384,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19937534,-6.90192959",borehole,20000,700,2000,enough,07022019213WP53_383,good,submersible,unknown,monthly,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.19786006,-6.901028455",borehole,45000,700,2000,enough,07022019213WP52_382,good,submersible,unknown,monthly,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.19794116,-6.90223223",borehole,45000,500,2000,enough,07022019213WP51_381,good,submersible,unknown,monthly,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.19746381,-6.901730079",borehole,50,1,2000,enough,07022019213WP50_380,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.19669517,-6.90190236",borehole,0,600,2010,enough,07022019213WP49_379,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.20216469,-6.920406239",borehole,50,120,2010,enough,07022019213WP21_314,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.1935084,-6.902430005",borehole,50,130,2010,enough,07022019213WP46_376,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18790549,-6.922024309",borehole,100,120,2000,enough,07022019213WP186_288,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18457965,-6.917777522",borehole,100,300,2000,enough,07022019213WP188_290,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18251875,-6.914477457",borehole,100,500,2000,enough,07022019213WP189_291,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kivule,"39.20529297,-6.918421363",borehole,50,150,2000,enough,07022019213WP19_292,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18288292,-6.912960911",borehole,100,100,2000,enough,07022019213WP191_294,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.18714671,-6.914279908",borehole,100,200,2000,enough,07022019213WP192_295,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.1890945,-6.910075469",borehole,100,150,2000,enough,07022019213WP194_297,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.19086162,-6.908198747",borehole,100,100,2010,enough,07022019213WP196_299,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.18991672,-6.906100047",borehole,50,100,2000,enough,07022019213WP198_301,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19198127,-6.911084436",borehole,100,200,2000,enough,07022019213WP199_302,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.20547038,-6.92305254",borehole,100,80,2000,enough,07022019213WP20_303,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.19149722,-6.912613564",borehole,100,120,2000,enough,07022019213WP200_304,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.19361828,-6.915794414",borehole,100,50,2010,enough,07022019213WP203_307,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19357363,-6.915594475",borehole,100,80,2010,enough,07022019213WP204_308,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.1932117,-6.90371347",borehole,50,120,2010,enough,07022019213WP45_375,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kivule,"39.19456272,-6.9155761",borehole,50,90,2000,enough,07022019213WP205_309,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kivule,"39.19396164,-6.914633646",borehole,50,40,2010,enough,07022019213WP206_310,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21266957,-6.90274542",borehole,50,120,2000,enough,07022019213WP75_405,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18313903,-6.920848588",borehole,100,250,2000,enough,07022019213WP187_289,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19664611,-6.899601865",borehole,50,120,2000,enough,07022019213WP47_377,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.23199607,-6.903557831",borehole,50,250,2010,enough,07022019213WP62_392,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20008234,-6.899593655",borehole,50,150,2010,enough,07022019213WP55_385,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20047822,-6.900239637",borehole,50,30,2010,enough,07022019213WP56_386,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.2001372,-6.901027872",borehole,50,150,2000,enough,07022019213WP57_387,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20117527,-6.901322514",borehole,50,250,2000,enough,07022019213WP58_388,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20267541,-6.901773937",borehole,50,300,2010,enough,07022019213WP59_389,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20388032,-6.902569269",borehole,50,250,2010,enough,07022019213WP60_390,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09577571,-6.962603618",borehole,100,120,2010,enough,07022019223WP117_459,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09161446,-6.963872446",borehole,50,120,2010,enough,07022019223WP116_458,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09281292,-6.963645871",borehole,100,200,2010,enough,07022019223WP115_457,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09322855,-6.964472974",borehole,100,100,2010,enough,07022019223WP114_456,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08030598,-6.978605634",borehole,100,100,2010,enough,07022019223WP112_454,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09490622,-6.96426414",borehole,100,120,2010,enough,07022019223WP111_453,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08541154,-6.976418499",borehole,100,100,2010,enough,07022019223WP110_452,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08860883,-6.974433156",borehole,100,100,2010,enough,07022019223WP109_450,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.11744983,-6.992483139",borehole,100,300,2010,enough,07022019223WP105_446,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1901443,-6.906412743",borehole,100,100,2000,enough,07022019213WP197_300,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08768923,-7.04579311",shallow well,0,300,1990,enough,07022019223WP06_436,good,swn 80,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08931476,-7.044248579",borehole,0,300,2010,enough,07022019223WP05_435,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.08773147,-7.04014171",borehole,0,150,2010,enough,07022019223WP04_434,salty,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1757025,-6.936674656",borehole,35000,760,2000,enough,07022019213WP150_249,good,submersible,unknown,monthly,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.10083735,-7.028648989",borehole,50,250,2010,enough,07022019223WP02_432,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20351624,-6.901195428",shallow well,50,150,2010,enough,07022019213WP61_391,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18251835,-6.894979939",borehole,50,300,2000,enough,07022019213WP99_429,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18450813,-6.893813757",borehole,50,250,2000,enough,07022019213WP98_428,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18629314,-6.892630625",borehole,50,80,2010,enough,07022019213WP97_427,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1857105,-6.892593256",borehole,50,150,unknown,enough,07022019213WP96_426,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18845623,-6.890484675",borehole,50,200,2010,enough,07022019213WP95_425,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18745653,-6.893899143",borehole,50,150,2010,enough,07022019213WP93_423,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19469082,-6.895421722",borehole,50,200,2010,enough,07022019213WP90_420,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19696222,-6.899154881",borehole,50,123,2010,enough,07022019213WP87_417,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20251989,-6.900949247",borehole,50,250,2010,enough,07022019213WP86_416,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21744845,-6.900560959",borehole,200,50,2000,enough,07022019213WP84_414,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21646993,-6.900610909",borehole,50,80,2010,enough,07022019213WP83_413,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21474861,-6.900595826",borehole,50,80,2010,enough,07022019213WP82_412,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21321999,-6.900218135",borehole,50,200,2010,enough,07022019213WP81_411,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.2109291,-6.900634717",borehole,50,120,2000,enough,07022019213WP80_410,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20986968,-6.903586505",borehole,100,100,2010,enough,07022019213WP79_409,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21084363,-6.902457511",borehole,50,250,2000,enough,07022019213WP78_408,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21459417,-6.901974216",borehole,50,150,2000,enough,07022019213WP74_404,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21486255,-6.902941765",borehole,50,1,2000,enough,07022019213WP73_403,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.22050993,-6.904041569",borehole,50,150,2010,enough,07022019213WP72_402,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.22436075,-6.90575527",borehole,50,150,2000,enough,07022019213WP71_401,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.22175813,-6.904031208",borehole,50,150,2010,enough,07022019213WP70_400,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.22806629,-6.903604659",borehole,50,200,2010,enough,07022019213WP63_393,good,submersible,unknown,per bucket,0,0,private operator,engine broken
+functional,Dar es salaam,Ilala,Kitunda,"39.2200884,-6.903724193",borehole,50,350,2000,enough,07022019213WP69_399,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21621697,-6.903395824",borehole,50,150,2000,enough,07022019213WP68_398,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21315984,-6.904187504",borehole,50,200,2000,enough,07022019213WP67_397,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21310456,-6.902774752",borehole,50,150,2010,enough,07022019213WP66_396,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.22603182,-6.903356363",borehole,100,250,2010,enough,07022019213WP64_394,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19551832,-6.897441462",borehole,50,150,2010,enough,07022019213WP89_419,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19543032,-6.899530122",borehole,50,250,2010,enough,07022019213WP36_366,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20990757,-6.91112353",borehole,50,120,2000,enough,07022019213WP12_215,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19215523,-6.891632193",borehole,50,250,2000,enough,07022019213WP120_216,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1938213,-6.892873931",borehole,50,150,2010,enough,07022019213WP121_217,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19406304,-6.892992038",borehole,50,300,2000,enough,07022019213WP122_218,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19546608,-6.893571157",borehole,50,350,2000,enough,07022019213WP123_219,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20134378,-6.896598094",borehole,50,80,2000,enough,07022019213WP124_220,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20187877,-6.897526628",borehole,100,100,2010,enough,07022019213WP125_221,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20073436,-6.897124062",borehole,50,100,2010,enough,07022019213WP126_222,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19906484,-6.895517016",borehole,100,10,2010,enough,07022019213WP127_223,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19334512,-6.89120986",borehole,50,100,2000,enough,07022019213WP128_224,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19232272,-6.889916945",borehole,50,100,2000,enough,07022019213WP129_225,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20770848,-6.907281888",borehole,50,120,unknown,enough,07022019213WP13_226,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19149592,-6.889808418",borehole,50,100,2000,enough,07022019213WP130_227,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19040498,-6.890496567",borehole,50,200,2000,enough,07022019213WP131_228,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18982039,-6.893112374",borehole,50,250,2000,enough,07022019213WP133_230,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19335107,-6.89444292",borehole,50,100,2000,enough,07022019213WP135_232,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19204734,-6.890815125",borehole,50,350,2000,enough,07022019213WP136_233,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19097218,-6.89146126",borehole,50,150,2000,enough,07022019213WP137_234,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19140838,-6.892068093",borehole,30,150,2010,enough,07022019213WP138_235,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19497725,-6.907093077",borehole,50,120,2000,enough,07022019213WP14_237,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21403003,-6.896363199",borehole,50,300,2010,enough,07022019213WP140_238,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21283461,-6.897579117",borehole,50,250,2000,enough,07022019213WP141_239,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.21448429,-6.895934495",borehole,50,148,2000,enough,07022019213WP142_240,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17892269,-6.933569725",borehole,50,200,2000,enough,07022019213WP143_241,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18087349,-6.934000664",borehole,50,150,2000,enough,07022019213WP145_243,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18105348,-6.933187638",borehole,100,100,2010,enough,07022019213WP146_244,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17615989,-6.933718566",borehole,50,200,2010,enough,07022019213WP147_245,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1756999,-6.935419864",borehole,0,200,2000,enough,07022019213WP148_246,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.20007806,-6.905730825",borehole,50,80,2010,enough,07022019213WP15_248,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17492861,-6.937905926",borehole,30000,600,2000,enough,07022019213WP151_250,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17182023,-6.937871159",borehole,50,150,2000,enough,07022019213WP152_251,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.1714931,-6.942129919",borehole,100,100,2010,enough,07022019213WP153_252,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17433139,-6.941929233",borehole,50,150,2010,enough,07022019213WP154_253,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17356907,-6.948099097",borehole,50,150,2000,enough,07022019213WP155_254,good,india mark ii,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18072761,-6.944231366",borehole,50,20,2010,enough,07022019213WP158_257,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17984352,-6.942737409",borehole,100,80,unknown,enough,07022019213WP159_258,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.2001847,-6.905968817",borehole,50,120,2010,enough,07022019213WP16_259,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18512882,-6.945397519",borehole,100,10,2010,enough,07022019213WP160_260,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.19231393,-6.94716331",borehole,0,150,2000,enough,07022019213WP161_261,good,india mark ii,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18900965,-6.944163283",borehole,100,20,unknown,enough,07022019213WP162_262,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18374126,-6.935759048",borehole,100,100,2010,enough,07022019213WP163_263,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18399856,-6.936055945",borehole,50,80,2010,enough,07022019213WP164_264,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18588089,-6.934305847",borehole,100,100,2010,enough,07022019213WP165_265,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18508599,-6.933449886",borehole,0,600,2000,enough,07022019213WP167_267,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.18914265,-6.931711787",borehole,50,300,2010,enough,07022019213WP169_269,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.2033919,-6.921764224",borehole,50,120,2000,enough,07022019213WP17_270,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kitunda,"39.17883389,-6.938738291",borehole,50,150,2010,enough,07022019213WP177_278,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09937023,-7.027473355",borehole,50,150,2010,enough,07022019223WP01_431,salty,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Kitunda,"39.09592246,-7.035915268",borehole,60,240,2010,enough,07022019223WP03_433,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.4247082,-6.998154368",borehole,50,100,2010,enough,07032021041WP36,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.36306383,-6.919014915",borehole,100,100,2010,enough,07032021041WP19,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35515251,-6.916618933",borehole,100,146,2000,enough,07032021041WP17,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35702053,-6.913805699",borehole,100,150,2000,enough,07032021041WP16,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35605709,-6.914628969",borehole,100,50,2000,enough,07032021041WP15,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35485341,-6.915383214",borehole,100,180,2010,enough,07032021041WP14,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35430902,-6.920756679",borehole,100,70,2000,enough,07032021041WP12,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35667606,-6.921125991",borehole,100,140,2010,seasonal,07032021041WP11,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35684958,-6.921111006",borehole,100,50,2010,enough,07032021041WP10,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35611278,-6.921449043",borehole,100,240,2010,enough,07032021041WP09,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35524855,-6.917855933",borehole,100,60,2010,enough,07032021041WP08,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35319707,-6.914495735",borehole,100,20,2000,enough,07032021041WP07,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35203076,-6.912274761",borehole,100,70,2000,enough,07032021041WP06,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.35039824,-6.90998881",borehole,100,40,2000,enough,07032021041WP05,good,mono,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.34944788,-6.907342585",borehole,100,30,2000,enough,07032021041WP03,good,mono,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.34495232,-6.898930207",borehole,100,30,2010,enough,07032021041WP02,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kisarawe II,"39.34738713,-6.903243771",borehole,100,50,2010,enough,07032021041WP04,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.19539734,-6.898693722",borehole,100,120,2010,enough,07022019213WP118_213,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.19169671,-6.898313357",borehole,50,80,2000,enough,07022019213WP117_212,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18982492,-6.898412721",borehole,100,300,2010,enough,07022019213WP115_210,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18755177,-6.901919676",borehole,50,20,2010,enough,07022019213WP114_209,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18735847,-6.902269467",borehole,50,100,2010,enough,07022019213WP113_208,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18901723,-6.901938947",borehole,50,250,2000,enough,07022019213WP112_207,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18784552,-6.904071227",borehole,50,100,2000,enough,07022019213WP111_206,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.1888421,-6.903156557",borehole,50,200,2000,enough,07022019213WP110_205,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.2128636,-6.910723904",borehole,50,80,2010,enough,07022019213WP11_204,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18856101,-6.903549092",borehole,50,20,2010,enough,07022019213WP109_203,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18780991,-6.903182839",borehole,50,200,2000,enough,07022019213WP108_202,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18693478,-6.903523699",borehole,50,100,2010,unknown,07022019213WP107_201,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18621429,-6.902268077",borehole,50,150,2010,enough,07022019213WP106_200,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18732438,-6.89793275",borehole,50,200,2010,enough,07022019213WP105_199,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18556508,-6.898902356",borehole,50,300,2000,enough,07022019213WP104_198,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18562173,-6.897672311",borehole,50,150,2010,enough,07022019213WP103_197,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18378959,-6.897565856",borehole,50,250,2000,enough,07022019213WP102_196,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18437452,-6.896277103",borehole,50,200,2000,enough,07022019213WP101_195,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.18584631,-6.895752645",borehole,50,250,2000,enough,07022019213WP100_194,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.21797184,-6.913039538",borehole,50,120,2010,enough,07022019213WP10_193,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Kinyerezi,"39.21996168,-6.916498657",borehole,50,150,2000,enough,07022019213WP09_192,good,india mark ii,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Temeke,Kimbiji,"39.53550928,-7.002102786",borehole,0,60,2000,enough,07032021061WP13,salty,afridev,unknown,unknown,0,0,parastatal,none
+functional,Dar es salaam,Temeke,Kimbiji,"39.51363562,-6.968250318",borehole,0,56,2000,enough,07032021061WP23,salty,mono,unknown,never pay,0,0,vwc,none
+functional,Dar es salaam,Temeke,Kimbiji,"39.52786169,-6.986357957",borehole,50,160,2000,unknown,07032021061WP06,unknown,mono,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Kimbiji,"39.52402148,-6.98480223",shallow well,50,210,2010,enough,07032021061WP03,good,nira/tanira,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Ilala,Kimbiji,"39.52578914,-6.987894705",borehole,50,180,2000,enough,070320221061WP07,salty,mono,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Temeke,Kimbiji,"39.51489092,-7.001639087",borehole,50,200,2010,enough,07032021061WP01,good,mono,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Kibamba,"39.04174245,-6.773815469",river/lake,150,1213,2000,insufficient,07012020133WP04,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Temeke,Kibada,"39.33169508,-6.883638021",shallow well,0,220,2000,enough,07032021031WP15,good,gravity,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Temeke,Kibada,"39.33096519,-6.880815565",shallow well,0,250,2000,enough,07032021031WP14,good,gravity,unknown,never pay,0,0,other - school,none
+functional,Dar es salaam,Kinondoni,Goba,"39.1351784,-6.709690972",river/lake,100,2569,2010,insufficient,07012020141WP01,good,submersible,unknown,per bucket,0,0,vwc,none
+functional,Dar es salaam,Kinondoni,Goba,"39.16534989,-6.745690691",borehole,150,186,2000,enough,07012020141W21,salty,submersible,2011,per bucket,0,0,vwc,none
+functional,Dar es salaam,Ilala,Chanika,"39.09311621,-6.957145868",borehole,50,100,2010,enough,07022019223WP125_468,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.097877,-6.96221167",borehole,100,100,2010,enough,07022019223WP134_478,good,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09301075,-6.95882403",borehole,50,90,2010,enough,07022019223WP124_467,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09309464,-6.95821579",borehole,50,100,2010,enough,07022019223WP123_466,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.15656435,-6.90961079",shallow well,0,250,2000,enough,07022019223WP177_525,good,swn 80,unknown,on failure,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.13465859,-6.916424272",borehole,100,100,2010,enough,07022019223WP167_514,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.10557685,-6.944320672",borehole,100,100,2010,enough,07022019223WP157_503,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09881254,-6.954618481",borehole,50,199,2010,enough,07022019223WP147_492,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.16127924,-6.921464557",borehole,50,80,2010,enough,07022019223WP187_536,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09837398,-6.98360619",borehole,100,250,2010,enough,07022019223WP62_6,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08405518,-7.009566431",borehole,0,300,2010,enough,07022019223WP23_558,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.08661829,-6.999103275",borehole,100,200,2010,enough,07022019223WP34_569,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09309544,-6.978755498",borehole,50,250,2010,enough,07022019223WP57_2,salty,submersible,unknown,per bucket,,,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.07005255,-7.008160245",borehole,50,150,2010,enough,07022019223WP45_580,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.0791288,-7.001149095",borehole,100,150,2010,enough,07022019223WP51_586,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.07661582,-6.993673426",borehole,100,600,2010,enough,07022019223WP53_588,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.07548471,-6.993948781",borehole,0,500,2010,enough,07022019223WP54_589,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.07414837,-6.993502771",borehole,0,500,2010,enough,07022019223WP55_590,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09050755,-6.982335752",borehole,50,350,2000,enough,07022019223WP56_591,salty,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.09309544,-6.978755498",borehole,50,250,2010,enough,07022019223WP57_592,salty,submersible,unknown,per bucket,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.10375198,-6.983182634",borehole,50,150,2010,enough,07022019223WP59_594,good,submersible,unknown,never pay,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.09837398,-6.98360619",borehole,100,250,2010,enough,07022019223WP62_596,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09649867,-6.980216295",borehole,50,250,2010,enough,07022019223WP63_597,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09663797,-6.980778789",borehole,50,250,2010,enough,07022019223WP64_598,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.10375198,-6.983182634",borehole,50,150,2010,enough,07022019223WP59_4,good,submersible,unknown,never pay,,,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.09649867,-6.980216295",borehole,50,250,2010,enough,07022019223WP63_7,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09663797,-6.980778789",borehole,50,250,2010,enough,07022019223WP64_8,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09280413,-6.980197069",borehole,100,1,2010,enough,07022019223WP74_15,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09206155,-6.981884185",borehole,100,450,2010,enough,07022019223WP75_16,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09453548,-6.983008122",borehole,50,150,2000,enough,07022019223WP76_17,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09508721,-6.983115124",borehole,50,150,2010,enough,07022019223WP77_18,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.10848482,-6.975310611",borehole,100,300,2000,enough,07022019223WP69_603,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09280413,-6.980197069",borehole,100,1,2010,enough,07022019223WP74_608,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09206155,-6.981884185",borehole,100,450,2010,enough,07022019223WP75_609,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09453548,-6.983008122",borehole,50,150,2000,enough,07022019223WP76_610,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09508721,-6.983115124",borehole,50,150,2010,enough,07022019223WP77_611,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09475234,-6.958411888",borehole,50,1,2010,enough,07022019223WP122_465,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09570371,-6.957326624",borehole,50,90,2010,enough,07022019223WP121_464,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09630911,-6.958266678",borehole,50,100,2010,enough,07022019223WP120_463,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09626921,-6.95895682",borehole,50,120,2010,enough,07022019223WP118_460,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09348389,-6.98945622",borehole,100,100,2010,enough,07022019223WP79_613,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09044761,-6.990548635",borehole,50,1,unknown,enough,07022019223WP80_614,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08887513,-6.990147091",borehole,50,250,unknown,enough,07022019223WP81_615,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08596496,-6.991294106",borehole,100,250,2000,enough,07022019223WP82_616,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08628657,-6.990730944",borehole,50,50,2000,enough,07022019223WP83_617,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08843697,-6.986026086",borehole,50,250,2000,enough,07022019223WP84_618,good,submersible,unknown,per bucket,0,0,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08955697,-6.982007743",borehole,0,650,2010,enough,07022019223WP85_619,good,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09143391,-6.978262936",borehole,0,450,2000,enough,07022019223WP89_623,salty,submersible,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Kongwa,Chanika,"39.09138014,-6.978322366",shallow well,0,450,1970,seasonal,07022019223WP90_624,good,nira/tanira,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Kongwa,Chanika,"39.08827909,-6.982678793",borehole,50,250,2010,enough,07022019223WP92_626,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Kongwa,Chanika,"39.08618257,-6.98584173",borehole,50,250,2010,enough,07022019223WP94_628,salty,other,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Kongwa,Chanika,"39.08057272,-6.990042315",borehole,100,250,2010,enough,07022019223WP95_629,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09348389,-6.98945622",borehole,100,100,2010,enough,07022019223WP79_20,good,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09044761,-6.990548635",borehole,50,1,unknown,enough,07022019223WP80_21,good,submersible,unknown,per bucket,,,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08887513,-6.990147091",borehole,50,250,unknown,enough,07022019223WP81_22,good,submersible,unknown,per bucket,,,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08596496,-6.991294106",borehole,100,250,2000,enough,07022019223WP82_23,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08628657,-6.990730944",borehole,50,50,2000,enough,07022019223WP83_24,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08843697,-6.986026086",borehole,50,250,2000,enough,07022019223WP84_25,good,submersible,unknown,per bucket,,,wug,none
+functional,Dar es salaam,Ilala,Chanika,"39.08955697,-6.982007743",borehole,0,650,2010,enough,07022019223WP85_26,good,submersible,unknown,never pay,,,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09143391,-6.978262936",borehole,0,450,2000,enough,07022019223WP89_30,salty,submersible,unknown,never pay,,,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09138014,-6.978322366",shallow well,0,450,1970,seasonal,07022019223WP90_31,good,nira/tanira,unknown,never pay,,,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.08827909,-6.982678793",borehole,50,250,2010,enough,07022019223WP92_33,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08618257,-6.98584173",borehole,50,250,2010,enough,07022019223WP94_35,salty,other,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.08057272,-6.990042315",borehole,100,250,2010,enough,07022019223WP95_36,salty,submersible,unknown,per bucket,,,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09945364,-6.956047644",borehole,100,80,2010,enough,07022019223WP136_480,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09751183,-6.964916015",borehole,100,120,2010,enough,07022019223WP133_477,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09728159,-6.965443888",borehole,100,100,2010,enough,07022019223WP132_476,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09679551,-6.966895703",borehole,100,100,2010,enough,07022019223WP131_475,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.09581436,-6.969285852",borehole,0,100,2010,enough,07022019223WP130_474,good,india mark ii,unknown,never pay,0,0,parastatal,none
+functional,Dar es salaam,Ilala,Chanika,"39.09530918,-6.968816001",borehole,50,109,2010,enough,07022019223WP129_472,salty,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.10155117,-6.965763855",borehole,100,60,2010,enough,07022019223WP128_471,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.11781857,-6.972390187",borehole,0,250,2000,enough,07022019223WP127_470,good,submersible,unknown,never pay,0,0,parastatal,pipe broken
+functional,Dar es salaam,Ilala,Chanika,"39.09380865,-6.957852515",borehole,50,50,unknown,enough,07022019223WP126_469,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Ilala,Chanika,"39.16240801,-6.899055044",shallow well,50,100,2010,enough,07022019223WP197_547,good,submersible,unknown,per bucket,0,0,private operator,none
+functional,Dar es salaam,Temeke,Chamazi,"39.21797915,-6.975891434",borehole,50,250,2010,insufficient,07032021083WP02,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Temeke,Chamazi,"39.21359289,-6.983520723",borehole,50,250,2010,enough,07032021083WP03,good,submersible,unknown,per bucket,0,0,other - school,none
+functional,Dar es salaam,Kinondoni,Bunju,"39.16253395,-6.638992356",river/lake,50,4520,1990,enough,07012020183WP02,good,submersible,unknown,per bucket,0,0,parastatal,none
+needs repair,Dar es salaam,Temeke,Pemba Mnazi,"39.50675257,-7.157562584",shallow well,0,40,2000,insufficient,07032021231WP23,good,nira/tanira,2008,never pay,0,0,parastatal,tap broken
+needs repair,Dar es salaam,Temeke,Kisarawe II,"39.41312727,-7.031411346",borehole,0,140,2010,enough,07032021041WP42,good,submersible,unknown,never pay,0,0,parastatal,none
+needs repair,Dar es salaam,Temeke,Kisarawe II,"39.36664355,-6.901650963",borehole,0,140,2000,insufficient,07032021041WP21,good,afridev,unknown,never pay,0,0,other - school,none
+not functional,Dar es salaam,Kinondoni,Wazo,"39.13582881,-6.685572339",borehole,50,963,2000,enough,07012020164WP13,salty,submersible,2011,per bucket,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Vijibweni,"39.32089887,-6.847612689",borehole,0,77,2010,dry,07032021021WP12,good,submersible,2012,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Vijibweni,"39.32551789,-6.857383616",borehole,20,50,2000,dry,07032021021WP02,good,submersible,2011,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Vijibweni,"39.32556588,-6.856146768",borehole,20,140,2000,dry,07032021021WP04,good,submersible,2011,per bucket,0,0,other - school,tank out of use
+not functional,Dar es salaam,Temeke,Vijibweni,"39.32338063,-6.85662528",borehole,20,80,2000,dry,07032021021WP05,good,submersible,2011,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Vijibweni,"39.31933481,-6.855393886",borehole,3000,3,2000,seasonal,07032021021WP06,good,submersible,unknown,monthly,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Vijibweni,"39.32532529,-6.85924675",borehole,20,40,2000,dry,07032021021WP09,good,submersible,2012,per bucket,0,0,other - school,tank out of use
+not functional,Dar es salaam,Temeke,Somangila,"39.48030567,-6.934973611",borehole,0,144,1970,dry,07032021051WP14,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.41974346,-6.885639143",shallow well,0,88,2000,insufficient,07032021051WP04,good,nira/tanira,2012,never pay,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.40706981,-6.877786354",shallow well,0,120,2000,enough,07032021051WP05,good,nira/tanira,2002,never pay,0,0,other - school,tap poorly sited
+not functional,Dar es salaam,Temeke,Somangila,"39.42953307,-6.892570889",shallow well,0,110,2000,dry,07032021051WP06,good,other,2008,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.43678131,-6.894316676",borehole,0,250,2000,seasonal,07032021051WP07,salty,mono,2012,never pay,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.44213496,-6.8905616",borehole,50,50,2000,dry,07032021051WP08,salty,mono,2012,per bucket,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.44428737,-6.89374569",borehole,50,25,2000,dry,07032021051WP09,salty,mono,2012,per bucket,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.44140518,-6.898402618",borehole,50,110,2000,dry,07032021051WP10,salty,mono,2012,per bucket,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.44163826,-6.901908422",borehole,0,45,2000,dry,07032021051WP11,salty,mono,2012,per bucket,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.43898202,-6.897617484",borehole,50,86,2000,dry,07032021051WP12,salty,mono,2012,per bucket,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.48142456,-6.935377797",borehole,0,203,1970,dry,07032021051WP13,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.41225273,-6.864521175",borehole,0,89,1970,dry,07032021051WP65,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.48112371,-6.932169086",borehole,0,120,1970,dry,07032021051WP15,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48042176,-6.930367155",borehole,0,150,1970,dry,07032021051WP16,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48159002,-6.937518497",borehole,0,100,1970,dry,07032021051WP17,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48187747,-6.939463037",borehole,0,120,1970,dry,07032021051WP18,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.46761909,-6.932139857",borehole,0,130,1970,dry,07032021051WP19,salty,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48841995,-6.916952624",borehole,0,1,2000,dry,07032021051WP20,salty,mono,2002,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48349393,-6.917158052",borehole,0,1,2000,dry,07032021051WP21,salty,mono,2002,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.47305674,-6.917947396",borehole,0,80,2000,dry,07032021051WP22,salty,mono,2002,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.4736433,-6.921834725",borehole,0,1,2000,dry,07032021051WP23,salty,mono,2002,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Somangila,"39.48119249,-6.899069402",shallow well,0,250,1980,enough,07032021051WP24,salty,other,1991,never pay,0,0,vwc,pump stolen
+not functional,Dar es salaam,Temeke,Somangila,"39.40013688,-6.868384571",borehole,0,88,1970,dry,07032021051WP27,salty,mono,1982,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39926577,-6.867885927",borehole,0,89,2000,dry,07032021051WP28,salty,mono,2004,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39866337,-6.866846265",borehole,0,50,2000,dry,07032021051WP29,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.3973539,-6.866080986",borehole,0,120,2000,dry,07032021051WP30,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39950113,-6.86573721",borehole,0,90,2000,dry,07032021051WP31,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41289596,-6.864237525",borehole,0,158,1970,dry,07032021051WP64,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40139431,-6.867621446",borehole,0,80,2000,dry,07032021051WP33,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40132726,-6.869576303",borehole,0,70,1970,dry,07032021051WP34,salty,mono,1986,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40154356,-6.873147771",borehole,0,60,2000,dry,07032021051WP35,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40159629,-6.872803241",borehole,0,40,1970,enough,07032021051WP36,salty,mono,1988,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40063227,-6.872332594",borehole,0,63,2000,dry,07032021051WP37,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41424586,-6.864074918",borehole,0,140,1970,dry,07032021051WP63,salty,mono,1984,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39895932,-6.871827712",borehole,0,140,2000,dry,07032021051WP39,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39961724,-6.870996143",borehole,0,50,2000,dry,07032021051WP40,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39838027,-6.870411817",borehole,0,80,2000,dry,07032021051WP41,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39716558,-6.873822031",borehole,0,80,2000,dry,07032021051WP42,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39465544,-6.876026891",borehole,0,80,2000,dry,07032021051WP43,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39581587,-6.874864889",borehole,0,140,2000,dry,07032021051WP44,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39941603,-6.87374956",borehole,0,40,2000,dry,07032021051WP45,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39832317,-6.873223676",borehole,0,40,2000,dry,07032021051WP46,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39838318,-6.872737684",borehole,0,145,1970,dry,07032021051WP47,salty,mono,1988,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39794814,-6.868991338",borehole,0,1,2000,dry,07032021051WP48,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.38538869,-6.876464278",borehole,0,50,2000,dry,07032021051WP49,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.38633773,-6.876245795",borehole,0,30,2000,dry,07032021051WP50,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39120456,-6.875041097",borehole,0,40,2000,dry,07032021051WP51,salty,mono,2004,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39353186,-6.855755377",borehole,0,20,2000,dry,07032021051WP52,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39950088,-6.857896183",borehole,0,30,2000,dry,07032021051WP53,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.40239127,-6.869396931",borehole,0,1,2000,dry,07032021051WP54,salty,mono,2004,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41263752,-6.863522618",borehole,0,80,1970,dry,07032021051WP55,salty,mono,1981,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41252679,-6.865332036",borehole,0,100,1970,dry,07032021051WP56,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41307608,-6.8656501",borehole,0,50,1970,dry,07032021051WP57,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41513329,-6.865504697",borehole,0,90,1970,dry,07032021051WP58,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41581127,-6.865825645",borehole,0,140,1970,dry,07032021051WP59,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41503195,-6.866167082",borehole,0,140,1970,dry,07032021051WP60,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41409348,-6.866598816",borehole,0,1,1970,dry,07032021051WP61,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.41471479,-6.863899601",borehole,0,140,1970,dry,07032021051WP62,salty,mono,1983,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39943911,-6.871815956",borehole,0,130,1970,dry,07032021051WP38,salty,mono,1986,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Somangila,"39.39990845,-6.866697132",borehole,0,130,2000,dry,07032021051WP32,salty,mono,2003,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Pugu,"39.12838707,-6.878280302",borehole,0,1,2000,enough,07022019023WP73_112,salty,other,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Pugu,"39.12427827,-6.877538381",borehole,50,150,2000,enough,07022019023WP71_110,good,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12088866,-6.880897121",borehole,50,400,2000,enough,07022019023WP69_108,salty,india mark ii,2010,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11817685,-6.892026812",borehole,50,200,2000,enough,07022019023WP59_98,good,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11655424,-6.89004147",borehole,50,100,2000,enough,07022019023WP56_96,good,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11670372,-6.89148534",borehole,50,100,2000,enough,07022019023WP55_95,salty,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.1192856,-6.899138149",borehole,20,100,2000,dry,07022019023WP32_72,unknown,submersible,unknown,per bucket,0,0,wug,source damaged
+not functional,Dar es salaam,Ilala,Pugu,"39.11532196,-6.893704381",borehole,100,100,2000,enough,07022019023WP52_92,good,submersible,2011,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11979552,-6.892977732",borehole,50,100,2000,insufficient,07022019023WP50_90,salty,submersible,2012,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.13599246,-6.897859233",borehole,50,150,2010,enough,07022019023WP44_84,salty,submersible,2012,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.1296995,-6.893610082",borehole,50,200,2000,insufficient,07022019023WP43_83,salty,submersible,2011,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.1241885,-6.89775528",borehole,0,600,2000,enough,07022019023WP42_82,salty,submersible,2010,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12407658,-6.897707156",borehole,0,600,2000,insufficient,07022019023WP41_81,salty,submersible,2011,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12299929,-6.898412088",borehole,50,200,2000,insufficient,07022019023WP40_80,salty,submersible,2012,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12212746,-6.899982456",borehole,50,150,2000,insufficient,07022019023WP39_79,salty,submersible,2012,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11923813,-6.903328252",borehole,50,150,2000,enough,07022019023WP38_78,salty,submersible,2012,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11519738,-6.902831945",borehole,0,100,2010,enough,07022019023WP36_76,salty,submersible,2012,unknown,0,0,wug,none
+not functional,Dar es salaam,Ilala,Pugu,"39.11369395,-6.90283977",borehole,50,150,2010,enough,07022019023WP35_75,good,submersible,2012,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Pugu,"39.11934263,-6.89863529",shallow well,0,200,2000,enough,07022019023WP34_74,good,other,2001,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11910873,-6.898918658",borehole,59,150,2000,insufficient,07022019023WP33_73,salty,submersible,2011,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12771915,-6.868509742",borehole,0,400,2010,enough,07022019023WP75_114,salty,india mark ii,unknown,never pay,0,0,wug,none
+not functional,Dar es salaam,Ilala,Pugu,"39.11900122,-6.914707627",borehole,0,1,2000,unknown,07022019023WP31_71,unknown,submersible,2005,unknown,0,0,unknown,none
+not functional,Dar es salaam,Ilala,Pugu,"39.11519964,-6.908057054",borehole,0,1,2000,unknown,07022019023WP30_70,unknown,submersible,2008,unknown,0,0,unknown,none
+not functional,Dar es salaam,Ilala,Pugu,"39.11580601,-6.911163583",borehole,0,1,2000,unknown,07022019023WP29_69,unknown,submersible,2008,unknown,0,0,unknown,none
+not functional,Dar es salaam,Ilala,Pugu,"39.12224668,-6.907992361",borehole,50,100,2000,enough,07022019023WP25_65,salty,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12258141,-6.908980389",borehole,50,100,2000,enough,07022019023WP24_64,salty,submersible,2009,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.11955461,-6.930704139",shallow well,0,100,1990,enough,07022019023WP02_42,good,swn 80,2011,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.09910637,-6.927508845",borehole,0,1,2010,enough,07022019023WP06_46,good,other,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Pugu,"39.11988301,-6.919426579",borehole,0,100,2010,enough,07022019023WP08_48,salty,other,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Pugu,"39.12336503,-6.920272996",borehole,0,1,2000,unknown,07022019023WP11_51,unknown,submersible,unknown,unknown,0,0,unknown,under construction
+not functional,Dar es salaam,Ilala,Pugu,"39.12520328,-6.913353891",borehole,50,200,2000,enough,07022019023WP13_53,salty,submersible,2011,per bucket,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Pugu,"39.12685635,-6.913609771",borehole,50,150,2000,enough,07022019023WP15_55,salty,submersible,2009,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Pugu,"39.1265509,-6.913489343",borehole,50,190,2000,enough,07022019023WP16_56,salty,submersible,2008,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12162045,-6.912819572",borehole,0,1,2000,unknown,07022019023WP18_58,unknown,submersible,2006,unknown,0,0,unknown,none
+not functional,Dar es salaam,Ilala,Pugu,"39.12066136,-6.910491911",borehole,50,100,2000,seasonal,07022019023WP20_60,salty,submersible,2006,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12087634,-6.909457024",shallow well,0,150,2000,enough,07022019023WP21_61,salty,nira/tanira,2009,unknown,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Pugu,"39.12088394,-6.909442942",shallow well,0,100,2000,insufficient,07022019023WP22_62,good,other,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Pugu,"39.12198414,-6.909438673",shallow well,0,100,2000,enough,07022019023WP23_63,good,nira/tanira,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.50606948,-7.15299639",borehole,0,50,2000,enough,07032021231WP22,salty,other,2008,never pay,0,0,vwc,pump stolen
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43185401,-7.098416323",borehole,0,100,1980,dry,07032021231WP36,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43371534,-7.096279114",borehole,0,140,1980,dry,07032021231WP35,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.4336116,-7.096696756",borehole,0,120,1960,dry,07032021231WP33,salty,swn 80,1988,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43462817,-7.098599947",borehole,0,50,1980,dry,07032021231WP31,salty,mono,1993,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43587111,-7.098582772",borehole,0,80,1980,dry,07032021231WP28,salty,mono,2003,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43427333,-7.097342428",borehole,0,100,1980,dry,07032021231WP27,salty,mono,2001,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.50520515,-7.162920544",borehole,0,50,2000,dry,07032021231WP25,good,mono,2008,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.53096107,-7.076826007",borehole,0,150,2000,enough,07032021231WP13,good,afridev,2009,never pay,0,0,vwc,pump broken
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43119052,-7.100798067",borehole,0,140,1980,dry,07032021213WP39,salty,mono,1998,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.5338265,-7.070713712",borehole,0,70,2000,enough,07032021231WP09,good,afridev,2011,never pay,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.41605833,-7.104892142",borehole,50,20,2000,enough,07032021213WP50,good,submersible,2012,per bucket,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43061023,-7.098591627",borehole,0,160,1980,dry,07032021213WP46,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.42935711,-7.102003602",borehole,0,160,1980,dry,07032021213WP43,salty,mono,1995,never pay,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43075271,-7.099845231",borehole,0,140,1980,dry,07032021213WP42,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43413663,-7.099486802",borehole,0,140,1980,dry,07032021231WP30,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Pemba Mnazi,"39.43223034,-7.100018531",borehole,0,150,1980,dry,07032021213WP40,salty,mono,1995,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Ilala,Msongola,"39.17884933,-6.973205926",shallow well,0,1000,2000,dry,07022019031WP01_119,unknown,other,2010,never pay,0,0,other,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.17740319,-6.974108462",borehole,0,1,2010,enough,07022019031WP04_122,good,other,unknown,unknown,0,0,private operator,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.17818602,-6.972374113",shallow well,0,800,2000,enough,07022019031WP06_124,good,other,2009,unknown,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17828474,-6.97058216",shallow well,0,2000,2000,enough,07022019031WP07_125,good,india mark ii,2012,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.17923325,-6.97055507",shallow well,0,600,2000,enough,07022019031WP08_126,good,nira/tanira,2010,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17644738,-6.967156594",shallow well,0,400,1970,enough,07022019031WP09_127,good,other,2007,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.1742908,-6.968004601",shallow well,0,500,1970,enough,07022019031WP13_131,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17758403,-6.97061021",borehole,100,600,2000,enough,07022019031WP14_132,good,submersible,2012,per bucket,0,0,wug,tap broken
+not functional,Dar es salaam,Ilala,Msongola,"39.17545846,-6.972772458",shallow well,0,400,1970,dry,07022019031WP17_135,unknown,other,1995,unknown,0,0,vwc,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17605345,-6.974233519",shallow well,0,300,2000,dry,07022019031WP18_136,unknown,other,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17282058,-6.975850534",shallow well,0,500,2000,enough,07022019031WP20_138,good,other,2012,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.17819764,-6.97258186",shallow well,0,800,2000,enough,07022019031WP05_123,good,other,2010,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.18535887,-6.976458394",shallow well,0,100,1980,enough,07022019031WP25_143,good,other,2012,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.15686243,-6.987837569",shallow well,0,250,2000,dry,07022019031WP28_146,unknown,other,2011,never pay,0,0,wua,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.14930933,-6.979790919",borehole,0,1,unknown,unknown,07022019031WP29_147,unknown,submersible,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.14941257,-6.978139746",borehole,0,1,unknown,enough,07022019031WP30_148,good,submersible,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.15227114,-6.971293686",borehole,0,1,unknown,enough,07022019031WP31_149,good,submersible,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.15506569,-6.971596642",borehole,0,1,unknown,enough,07022019031WP32_150,salty,other,unknown,unknown,0,0,parastatal,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.14523523,-6.971462113",shallow well,0,500,2010,enough,07022019031WP33_151,good,submersible,2012,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Kinondoni,Msongola,"39.15741706,-6.978208122",shallow well,0,800,2000,enough,07022019031WP34_152,good,other,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.15360039,-6.982669524",borehole,0,1,2010,enough,07022019031WP35_153,good,submersible,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Msongola,"39.15332153,-7.011308399",borehole,100,250,2010,enough,07022019031WP40_158,good,submersible,2012,per bucket,0,0,private operator,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.15958841,-7.002179076",shallow well,0,500,1990,enough,07022019031WP43_161,good,other,2004,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.11791198,-6.83272396",shallow well,0,200,2000,dry,07022019051WP01_162,good,other,2005,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.15860476,-6.832136783",borehole,0,120,2010,enough,07022019051WP06_167,good,submersible,2012,never pay,0,0,wug,engine broken
+not functional,Dar es salaam,Ilala,Msongola,"39.1586626,-6.832382804",borehole,0,120,2010,enough,07022019051WP07_168,good,submersible,2012,never pay,0,0,wug,engine broken
+not functional,Dar es salaam,Ilala,Msongola,"39.147202,-6.837328251",borehole,50,120,2000,enough,07022019051WP08_169,good,submersible,unknown,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Msongola,"39.16326016,-6.853228228",borehole,0,120,2000,enough,07022019051WP09_170,good,submersible,2004,unknown,0,0,wug,none
+not functional,Dar es salaam,Ilala,Msongola,"39.16342965,-6.85594302",borehole,50,150,2000,enough,07022019051WP10_171,good,submersible,2004,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Msongola,"39.15659839,-6.84280412",borehole,100,200,2010,enough,07022019051WP15_176,salty,submersible,unknown,per bucket,0,0,private operator,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.15806892,-6.841061311",borehole,0,600,2000,enough,07022019051WP16_177,salty,submersible,2010,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.15801144,-6.84164555",shallow well,0,600,2000,enough,07022019051WP17_178,salty,other,2011,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Msongola,"39.15896432,-6.841206276",borehole,0,400,2000,enough,07022019051WP18_179,salty,submersible,2012,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.16071662,-6.841539312",borehole,0,700,2000,enough,07022019051WP19_180,salty,submersible,2010,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Msongola,"39.15171482,-6.85139268",borehole,50,200,2000,enough,07022019051WP22_183,salty,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Temeke,Mjimwema,"39.34511028,-6.839882108",borehole,0,1,2000,dry,07032021241WP05,good,submersible,2004,never pay,0,0,other - school,under construction
+not functional,Dar es salaam,Ilala,Mjimwema,"39.35982379,-6.862870612",borehole,0,50,1970,dry,07032021241WP52,salty,mono,1982,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36124233,-6.861640952",borehole,50,50,2000,insufficient,07032021241WP51,salty,mono,2012,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36122258,-6.861209921",borehole,0,122,1970,dry,07032021241WP50,salty,mono,1980,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36264046,-6.862778102",borehole,0,120,1970,dry,07032021241WP49,salty,mono,1980,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36381206,-6.864249834",borehole,0,140,1970,dry,07032021241WP47,salty,mono,1986,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36468411,-6.863585361",borehole,0,230,1970,dry,07032021241WP46,salty,mono,1986,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36440514,-6.863874732",borehole,0,150,1970,dry,07032021241WP45,salty,mono,1982,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Ilala,Mjimwema,"39.36430333,-6.866274743",borehole,0,53,2000,dry,07032021241WP44,salty,mono,2009,other,0,0,wug,none
+not functional,Dar es salaam,Temeke,Mjimwema,"39.36733988,-6.863753779",borehole,0,30,1970,dry,07032021241WP43,salty,mono,1982,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.37135389,-6.864442011",borehole,0,1,1970,dry,07032021241WP40,salty,mono,unknown,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.37325944,-6.865657301",borehole,0,250,1970,dry,07032021241WP37,salty,mono,1981,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.35166391,-6.844981786",borehole,0,1,2000,dry,07032021241WP01,good,submersible,2004,never pay,0,0,vwc,under construction
+not functional,Dar es salaam,Temeke,Mjimwema,"39.35662971,-6.856425579",borehole,50,80,2000,seasonal,07032021241WP26,salty,submersible,2009,per bucket,0,0,wug,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.3538463,-6.855705457",borehole,20,1,1990,dry,07032021241WP22,salty,submersible,2008,per bucket,0,0,wug,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.35365194,-6.857496046",borehole,20,200,1990,dry,07032021241WP21,salty,submersible,2008,per bucket,0,0,wug,source damaged
+not functional,Dar es salaam,Temeke,Mjimwema,"39.35288608,-6.861463906",borehole,20,250,1990,dry,07032021241WP20,salty,submersible,2008,per bucket,0,0,wug,none
+not functional,Dar es salaam,Temeke,Mjimwema,"39.35054888,-6.839204734",borehole,0,1,2000,dry,07032021241WP02,good,submersible,2004,never pay,0,0,other - school,under construction
+not functional,Dar es salaam,Temeke,Mjimwema,"39.34656971,-6.834466253",borehole,0,1,2000,dry,07032021241WP08,good,submersible,2004,never pay,0,0,vwc,other
+not functional,Dar es salaam,Temeke,Mjimwema,"39.34405412,-6.833518904",borehole,0,1,2000,dry,07032021241WP07,good,submersible,2004,never pay,0,0,other - school,under construction
+not functional,Dar es salaam,Temeke,Mjimwema,"39.3483989,-6.843277201",borehole,0,1,2000,dry,07032021241WP03,good,submersible,2004,never pay,0,0,other - school,under construction
+not functional,Dar es salaam,Temeke,Mjimwema,"39.34932742,-6.840489323",borehole,0,1,2000,dry,07032021241WP04,good,submersible,2004,never pay,0,0,other - school,under construction
+not functional,Dar es salaam,Temeke,Mjimwema,"39.34196722,-6.84763936",borehole,30,10,2000,enough,07032021241WP13,salty,mono,2010,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.11304695,-6.589649606",borehole,100,412,2010,enough,07012020171WP04,good,submersible,2012,per bucket,0,0,vwc,engine broken
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.11185278,-6.589380413",borehole,100,406,2010,enough,07012020171WP05,good,submersible,2012,per bucket,0,0,vwc,engine broken
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.11192723,-6.590588983",borehole,100,426,2010,enough,07012020171WP06,good,submersible,2012,per bucket,0,0,vwc,engine broken
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.11572948,-6.58915201",borehole,0,93,2010,enough,07012020171WP08,good,submersible,2012,never pay,0,0,parastatal,engine stolen
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.13058592,-6.575819891",river/lake,0,896,1980,dry,07012020171WP02,good,submersible,2011,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.13122311,-6.576367294",borehole,0,250,1990,enough,07012020171WP01,salty,india mark ii,2011,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Kinondoni,Mbweni,"39.11389639,-6.589622348",borehole,100,389,2010,enough,07012020171WP03,good,submersible,2012,per bucket,0,0,vwc,engine broken
+not functional,Dar es salaam,Temeke,Mbezi,"39.05669488,-6.721697575",borehole,0,9865,2010,enough,07012020263WP05,good,submersible,unknown,never pay,0,0,vwc,under construction
+not functional,Dar es salaam,Ilala,Majohe,"39.15988725,-6.902547566",borehole,0,1,2010,unknown,07022019223WP192_542,unknown,other,unknown,unknown,0,0,unknown,under construction
+not functional,Dar es salaam,Ilala,Majohe,"39.13426574,-6.91141717",shallow well,0,250,1990,enough,07022019223WP166_513,good,other,2001,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.13204757,-6.912362226",shallow well,0,250,1990,insufficient,07022019223WP165_512,good,other,2001,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.13026479,-6.913224702",borehole,0,100,2000,enough,07022019223WP164_511,salty,submersible,2006,other,0,0,wug,none
+not functional,Dar es salaam,Ilala,Majohe,"39.13161424,-6.913912555",borehole,0,250,2000,enough,07022019223WP163_510,salty,submersible,2004,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.13321629,-6.91319027",borehole,20,100,2000,enough,07022019223WP162_509,salty,submersible,2004,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.13329502,-6.914040079",borehole,20,120,2000,enough,07022019223WP161_508,salty,submersible,2004,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.10182462,-6.941153145",borehole,0,1,2010,unknown,07022019223WP159_505,unknown,other,unknown,unknown,0,0,unknown,under construction
+not functional,Dar es salaam,Ilala,Majohe,"39.15886765,-6.899169569",shallow well,0,200,2000,enough,07022019223WP193_543,good,nira/tanira,unknown,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.0778135,-7.007760484",shallow well,0,500,1990,enough,07022019223WP18_528,salty,afridev,2008,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.10151289,-6.950326397",shallow well,0,300,2000,enough,07022019223WP145_490,good,other,2008,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.15612332,-6.923979791",borehole,0,300,2010,enough,07022019223WP183_532,good,other,unknown,never pay,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Majohe,"39.04979058,-7.028290955",shallow well,0,500,1990,enough,07022019223WP26_561,good,afridev,2009,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.16234647,-6.8985288",shallow well,0,300,2000,enough,07022019223WP198_548,good,nira/tanira,2012,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.09230542,-7.006667161",borehole,0,1200,2000,enough,07022019223WP30_565,good,submersible,2012,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Ilala,Majohe,"39.10914721,-7.019814318",shallow well,0,250,2000,enough,07022019223WP31_566,good,swn 80,2012,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.08738626,-6.987821445",shallow well,0,250,1990,enough,07022019223WP42_577,good,nira/tanira,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Majohe,"39.15807533,-6.900623058",shallow well,0,250,2000,enough,07022019223WP201_552,good,other,2008,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.07101089,-7.005799606",shallow well,0,500,1990,enough,07022019223WP47_582,good,other,2002,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.15839523,-6.902387421",shallow well,0,180,2000,enough,07022019223WP203_554,good,other,2007,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.08745452,-7.006579817",borehole,50,400,2010,enough,07022019223WP29_564,good,submersible,2011,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Majohe,"39.15708839,-6.9096607",shallow well,0,150,2000,enough,07022019223WP178_526,good,nira/tanira,2007,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.16365216,-6.918616509",shallow well,0,120,2000,enough,07022019223WP188_537,salty,nira/tanira,2008,never pay,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Majohe,"39.16302672,-6.912347957",shallow well,0,120,2000,enough,07022019223WP189_538,good,nira/tanira,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Majohe,"39.11715078,-6.952723399",borehole,0,500,2000,enough,07022019223WP142_487,good,submersible,2000,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Kinondoni,Mabwepande,"39.07004624,-6.652360827",borehole,0,3982,2000,enough,07012020184WP04,good,submersible,unknown,never pay,0,0,vwc,under construction
+not functional,Dar es salaam,Kinondoni,Mabwepande,"39.06540729,-6.662727412",borehole,0,3236,2010,enough,07012020184WP01,good,submersible,unknown,never pay,0,0,company,under construction
+not functional,Dar es salaam,Kinondoni,Mabwepande,"39.08152624,-6.656581875",borehole,100,687,2010,enough,07012020184WP03,good,submersible,2011,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Kinondoni,Mabwepande,"39.07524889,-6.659602402",borehole,0,746,2010,insufficient,07012020184WP02,salty,submersible,unknown,never pay,0,0,parastatal,under construction
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08582215,-6.817739823",river/lake,0,431,2010,dry,07012020134WP07,good,submersible,2011,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08443748,-6.818007403",river/lake,0,256,1990,dry,07012020134WP08,good,submersible,1998,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.0850473,-6.81504069",river/lake,0,217,1990,dry,07012020134WP09,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08513502,-6.814723513",river/lake,0,186,2010,dry,07012020134WP10,good,submersible,2012,never pay,0,0,vwc,under construction
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08637967,-6.818562763",river/lake,0,616,2010,dry,07012020134WP06,good,submersible,2011,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08658111,-6.815770327",river/lake,0,210,1990,dry,07012020134WP11,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08538008,-6.815285722",river/lake,0,132,1990,dry,07012020134WP12,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08036584,-6.81558206",river/lake,0,263,1990,dry,07012020134WP02,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.07995995,-6.812016307",river/lake,0,196,1990,dry,07012020134WP03,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08439385,-6.817063482",river/lake,0,735,2010,dry,07012020134WP04,good,submersible,2011,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08193751,-6.822960252",river/lake,0,213,1990,dry,07012020134WP01,good,submersible,1998,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kwembe,"39.08552093,-6.818427623",river/lake,0,735,1990,dry,07012020134WP05,good,submersible,1998,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.17819184,-6.896881203",borehole,50,100,2000,enough,07022019213WP245_353,good,submersible,unknown,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.1762163,-6.921173272",borehole,0,200,2000,enough,07022019213WP183_285,salty,afridev,2010,never pay,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.16510636,-6.926287475",borehole,100,200,2000,enough,07022019213WP181_283,good,submersible,2010,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.17840407,-6.938012963",borehole,50,100,2000,enough,07022019213WP178_279,good,submersible,unknown,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.16678457,-6.900774083",borehole,0,450,2000,unknown,07022019213WP227_333,unknown,submersible,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Kivule,"39.17860368,-6.905738874",borehole,50,130,2000,enough,07022019213WP241_349,good,submersible,2012,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.1828609,-6.901635102",borehole,50,120,2000,enough,07022019213WP244_352,good,submersible,unknown,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.19908677,-6.917341033",borehole,0,1,2000,unknown,07022019213WP25_355,good,submersible,2007,unknown,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.20037199,-6.914588608",borehole,0,1,2010,enough,07022019213WP30_360,good,submersible,unknown,per bucket,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Kivule,"39.17230763,-6.906662584",borehole,0,1,2010,enough,07022019213WP213_318,good,other,unknown,never pay,0,0,parastatal,under construction
+not functional,Dar es salaam,Ilala,Kivule,"39.17175444,-6.90285131",borehole,50,200,2000,enough,07022019213WP209_313,good,submersible,2008,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.17717736,-6.91947554",borehole,100,120,2000,enough,07022019213WP185_287,good,submersible,unknown,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.1696892,-6.899760906",borehole,50,100,2000,enough,07022019213WP208_312,good,submersible,2008,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.18697002,-6.915487791",borehole,100,120,2000,enough,07022019213WP193_296,good,submersible,2011,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.19016208,-6.90873861",borehole,100,120,2000,enough,07022019213WP195_298,good,submersible,2010,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kivule,"39.16950881,-6.900682876",borehole,0,1,2010,enough,07022019213WP207_311,good,other,unknown,unknown,0,0,unknown,under construction
+not functional,Dar es salaam,Ilala,Kivule,"39.19234786,-6.915138289",borehole,50,100,2000,enough,07022019213WP201_305,good,submersible,2010,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kivule,"39.19418204,-6.917449118",borehole,50,100,2000,enough,07022019213WP202_306,good,submersible,2010,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.07725822,-6.974187048",shallow well,0,150,2010,enough,07022019223WP113_455,salty,swn 80,2011,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.07495147,-7.055138063",shallow well,0,200,2000,enough,07022019223WP11_451,good,other,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.09057676,-6.98052531",borehole,0,450,2000,enough,07022019223WP108_449,salty,submersible,2010,never pay,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.10342778,-6.996210485",shallow well,0,250,2000,insufficient,07022019223WP107_448,good,other,2008,never pay,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.11366243,-6.99655691",shallow well,0,200,2000,enough,07022019223WP106_447,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.11780678,-6.992548345",borehole,0,1,2010,unknown,07022019223WP104_445,unknown,other,unknown,other,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Kitunda,"39.11794034,-7.012512022",shallow well,0,60,2000,dry,07022019223WP103_444,good,other,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.11710478,-7.005865095",shallow well,0,90,2000,enough,07022019223WP102_443,good,other,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.11970133,-6.999286785",shallow well,0,100,2000,enough,07022019223WP101_442,good,nira/tanira,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.13002869,-7.003014039",shallow well,0,300,2000,dry,07022019223WP100_441,unknown,other,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.07599758,-7.049900834",shallow well,0,200,2000,enough,07022019223WP10_440,good,other,2012,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.07913982,-7.049062425",shallow well,0,300,2000,enough,07022019223WP09_439,good,other,2002,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.08427013,-7.03966861",shallow well,0,250,2000,enough,07022019223WP08_438,good,other,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.08571243,-7.045717586",borehole,0,1,2010,unknown,07022019223WP07_437,unknown,other,unknown,unknown,0,0,parastatal,under construction
+not functional,Dar es salaam,Ilala,Kitunda,"39.18796152,-6.892538124",borehole,50,150,2000,enough,07022019213WP94_424,good,submersible,2010,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.1876936,-6.894955912",borehole,0,1,2010,enough,07022019213WP92_422,milky,other,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Ilala,Kitunda,"39.19368055,-6.895486619",borehole,50,150,2000,enough,07022019213WP91_421,good,submersible,2010,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.21135382,-6.902190805",borehole,50,150,2000,enough,07022019213WP76_406,good,submersible,2006,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.19539137,-6.897818897",borehole,50,400,2000,enough,07022019213WP88_418,good,submersible,2010,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.21124544,-6.901472531",borehole,50,150,2000,enough,07022019213WP85_415,good,submersible,2008,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.21134216,-6.902199111",borehole,50,200,2000,enough,07022019213WP77_407,good,submersible,2005,per bucket,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.21865441,-6.903373756",borehole,20,200,2000,enough,07022019213WP65_395,good,submersible,2008,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.19412207,-6.894053112",shallow well,0,300,1980,enough,07022019213WP119_214,good,nira/tanira,2004,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.18812732,-6.891753665",borehole,50,100,2000,enough,07022019213WP132_229,good,submersible,unknown,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.19168638,-6.893211638",borehole,50,200,2000,enough,07022019213WP134_231,good,submersible,2012,per bucket,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.21420528,-6.895064572",borehole,0,400,2000,enough,07022019213WP139_236,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Kitunda,"39.17862778,-6.933914486",borehole,0,250,2000,enough,07022019213WP144_242,salty,swn 80,2004,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.17597062,-6.936500665",borehole,0,760,2010,enough,07022019213WP149_247,good,submersible,unknown,never pay,0,0,parastatal,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.18062853,-6.944957382",borehole,0,1,2000,enough,07022019213WP156_255,good,submersible,unknown,unknown,0,0,wug,none
+not functional,Dar es salaam,Ilala,Kitunda,"39.18065164,-6.944794905",borehole,0,1,2010,unknown,07022019213WP157_256,unknown,other,unknown,unknown,0,0,unknown,under construction
+not functional,Dar es salaam,Ilala,Kitunda,"39.18337553,-6.934502126",borehole,0,300,2000,enough,07022019213WP166_266,good,swn 80,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Kitunda,"39.18511771,-6.933386896",shallow well,0,600,2000,enough,07022019213WP168_268,good,nira/tanira,2010,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41269071,-6.970116599",borehole,100,130,2010,enough,07032021041WP28,good,submersible,2012,per bucket,0,0,vwc,other
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41311317,-7.031403949",shallow well,0,100,2000,enough,07032021041WP41,good,nira/tanira,2010,never pay,0,0,parastatal,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41329894,-7.017496484",shallow well,0,100,2000,enough,07032021041WP40,good,nira/tanira,2005,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42303514,-6.989225306",borehole,50,30,2000,enough,07032021041WP39,good,submersible,2011,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42162338,-6.985172626",shallow well,0,140,2000,enough,07032021041WP38,good,nira/tanira,2003,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42583886,-6.993814962",shallow well,0,80,2000,enough,07032021041WP37,good,other,2003,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42795195,-7.003940497",shallow well,0,80,2000,enough,07032021041WP35,good,nira/tanira,2003,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42533904,-7.001655926",borehole,50,40,2000,seasonal,07032021041WP34,good,submersible,2011,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42557738,-7.001847265",borehole,0,50,1980,insufficient,07032021041WP33,good,mono,1987,never pay,0,0,vwc,pump stolen
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.42672244,-6.974066092",shallow well,0,100,2000,enough,07032021041WP32,good,nira/tanira,2002,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41387408,-6.974554172",shallow well,0,60,2000,enough,07032021041WP31,good,other,2002,never pay,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.4061444,-6.964751925",shallow well,0,80,2000,enough,07032021041WP30,good,other,2002,never pay,0,0,other - school,pump stolen
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41360222,-6.966562941",borehole,100,150,2010,enough,07032021041WP29,good,submersible,2012,per bucket,0,0,other - school,other
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.43050678,-6.940968244",borehole,0,250,2000,enough,07032021041WP27,fluoride,india mark ii,2012,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.37407836,-6.948178727",borehole,0,89,2000,insufficient,07032021041WP26,salty,india mark ii,2010,never pay,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.37778296,-6.907996216",borehole,0,40,2000,insufficient,07032021041WP25,salty,india mark ii,2005,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.38138182,-6.913569419",borehole,0,40,2000,enough,07032021041WP24,salty,india mark ii,2005,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.35836254,-6.900386704",borehole,0,50,2000,dry,07032021041WP23,salty,other,unknown,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.36347523,-6.906621099",borehole,0,80,2000,enough,07032021041WP20,salty,india mark ii,2005,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.3567569,-6.917054541",borehole,100,20,2010,enough,07032021041WP18,good,submersible,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.41568948,-7.036623697",shallow well,0,120,2000,enough,07032021041WP43,good,nira/tanira,2008,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.34310847,-6.900409197",borehole,100,40,2010,enough,07032021041WP01,good,submersible,2011,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.35457189,-6.917460999",borehole,0,140,2000,dry,07032021041WP13,good,other,2008,never pay,0,0,vwc,pump stolen
+not functional,Dar es salaam,Temeke,Kisarawe II,"39.36345027,-6.894742271",borehole,0,80,2000,insufficient,07032021041WP22,fluoride,india mark ii,2005,never pay,0,0,other - school,none
+not functional,Dar es salaam,Ilala,Kinyerezi,"39.19232899,-6.898568585",borehole,50,120,2000,enough,07022019213WP116_211,good,submersible,2011,per bucket,0,0,wug,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52530703,-6.985190842",borehole,50,150,2000,insufficient,07032021061WP04,salty,mono,2012,per bucket,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53426616,-7.009173865",borehole,50,50,2010,seasonal,07032021061WP15,salty,mono,2012,per bucket,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53214169,-7.007529572",borehole,50,80,2010,seasonal,07032021061WP16,salty,mono,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53433925,-7.008008542",borehole,50,90,2010,seasonal,07032021061WP17,salty,mono,2012,per bucket,0,0,vwc,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53571763,-7.008661737",borehole,50,80,2010,seasonal,07032021061WP18,salty,mono,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53432087,-7.012232947",borehole,50,44,2010,seasonal,07032021061WP19,salty,mono,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53689034,-7.015605246",borehole,50,70,2010,seasonal,07032021061WP20,salty,mono,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52711433,-6.988747575",borehole,0,50,1970,dry,07032021061WP12,salty,mono,unknown,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Kimbiji,"39.51023164,-6.976417066",borehole,0,1,2010,enough,07032021061WP24,good,mono,unknown,other,0,0,vwc,under construction
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52601992,-6.986362542",borehole,50,80,1970,seasonal,07032021061WP11,salty,mono,1985,per bucket,0,0,parastatal,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52575652,-6.986025012",borehole,0,130,1970,dry,07032021061WP10,salty,mono,1985,never pay,0,0,parastatal,source damaged
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52628467,-6.986814952",borehole,0,140,1970,dry,07032021061WP09,salty,mono,1985,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Kimbiji,"39.5261829,-6.986868955",borehole,0,120,1970,dry,07032021061WP08,salty,mono,1985,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52539559,-6.985055649",borehole,0,150,1970,dry,07032021061WP05,salty,mono,1985,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52102973,-6.998580523",borehole,0,60,2010,enough,07032021061WP02,salty,india mark ii,2012,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53081799,-7.026166598",borehole,50,140,2010,enough,07032021061WP22,salty,mono,2012,per bucket,0,0,other - school,tap poorly sited
+not functional,Dar es salaam,Temeke,Kimbiji,"39.52970608,-7.030558019",borehole,0,250,2010,enough,07032021061WP21,good,india mark ii,2012,never pay,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Kimbiji,"39.53713175,-7.001963273",borehole,50,50,2000,insufficient,07032021061WP14,good,mono,2012,per bucket,0,0,parastatal,source damaged
+not functional,Dar es salaam,Kinondoni,Kibamba,"39.04833589,-6.750921973",river/lake,50,1632,1990,dry,07012020133WP01,good,submersible,unknown,never pay,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Kibamba,"39.04423615,-6.752638727",borehole,0,734,2000,dry,07012020133WP02,good,submersible,2009,never pay,0,0,parastatal,pipe broken
+not functional,Dar es salaam,Kinondoni,Kibamba,"39.03908798,-6.752762064",borehole,0,3981,2010,enough,07012020133WP03,good,submersible,unknown,never pay,0,0,parastatal,under construction
+not functional,Dar es salaam,Temeke,Kibada,"39.33665077,-6.88265065",borehole,0,70,2000,seasonal,07032021031WP13,good,mono,2006,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.3415448,-6.894724853",borehole,50,100,2000,insufficient,07032021031WP03,good,submersible,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.34122378,-6.87828374",borehole,0,1,1990,enough,07032021031WP12,good,mono,2007,never pay,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.33593292,-6.898001408",shallow well,0,90,2000,enough,07032021031WP11,good,other,2011,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Kibada,"39.33578541,-6.902947611",shallow well,0,250,2000,enough,07032021031WP10,good,other,2011,never pay,0,0,other - school,pump broken
+not functional,Dar es salaam,Temeke,Kibada,"39.33713777,-6.903594869",borehole,50,79,2000,seasonal,07032021031WP09,salty,mono,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.33751876,-6.900761052",borehole,50,60,2000,seasonal,07032021031WP08,salty,mono,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.34079178,-6.893935074",borehole,0,170,1970,dry,07032021031WP05,good,mono,1989,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.33781879,-6.898419172",borehole,50,50,2000,seasonal,07032021031WP07,salty,mono,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.3404686,-6.89422427",borehole,50,90,2000,seasonal,07032021031WP06,salty,mono,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.34688962,-6.894345323",borehole,50,50,2000,insufficient,07032021031WP04,salty,submersible,2005,per bucket,0,0,other - school,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.34098975,-6.893905977",borehole,0,140,1970,dry,07032021031WP01,good,mono,1989,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Temeke,Kibada,"39.34250345,-6.893721055",borehole,0,80,1970,dry,07032021031WP02,good,mono,1989,never pay,0,0,vwc,source damaged
+not functional,Dar es salaam,Kinondoni,Goba,"39.18047493,-6.718632068",river/lake,50,221,1970,dry,07012020141W34,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.14949255,-6.738261225",river/lake,50,283,1970,dry,07012020141WP07,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.14244379,-6.744409804",river/lake,50,1,1970,dry,07012020141WP10,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.17998396,-6.714689863",river/lake,50,264,2000,dry,07012020141W35,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.14430363,-6.7416754",river/lake,50,320,1970,dry,07012020141WP09,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15412521,-6.737453462",river/lake,50,241,1970,dry,07012020141WP06,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15813281,-6.734271948",river/lake,50,961,1970,dry,07012020141WP05,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15816546,-6.733333887",river/lake,50,221,1970,dry,07012020141WP04,good,submersible,1978,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15680782,-6.735556957",river/lake,50,286,1970,dry,07012020141WP03,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15916056,-6.73881467",river/lake,50,364,1970,dry,07012020141WP02,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16147436,-6.744003116",river/lake,50,256,1970,dry,07012020141W19,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16167274,-6.742731983",river/lake,50,195,1970,dry,07012020141W18,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.17532936,-6.729448501",river/lake,50,233,2010,dry,07012020141W37,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.18876298,-6.726613394",river/lake,50,267,1970,dry,07012020141W33,good,submersible,2011,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.19447193,-6.728003854",river/lake,50,228,1970,dry,07012020141W32,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.1942551,-6.731335739",river/lake,50,182,1970,dry,07012020141W31,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.19104166,-6.734010974",river/lake,50,271,1970,unknown,07012020141W30,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16439239,-6.74428004",river/lake,50,286,1970,dry,07012020141W20,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.1875803,-6.734310272",river/lake,50,250,1970,dry,07012020141W28,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.1799244,-6.711817427",river/lake,50,249,2010,dry,07012020141W36,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.18359439,-6.738728186",river/lake,50,246,1970,dry,07012020141W27,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.1419113,-6.741827016",river/lake,50,261,1970,dry,07012020141WP11,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.17722653,-6.738282984",river/lake,50,192,1970,dry,07012020141W26,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16989174,-6.738577925",river/lake,50,3241,1970,dry,07012020141W25,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16577004,-6.740503322",river/lake,50,253,1970,dry,07012020141W24,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.14686574,-6.741288747",river/lake,50,296,1970,dry,07012020141WP08,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16819703,-6.749736669",river/lake,50,203,2010,dry,07012020141W23,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.16236455,-6.740004286",river/lake,50,206,1970,dry,07012020141W16,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.14017681,-6.735762229",borehole,100,236,2000,dry,07012020141W14,good,india mark ii,2009,per bucket,0,0,vwc,pump broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.13073765,-6.741964276",borehole,100,528,2000,dry,07012020141W13,salty,india mark ii,2009,per bucket,0,0,vwc,pump broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.12739672,-6.740486927",borehole,50,862,2000,dry,07012020141W12,salty,india mark ii,2009,per bucket,0,0,vwc,under construction
+not functional,Dar es salaam,Kinondoni,Goba,"39.16672562,-6.747413606",river/lake,50,186,2010,dry,07012020141W22,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.19021422,-6.736925905",river/lake,50,216,1970,dry,07012020141W29,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.1621072,-6.741686464",river/lake,50,231,1970,dry,07012020141W17,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Kinondoni,Goba,"39.15714282,-6.738272188",river/lake,50,213,1970,dry,07012020141W15,good,submersible,2011,per bucket,0,0,vwc,pipe broken
+not functional,Dar es salaam,Ilala,Chanika,"39.08997378,-7.018482928",shallow well,0,120,2000,enough,07022019223WP14_484,good,other,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.1007204,-6.955428836",shallow well,0,350,2000,enough,07022019223WP138_482,good,other,2009,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09057676,-6.98052531",borehole,0,450,2000,enough,07022019223WP108_1,salty,submersible,2010,never pay,,,wug,pipe broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09674464,-6.979910896",shallow well,0,300,2010,seasonal,07022019223WP58_3,good,nira/tanira,2010,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.07896571,-6.995282807",shallow well,0,300,1990,enough,07022019223WP52_587,good,other,2001,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09674464,-6.979910896",shallow well,0,300,2010,seasonal,07022019223WP58_593,good,nira/tanira,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10124424,-6.981325502",shallow well,0,400,2000,insufficient,07022019223WP61_595,good,other,2008,never pay,0,0,wug,pipe broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09906887,-6.980121987",shallow well,0,300,2000,enough,07022019223WP65_599,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.08299395,-7.048821473",shallow well,0,120,2000,enough,07022019223WP12_462,good,other,2011,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.10124424,-6.981325502",shallow well,0,400,2000,insufficient,07022019223WP61_5,good,other,2008,never pay,,,wug,pipe broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09906887,-6.980121987",shallow well,0,300,2000,enough,07022019223WP65_9,good,other,2009,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09851362,-6.9802204",shallow well,0,250,2000,enough,07022019223WP66_10,good,other,2009,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10789343,-6.97391498",shallow well,0,350,2000,enough,07022019223WP70_11,good,other,2010,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10530661,-6.975593905",shallow well,0,250,2000,enough,07022019223WP71_12,good,other,2009,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10395018,-6.976270107",shallow well,0,250,2000,enough,07022019223WP72_13,good,other,2009,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09612255,-6.975051579",shallow well,0,250,2000,enough,07022019223WP73_14,good,other,2010,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09568416,-6.992611441",shallow well,0,250,2000,enough,07022019223WP78_19,good,other,2010,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09851362,-6.9802204",shallow well,0,250,2000,enough,07022019223WP66_600,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.11193641,-6.97424365",shallow well,0,250,2000,enough,07022019223WP67_601,good,nira/tanira,2012,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Kongwa,Chanika,"39.12651326,-6.995455757",shallow well,0,400,1990,enough,07022019223WP99_633,good,afridev,2007,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.10789343,-6.97391498",shallow well,0,350,2000,enough,07022019223WP70_604,good,other,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10530661,-6.975593905",shallow well,0,250,2000,enough,07022019223WP71_605,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10395018,-6.976270107",shallow well,0,250,2000,enough,07022019223WP72_606,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09612255,-6.975051579",shallow well,0,250,2000,enough,07022019223WP73_607,good,other,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.09568416,-6.992611441",shallow well,0,250,2000,enough,07022019223WP78_612,good,other,2010,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.08723348,-6.987381629",shallow well,0,250,2000,insufficient,07022019223WP86_620,good,nira/tanira,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.08857637,-6.984664635",shallow well,0,380,1990,enough,07022019223WP87_621,good,nira/tanira,2007,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09074224,-6.981723191",shallow well,0,250,1990,enough,07022019223WP88_622,good,other,2000,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Kongwa,Chanika,"39.09178536,-6.975964935",borehole,0,1,unknown,enough,07022019223WP91_625,unknown,other,unknown,unknown,0,0,wug,under construction
+not functional,Dar es salaam,Kongwa,Chanika,"39.09287141,-6.973930086",shallow well,0,200,2000,enough,07022019223WP93_627,good,other,2001,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Kongwa,Chanika,"39.09087979,-6.981829962",borehole,100,250,2000,insufficient,07022019223WP96_630,salty,submersible,2008,per bucket,0,0,wug,pipe broken
+not functional,Dar es salaam,Kongwa,Chanika,"39.11921037,-6.994704007",shallow well,0,250,2000,enough,07022019223WP97_631,good,nira/tanira,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Kongwa,Chanika,"39.11940852,-6.995187006",shallow well,0,300,2000,enough,07022019223WP98_632,good,nira/tanira,2008,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.10962636,-6.974576975",shallow well,0,250,2000,enough,07022019223WP68_602,good,other,2009,never pay,0,0,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.08723348,-6.987381629",shallow well,0,250,2000,insufficient,07022019223WP86_27,good,nira/tanira,2010,never pay,,,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.08857637,-6.984664635",shallow well,0,380,1990,enough,07022019223WP87_28,good,nira/tanira,2007,never pay,,,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09074224,-6.981723191",shallow well,0,250,1990,enough,07022019223WP88_29,good,other,2000,never pay,,,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09178536,-6.975964935",borehole,0,1,unknown,enough,07022019223WP91_32,unknown,other,unknown,unknown,,,wug,under construction
+not functional,Dar es salaam,Ilala,Chanika,"39.09287141,-6.973930086",shallow well,0,200,2000,enough,07022019223WP93_34,good,other,2001,never pay,,,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.09087979,-6.981829962",borehole,100,250,2000,insufficient,07022019223WP96_37,salty,submersible,2008,per bucket,,,wug,pipe broken
+not functional,Dar es salaam,Ilala,Chanika,"39.11921037,-6.994704007",shallow well,0,250,2000,enough,07022019223WP97_38,good,nira/tanira,2008,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.11940852,-6.995187006",shallow well,0,300,2000,enough,07022019223WP98_39,good,nira/tanira,2008,never pay,,,wug,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.12651326,-6.995455757",shallow well,0,400,1990,enough,07022019223WP99_40,good,afridev,2007,never pay,,,wug,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.100964,-6.955241964",shallow well,0,500,2000,enough,07022019223WP137_481,good,nira/tanira,2010,never pay,0,0,parastatal,pump broken
+not functional,Dar es salaam,Ilala,Chanika,"39.0978494,-6.962356682",shallow well,0,100,2010,enough,07022019223WP135_479,good,other,2011,never pay,0,0,parastatal,pump stolen
+not functional,Dar es salaam,Ilala,Chanika,"39.0814137,-7.047428765",shallow well,0,150,2000,enough,07022019223WP13_473,good,other,2010,never pay,0,0,wug,pump broken
+not functional,Dar es salaam,Temeke,Chamazi,"39.21980557,-6.968747555",borehole,50,140,2010,enough,07032021083WP01,good,submersible,2012,per bucket,0,0,other - school,none
+not functional,Dar es salaam,Temeke,Bunju,"39.10515822,-6.646640592",borehole,25,136,2010,dry,07012020184WP33,good,submersible,2013,per bucket,0,0,vwc,tank out of use
+not functional,Dar es salaam,Temeke,Bunju,"39.10317459,-6.646966208",borehole,25,122,2010,dry,07012020184WP32,good,submersible,2013,per bucket,0,0,vwc,tank out of use
+not functional,Dar es salaam,Temeke,Bunju,"39.10299911,-6.64807165",borehole,25,156,2010,dry,07012020184WP31,good,submersible,2013,per bucket,0,0,vwc,tank out of use

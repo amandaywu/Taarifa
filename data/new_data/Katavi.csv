@@ -1,0 +1,853 @@
+Status_group,Region,District_name,Ward_name,Location,Source_group,Amount_tsh,Pop_served,Construction_year,Quality_group,Wptcode,Quality_group,Extraction_group,Breakdown_year,Payment_group,Funder,Installer,Management,Hardware Problem
+functional,Katavi,Mlele,Utende,"31.9862795,-6.733208767",borehole,3000,350,1988,enough,15013079081WP23_159,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98360222,-6.696894749",borehole,2000,80,1988,enough,15013079081WP13_149,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98985526,-6.733893136",borehole,3000,550,1988,enough,15013079081WP22_158,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98931493,-6.730353717",borehole,3000,600,1988,enough,15013079081WP21_157,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"32.0103102,-6.646681489",borehole,5000,170,1988,enough,15013079081WP09_145,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.99709108,-6.657283409",borehole,10000,300,1988,enough,15013079081WP02_138,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.99315667,-6.660623336",borehole,10000,175,1988,enough,15013079081WP03_139,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.99235879,-6.662705144",borehole,10000,250,1988,enough,15013079081WP04_140,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"32.00182263,-6.651849569",borehole,5000,175,1988,enough,15013079081WP06_142,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"32.0068826,-6.650672521",borehole,5000,230,1988,enough,15013079081WP08_144,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"32.00691005,-6.646895447",borehole,5000,100,1988,enough,15013079081WP10_146,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"32.00137953,-6.649805122",borehole,5000,275,1988,insufficient,15013079081WP12_148,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.9960509,-6.659726391",borehole,10000,250,1988,enough,15013079081WP05_141,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98727958,-6.698588756",borehole,2000,60,1988,enough,15013079081WP14_150,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98469685,-6.700418152",borehole,2000,80,1988,enough,15013079081WP15_151,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98774349,-6.702124054",borehole,2000,120,1988,enough,15013079081WP16_152,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.990171,-6.701287614",borehole,2000,153,1988,enough,15013079081WP17_153,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.99471234,-6.702095135",borehole,0,260,1988,enough,15013079081WP18_154,salty,india mark ii,unknown,never pay,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98750388,-6.730193248",borehole,3000,50,1988,enough,15013079081WP19_155,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Utende,"31.98596822,-6.728569917",borehole,3000,43,1988,enough,15013079081WP20_156,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Usevya,"31.23331743,-7.103575622",rainwater harvesting,5000,40,2011,seasonal,15013079153WP260_337,good,other,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Usevya,"31.23347037,-7.1126293",borehole,5000,1500,2007,insufficient,15013079153WP256_333,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Usevya,"31.23605319,-7.112914324",borehole,5000,1500,2010,enough,15013079153WP257_334,good,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Usevya,"31.23374579,-7.103858961",borehole,5000,350,1997,enough,15013079153WP259_336,salty,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Urwira,"31.34474233,-6.436601257",other,0,83,2010,seasonal,15013079111WP190_222,good,nira/tanira,unknown,never pay,UNHCR,UNHCR,water authority,none
+functional,Katavi,Mlele,Urwira,"31.35012079,-6.442712258",borehole,2000,70,1993,enough,15013079111WP191_223,salty,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Urwira,"31.35251526,-6.44924209",borehole,2000,580,1993,enough,15013079111WP192_224,salty,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Urwira,"31.35978955,-6.447737887",borehole,2000,365,1993,enough,15013079111WP193_225,salty,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Urwira,"31.36313073,-6.451838526",borehole,2000,231,1991,enough,15013079111WP195_227,good,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Urwira,"31.36204972,-6.492586642",borehole,2000,341,2010,insufficient,15013079111WP197_229,good,india mark ii,unknown,annually,Africare,Africa,vwc,none
+functional,Katavi,Mlele,Urwira,"31.36029939,-6.451336784",borehole,2000,231,1991,enough,15013079111WP194_226,good,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Ugala,"31.1589007,-5.783408013",borehole,15,2416,2010,enough,15013079021WP02_31,good,india mark ii,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Sitalike,"31.11727912,-6.483799556",borehole,100,1500,2005,enough,15013079141WP137_313,salty,india mark ii,unknown,per bucket,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Sitalike,"31.10830447,-6.515287292",borehole,100,450,2004,seasonal,15013079141WP138_314,good,nira/tanira,unknown,per bucket,TANAPA,DWE,vwc,none
+functional,Katavi,Mlele,Sitalike,"31.11171671,-6.561745497",borehole,500,360,2002,enough,15013079141WP139_315,salty,nira/tanira,unknown,annually,TANAPA,DWE,vwc,none
+functional,Katavi,Mlele,Sitalike,"31.14277063,-6.623574381",borehole,3600,200,2004,enough,15013079141WP143_319,salty,nira/tanira,unknown,annually,TANAPA,DAWE,vwc,none
+functional,Katavi,Mlele,Sibwesa,"30.74698564,-6.493406605",borehole,1000,1000,1994,enough,15013079311WP05_734,milky,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Sibwesa,"30.81010294,-6.541932146",shallow well,1000,3200,2005,insufficient,15013079311WP01_730,colored,nira/tanira,unknown,annually,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Shanwe,"31.06408077,-6.318871959",borehole,30,450,1985,insufficient,15013079252WP21_703,good,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Shanwe,"31.06293367,-6.331861144",borehole,30,1500,2009,enough,15013079252WP22_704,unknown,india mark ii,unknown,per bucket,Swifti,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Shanwe,"31.06280677,-6.331372777",river/lake,30,1500,2006,enough,15013079252WP23_705,good,gravity,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Shanwe,"31.06238097,-6.334238861",river/lake,30,750,2010,enough,15013079252WP24_706,colored,gravity,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Nsimbo,"31.18289417,-6.380530718",borehole,3000,50,1988,seasonal,15013079121WP23_252,good,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.23939998,-6.368389492",spring,12000,60,2008,enough,15013079121WP53_282,good,gravity,unknown,annually,World Bank,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.22268302,-6.372921192",spring,1000,200,1972,enough,15013079121WP43_272,good,gravity,unknown,annually,Government of Tanzania,DW,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.23399399,-6.372238901",spring,12000,196,2008,enough,15013079121WP45_274,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.23242435,-6.371718794",spring,1000,70,2008,enough,15013079121WP46_275,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.23661335,-6.370112953",spring,12000,93,2008,enough,15013079121WP52_281,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.18818222,-6.378133776",borehole,3000,300,2003,seasonal,15013079121WP21_250,unknown,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.18234247,-6.37657053",borehole,3000,20,1993,enough,15013079121WP22_251,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.24955997,-6.395402315",borehole,2000,400,2007,insufficient,15013079121WP64_293,good,nira/tanira,unknown,annually,LGA and the Commu,LGA an,vwc,none
+functional,Katavi,Mlele,Nsimbo,"31.24232882,-6.378634911",spring,12000,90,2008,enough,15013079121WP60_289,good,gravity,unknown,annually,World Bank,DWE,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01302326,-6.791421718",borehole,2500,150,1989,enough,15013079331WP31_777,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"31.99877293,-6.746036752",borehole,5000,384,1988,enough,15013079331WP01_747,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"31.99754949,-6.742561491",borehole,5000,192,1988,enough,15013079331WP02_748,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"31.99432495,-6.745678025",borehole,3000,328,1988,enough,15013079331WP03_749,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01839753,-6.792635491",borehole,2500,50,1989,enough,15013079331WP30_776,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.00174817,-6.752195897",borehole,3000,176,1988,enough,15013079331WP06_752,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.00271148,-6.750025503",borehole,3000,176,1988,enough,15013079331WP07_753,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01219901,-6.769347152",borehole,0,50,1988,enough,15013079331WP09_755,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.00996424,-6.771560693",borehole,5000,70,1988,insufficient,15013079331WP10_756,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01503172,-6.773384597",borehole,5000,400,1989,enough,15013079331WP14_760,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01411201,-6.771044666",borehole,5000,200,1988,insufficient,15013079331WP15_761,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01580605,-6.770500087",borehole,5000,150,1989,enough,15013079331WP16_762,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01649705,-6.773265806",borehole,5000,600,1989,insufficient,15013079331WP17_763,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01767446,-6.777594641",borehole,5000,300,1989,enough,15013079331WP19_765,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01010637,-6.778504221",borehole,5000,200,1989,enough,15013079331WP24_770,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01137502,-6.780787718",borehole,5000,150,1989,enough,15013079331WP25_771,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01453997,-6.779558798",borehole,5000,150,1989,enough,15013079331WP26_772,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.01864945,-6.798955524",borehole,2500,150,1989,enough,15013079331WP28_774,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"31.99793157,-6.748722432",borehole,3000,156,1988,enough,15013079331WP04_750,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsenkwa,"32.00150319,-6.747398516",borehole,3000,176,1988,enough,15013079331WP08_754,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Nsemulwa,"31.08345715,-6.349554335",borehole,30,700,1987,enough,15013079282WP07_721,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mpanda Rural,Nsemulwa,"31.08344983,-6.346888227",borehole,30,560,2010,enough,15013079272WP11_713,good,submersible,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Mwese,"30.32392095,-6.200485545",rainwater harvesting,0,500,2012,seasonal,15013079211WP07_430,good,gravity,unknown,never pay,District Council,Distri,water authority,none
+functional,Katavi,Mpanda Rural,Mwese,"30.30692054,-6.179853355",borehole,0,250,2009,enough,15013079211WP04_427,unknown,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Mwese,"30.32260314,-6.186518679",shallow well,0,500,1996,enough,15013079211WP03_426,good,nira/tanira,unknown,never pay,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Mwese,"30.35060066,-6.197220637",shallow well,1000,154,1996,insufficient,15013079211WP02_425,colored,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Mwamapuli,"31.36951079,-7.153215484",borehole,25,800,unknown,enough,15013079101WP245_207,salty,india mark ii,unknown,per bucket,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mtapenda,"31.17223368,-6.318543125",borehole,1000,3000,2009,enough,15013079041WP101_34,salty,india mark ii,unknown,monthly,LGA,DDCA,vwc,none
+functional,Katavi,Mlele,Mtapenda,"31.17616513,-6.32036669",borehole,1000,680,1990,enough,15013079041WP96_75,good,india mark ii,unknown,monthly,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mtapenda,"31.17461749,-6.371287489",borehole,0,300,2005,enough,15013079041WP115_48,good,india mark ii,unknown,never pay,LGA,DWE,company,none
+functional,Katavi,Mlele,Mtapenda,"31.16813208,-6.322967862",borehole,1000,80,1990,enough,15013079041WP105_38,good,india mark ii,unknown,monthly,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.95599885,-6.219656278",borehole,2000,300,1994,insufficient,15013079241WP12_695,good,india mark ii,unknown,on failure,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Mpanda Ndogo,"30.9697289,-6.243416226",borehole,1000,420,1995,enough,15013079241WP16_699,good,india mark ii,unknown,on failure,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.96780617,-6.245754161",borehole,0,175,1995,enough,15013079241WP15_698,good,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.93175024,-6.084315959",borehole,1000,1,2012,insufficient,15013079241WP01_684,good,india mark ii,unknown,monthly,KKKT,KKT,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98624157,-6.184469639",borehole,500,3000,2007,enough,15013079241WP04_687,salty,india mark ii,unknown,on failure,District Council,Distri,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98041812,-6.180652142",shallow well,500,1500,1994,enough,15013079241WP05_688,good,nira/tanira,unknown,on failure,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Mpanda Ndogo,"30.9530646,-6.217756478",borehole,0,253,1994,enough,15013079241WP13_696,good,india mark ii,unknown,never pay,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.96948631,-6.221490233",borehole,0,450,2005,insufficient,15013079241WP10_693,good,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Mpanda Hotel,"31.06722698,-6.355927752",shallow well,30,500,1987,enough,15013079282WP05_719,good,nira/tanira,unknown,per bucket,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mlele,Misunkumilo,"31.04794544,-6.32790808",borehole,0,750,1985,enough,15013079293WP28_725,good,india mark ii,unknown,never pay,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Misunkumilo,"31.04822137,-6.338338995",borehole,0,360,2012,enough,15013079293WP29_726,good,india mark ii,unknown,never pay,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mlele,Misunkumilo,"31.03191065,-6.330087177",borehole,0,1,1985,enough,15013079293WP30_727,good,afridev,unknown,never pay,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Misunkumilo,"31.05438807,-6.345434862",borehole,30,560,1984,enough,15013079293WP31_728,good,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47778722,-5.714982989",shallow well,0,150,1981,enough,15013079223WP48_630,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.51231392,-5.72206725",borehole,0,50,1985,enough,15013079223WP42_624,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+functional,Katavi,Mpanda Rural,Mishamo,"30.49686273,-5.645975985",borehole,500,50,1982,enough,15013079223WP36_618,good,other handpump,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.49283743,-5.61407327",borehole,500,60,2010,enough,15013079223WP31_613,good,india mark ii,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.4834363,-5.616228992",spring,500,1,1980,enough,15013079223WP29_611,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48468221,-5.615401336",spring,500,10,1980,enough,15013079223WP26_608,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.69484878,-5.712060449",borehole,0,1,2012,enough,15013079223WP252_607,good,india mark ii,unknown,never pay,KKKT,KKT,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.32632475,-5.691775056",borehole,0,450,1984,enough,15013079223WP251_606,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.31540551,-5.68331109",borehole,1000,70,1984,enough,15013079223WP245_599,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.33407889,-5.676393133",borehole,500,175,1984,insufficient,15013079223WP239_592,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.3341839,-5.689490204",borehole,500,50,1984,enough,15013079223WP238_591,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.34367129,-5.698288216",borehole,500,1,1983,enough,15013079223WP235_588,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.42079177,-5.666338602",borehole,500,147,1984,enough,15013079223WP229_581,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.42894748,-5.633065836",borehole,500,276,1984,enough,15013079223WP220_572,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.56076571,-5.728708135",borehole,500,343,1985,enough,15013079223WP178_525,good,other,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.34574403,-5.627716654",borehole,500,176,1983,enough,15013079223WP169_515,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.3633954,-5.652269831",borehole,500,370,1985,insufficient,15013079223WP160_506,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48186857,-5.614953296",spring,500,20,1980,enough,15013079223WP16_505,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.41301548,-5.502424666",borehole,500,178,1983,enough,15013079223WP159_504,good,other,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.42627289,-5.519337165",borehole,500,175,1983,insufficient,15013079223WP152_497,good,other,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.39037765,-5.59866685",shallow well,500,150,1982,enough,15013079223WP140_484,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48104452,-5.614317399",spring,500,12,1980,enough,15013079223WP14_483,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.42181554,-5.588691784",shallow well,500,273,1982,enough,15013079223WP138_481,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.40569583,-5.610411359",borehole,500,94,1981,enough,15013079223WP137_480,good,other,unknown,on failure,TCRS,TCRS,other,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.39837721,-5.626219899",borehole,500,175,1984,insufficient,15013079223WP132_475,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.41406379,-5.615673516",borehole,0,250,1983,insufficient,15013079223WP131_474,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.41723374,-5.613595894",shallow well,0,90,1982,enough,15013079223WP130_473,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47721072,-5.613809767",shallow well,500,1,1983,enough,15013079223WP13_472,salty,other handpump,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.43827523,-5.610762842",shallow well,0,350,1980,enough,15013079223WP127_469,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.44175325,-5.595229557",shallow well,0,80,1982,enough,15013079223WP126_468,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.44425249,-5.605908175",borehole,0,1,1983,enough,15013079223WP125_467,unknown,india mark ii,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.44830075,-5.566163121",borehole,500,250,1981,enough,15013079223WP123_465,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.3868068,-5.55083374",borehole,0,375,1983,insufficient,15013079223WP118_459,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48280147,-5.611495631",borehole,500,200,1980,enough,15013079223WP08_437,salty,india mark ii,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48071678,-5.611879071",borehole,500,100,1984,enough,15013079223WP07_436,salty,india mark ii,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47945021,-5.612784212",spring,500,20,1980,enough,15013079223WP06_435,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47911682,-5.612055998",spring,0,30,1980,unknown,15013079223WP05_434,unknown,gravity,unknown,unknown,TCRS,TCRS,unknown,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47884415,-5.612543097",spring,500,20,1980,unknown,15013079223WP04_433,unknown,gravity,unknown,monthly,TCRS,TCRS,unknown,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47812267,-5.612126443",spring,500,50,1980,enough,15013079223WP03_432,good,submersible,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.47768802,-5.611719796",spring,500,100,1980,enough,15013079223WP02_431,good,submersible,unknown,monthly,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48479257,-5.699074521",borehole,0,300,1985,enough,15013079223WP54_636,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.53525524,-5.609927908",borehole,0,350,1985,enough,15013079223WP59_641,good,india mark ii,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.49300643,-5.577415654",borehole,0,1,1981,enough,15013079223WP72_653,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.48580066,-5.571496029",borehole,0,70,1981,enough,15013079223WP73_654,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.46822863,-5.595890413",borehole,0,170,1983,enough,15013079223WP76_657,unknown,india mark ii,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.46648498,-5.558924709",borehole,0,90,1981,enough,15013079223WP77_658,good,other,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.46308825,-5.6215235",borehole,1000,500,1980,insufficient,15013079201WP01_407,good,india mark ii,unknown,annually,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Mishamo,"30.34570962,-5.534140574",borehole,1500,80,1983,enough,15013079223WP83_664,good,other,unknown,on failure,TCRS,TCRS,water authority,none
+functional,Katavi,Mlele,Mbede,"31.32135557,-7.207079713",borehole,1000,300,2010,enough,15013079101WP248_210,good,india mark ii,unknown,annually,LGA,DDCA,vwc,none
+functional,Katavi,Mlele,Mbede,"31.32379703,-7.203076578",borehole,1000,700,2008,enough,15013079101WP246_208,good,india mark ii,unknown,annually,LGA,DDCA,vwc,none
+functional,Katavi,Mlele,Mamba,"31.36627096,-7.317503669",other,8000,500,2011,enough,15013079091WP229_191,good,other,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.37447131,-7.42608242",spring,5000,190,2011,enough,15013079091WP215_177,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.36583645,-7.317729763",spring,8000,500,2009,insufficient,15013079091WP228_190,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.37960265,-7.428263638",spring,5000,80,2011,enough,15013079091WP214_176,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.38282241,-7.429121697",spring,5000,150,2011,enough,15013079091WP213_175,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.38439937,-7.429752358",spring,5000,100,2011,enough,15013079091WP212_174,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.38316892,-7.427406073",spring,5000,150,2011,enough,15013079091WP211_173,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.37120449,-7.424156995",spring,5000,250,2011,enough,15013079091WP216_178,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.37950275,-7.286352414",borehole,3000,3000,2007,enough,15013079091WP235_197,good,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.36696489,-7.32517864",spring,8000,1206,2009,enough,15013079091WP224_186,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.37046392,-7.42284142",spring,5000,170,2011,enough,15013079091WP217_179,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.36446647,-7.415140375",spring,5000,150,2011,enough,15013079091WP221_183,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.36880327,-7.421500989",spring,5000,30,2011,enough,15013079091WP218_180,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Mamba,"31.3676481,-7.321724571",spring,8000,1200,2009,enough,15013079091WP226_188,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Kakonko,Makanyagio,"31.06229558,-6.336928057",shallow well,30,1,1985,enough,15013079352WP26_832,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Kakonko,Makanyagio,"31.06281868,-6.342233513",borehole,30,2000,2008,enough,15013079352WP27_833,salty,submersible,unknown,per bucket,REDESO,MUWASA,water authority,none
+functional,Katavi,Kakonko,Makanyagio,"31.05806809,-6.346254317",shallow well,30,2000,1996,seasonal,15013079352WP33_834,good,nira/tanira,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Majimoto,"31.39531627,-7.245879759",spring,5000,9800,2009,enough,15013079091WP237_199,good,gravity,unknown,annually,VWC,VWC,vwc,none
+functional,Katavi,Mlele,Majimoto,"31.39297935,-7.249750812",borehole,5000,3000,2008,enough,15013079091WP238_200,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.09538092,-6.428085875",borehole,3000,300,1990,enough,15013079131WP126_309,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.09075658,-6.423624467",borehole,3000,50,1990,enough,15013079131WP125_308,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.08843215,-6.415109396",rainwater harvesting,0,50,2010,seasonal,15013079131WP124_307,good,other,unknown,never pay,LGA,DWE,water authority,none
+functional,Katavi,Mlele,Magamba,"31.09589578,-6.423267844",borehole,3000,70,1990,enough,15013079131WP127_310,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.1041073,-6.437005869",borehole,3000,200,1990,enough,15013079131WP129_312,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.08727129,-6.41178003",borehole,4000,200,1990,enough,15013079131WP122_305,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.08378493,-6.415273629",borehole,4000,300,1990,insufficient,15013079131WP119_302,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.08582244,-6.42304511",borehole,4000,175,2009,enough,15013079131WP118_301,salty,india mark ii,unknown,annually,Government of Tanzania,DDCA,vwc,none
+functional,Katavi,Mlele,Magamba,"31.08892345,-6.415105714",borehole,4000,57,1984,enough,15013079131WP117_300,salty,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.080447,-6.40676246",borehole,4000,100,1990,enough,15013079131WP120_303,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mlele,Magamba,"31.09053779,-6.408079618",borehole,4000,50,1990,insufficient,15013079131WP123_306,good,india mark ii,unknown,annually,NORAD,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Machimboni,"31.09098887,-6.480905844",borehole,4000,1021,2007,enough,15013079171WP131_352,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Machimboni,"31.07738269,-6.487097632",borehole,4000,281,2008,enough,15013079171WP132_353,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Machimboni,"31.08098544,-6.521499263",borehole,500,300,2010,enough,15013079171WP134_355,salty,india mark ii,unknown,monthly,TANAPA,DDCA,vwc,none
+functional,Katavi,Mpanda Rural,Machimboni,"31.09209217,-6.467604752",borehole,1000,1200,2005,insufficient,15013079171WP130_351,salty,india mark ii,unknown,monthly,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.22735343,-6.339514087",spring,0,150,2008,unknown,15013079041WP81_60,unknown,gravity,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mlele,Litapunga,"31.2300297,-6.339613622",spring,500,150,2008,enough,15013079041WP82_61,good,gravity,unknown,on failure,World Bank,DWE,other,none
+functional,Katavi,Kibondo,Litapunga,"31.2070372,-6.224796031",borehole,3000,120,1990,insufficient,15013079341WP46_824,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.23588068,-6.348796337",spring,0,400,2008,enough,15013079041WP89_68,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+functional,Katavi,Mlele,Litapunga,"31.24737857,-6.360141866",spring,0,200,2008,enough,15013079041WP93_72,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+functional,Katavi,Mlele,Litapunga,"31.25065276,-6.359445245",spring,0,400,2008,enough,15013079041WP95_74,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+functional,Katavi,Mlele,Litapunga,"31.25125893,-6.33181391",borehole,2000,600,1990,enough,15013079341WP51_829,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.22327671,-6.339166223",spring,0,400,2008,enough,15013079041WP79_58,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+functional,Katavi,Kakonko,Litapunga,"31.25691448,-6.322561382",borehole,10000,500,1990,insufficient,15013079341WP50_828,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Kakonko,Litapunga,"31.23951558,-6.320495455",borehole,0,200,1990,insufficient,15013079341WP49_827,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.23787823,-6.230409565",borehole,1000,400,1990,enough,15013079341WP39_816,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.21776129,-6.324309358",spring,0,742,2008,enough,15013079041WP73_52,good,afridev,unknown,on failure,World Bank,DWE,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.20197866,-6.279026914",borehole,500,600,1990,enough,15013079341WP27_804,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.23301968,-6.317632504",borehole,0,500,1995,enough,15013079041WP71_50,colored,india mark ii,unknown,never pay,TCRS,TCRS,water authority,none
+functional,Katavi,Mlele,Litapunga,"31.28874049,-6.343835367",borehole,2500,450,1990,enough,15013079341WP12_789,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.31844037,-6.34636446",borehole,2000,450,1985,enough,15013079341WP10_787,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.33385894,-6.292749733",borehole,1000,250,1990,insufficient,15013079341WP08_785,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.31712081,-6.296959272",borehole,0,450,1990,enough,15013079341WP07_784,good,india mark ii,unknown,never pay,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.15213789,-6.227185951",borehole,2500,100,1990,enough,15013079341WP33_810,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.14680867,-6.24689933",borehole,2500,100,1990,enough,15013079341WP30_807,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.28863837,-6.290808941",borehole,250,150,1990,enough,15013079341WP05_782,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.27377349,-6.293494618",borehole,0,470,1985,enough,15013079341WP03_780,good,india mark ii,unknown,never pay,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.25953191,-6.297390149",borehole,2500,500,1985,enough,15013079341WP02_779,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.22322879,-6.203626214",borehole,1500,700,1990,insufficient,15013079341WP40_817,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.22116915,-6.187024267",borehole,1500,150,1990,insufficient,15013079341WP41_818,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.21752477,-6.174683345",other,0,1,unknown,unknown,15013079341WP41_819,unknown,other,unknown,unknown,,,unknown,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.21202166,-6.180637766",borehole,500,600,1990,enough,15013079341WP42_820,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Kibondo,Litapunga,"31.21451495,-6.207343731",borehole,500,200,1990,insufficient,15013079341WP44_822,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Kibondo,Litapunga,"31.23801358,-6.318514158",borehole,0,500,1994,enough,15013079341WP48_826,good,india mark ii,unknown,never pay,Roman Catholic,Roman,private operator,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.14533876,-6.215116819",borehole,5000,250,1990,enough,15013079341WP35_812,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.13979173,-6.208993413",borehole,3000,400,1990,enough,15013079341WP36_813,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.23380718,-6.244343939",borehole,500,400,1990,enough,15013079341WP37_814,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.27222741,-6.313151734",borehole,2500,400,1990,enough,15013079341WP17_794,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Kakonko,Litapunga,"31.19737879,-6.221129724",borehole,8000,350,1985,insufficient,15013079341WP47_825,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.17164113,-6.258824737",borehole,2000,800,1990,enough,15013079341WP28_805,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mlele,Litapunga,"31.23466708,-6.293208474",borehole,0,450,1990,enough,15013079341WP19_796,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.23088492,-6.241719182",borehole,0,550,1990,enough,15013079341WP38_815,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.23275895,-6.288119698",borehole,0,700,1990,insufficient,15013079341WP22_799,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.22384276,-6.29927611",borehole,2500,600,1990,enough,15013079341WP23_800,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Urban,Litapunga,"31.21659894,-6.293211842",borehole,4000,700,1990,insufficient,15013079341WP25_802,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,none
+functional,Katavi,Mpanda Rural,Kibaoni,"31.16922705,-7.102952002",borehole,0,200,2010,enough,15013079161WP262_339,salty,india mark ii,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kibaoni,"31.16608281,-7.104810023",borehole,0,150,2007,enough,15013079161WP265_342,salty,india mark ii,unknown,never pay,LGA,DDCA,water authority,none
+functional,Katavi,Mpanda Rural,Kibaoni,"31.15483739,-7.105051998",borehole,0,300,2008,insufficient,15013079161WP267_344,salty,india mark ii,unknown,never pay,LGA,DDCA,vwc,none
+functional,Katavi,Mpanda Rural,Kibaoni,"31.07487064,-7.094016415",spring,3000,500,2006,enough,15013079161WP271_348,good,gravity,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kibaoni,"31.1384894,-7.116743102",borehole,20,200,2010,enough,15013079161WP272_349,salty,india mark ii,unknown,per bucket,Africare,Africa,vwc,none
+functional,Katavi,Mlele,Kibaoni,"31.08326258,-7.072507363",borehole,3000,250,2008,enough,15013079161WP269_346,good,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kawajense,"31.07393259,-6.333608246",borehole,30,1,2006,enough,15013079262WP16_710,good,submersible,unknown,per bucket,UNHCR,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Kawajense,"31.09040441,-6.328856537",borehole,30,560,1980,enough,15013079262WP13_707,good,other,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Kawajense,"31.08647096,-6.320823612",borehole,0,372,2009,enough,15013079262WP14_708,good,india mark ii,unknown,never pay,Said A Alf,MUWASA,water authority,none
+functional,Katavi,Mpanda Rural,Kawajense,"31.07281961,-6.330619409",borehole,30,300,1980,enough,15013079262WP17_711,good,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mpanda Urban,Katuma,"30.71440513,-6.281933589",borehole,30,450,2008,enough,15013079231WP02_682,good,india mark ii,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Kasokola,"31.0714527,-6.277956751",borehole,2000,300,2008,insufficient,15013079011WP162_10,salty,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Kasokola,"31.08448572,-6.268661483",borehole,0,300,1993,enough,15013079011WP177_25,good,nira/tanira,unknown,on failure,RUDEP,DWE,vwc,none
+functional,Katavi,Mlele,Kasokola,"31.09063206,-6.280554132",borehole,0,244,2008,enough,15013079011WP181_29,good,india mark ii,unknown,never pay,LGA,DDCA,other,none
+functional,Katavi,Mlele,Kashaulili,"31.07302384,-6.344519084",borehole,30,1000,1987,insufficient,15013079282WP08_722,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Kakonko,Kashaulili,"31.0702958,-6.342712532",borehole,30,10000,2006,enough,15013079372WP40_841,good,submersible,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Kakonko,Kashaulili,"31.06948231,-6.346305398",borehole,30,2500,2008,enough,15013079372WP39_840,salty,submersible,unknown,per bucket,UNHCR,MUWASA,water authority,none
+functional,Katavi,Kakonko,Kashaulili,"31.06824759,-6.34666951",borehole,30,2000,1985,enough,15013079372WP37_838,good,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Kasansa,"31.41668399,-7.447490569",spring,3000,280,2009,enough,15013079091WP198_160,good,gravity,unknown,annually,World Bank,DWE,vwc,none
+functional,Katavi,Mlele,Kasansa,"31.42266419,-7.457219638",spring,3000,500,2009,enough,15013079091WP199_161,good,gravity,unknown,annually,World Bank,DWE,vwc,none
+functional,Katavi,Mlele,Kasansa,"31.41993525,-7.460039842",spring,3000,400,2009,enough,15013079091WP200_162,good,gravity,unknown,annually,World Bank,DWE,vwc,none
+functional,Katavi,Mlele,Kasansa,"31.38607818,-7.455670293",spring,3000,220,1987,enough,15013079091WP207_169,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Karema,"30.43524089,-6.809312111",borehole,0,500,2006,enough,15013079183WP02_359,good,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Karema,"30.43462457,-6.782573581",borehole,0,500,2012,enough,15013079183WP01_358,salty,india mark ii,unknown,never pay,Wafidhi wa ziwa T,Wafidh,vwc,none
+functional,Katavi,Mpanda Rural,Karema,"30.4431336,-6.814486089",borehole,0,350,2010,enough,15013079183WP03_360,good,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Karema,"30.44271967,-6.814187027",rainwater harvesting,0,350,2012,seasonal,15013079183WP04_361,good,gravity,unknown,never pay,District Council,Distri,parastatal,none
+functional,Katavi,Mpanda Rural,Karema,"30.44035179,-6.816472606",borehole,500,200,2010,enough,15013079183WP07_364,salty,india mark ii,unknown,monthly,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Karema,"30.4415405,-6.823891442",borehole,500,100,1994,insufficient,15013079183WP10_367,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+functional,Katavi,Mlele,Kapalamsenga,"30.49310881,-6.814191522",shallow well,1000,450,1994,insufficient,15013079321WP05_739,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Kapalamsenga,"30.50898148,-6.842289426",shallow well,2000,450,2007,enough,15013079321WP11_745,salty,nira/tanira,unknown,annually,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Kapalamsenga,"30.49496657,-6.809611348",shallow well,1000,1000,1994,insufficient,15013079321WP04_738,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Kapalamsenga,"30.49222776,-6.815453239",shallow well,1000,1000,1994,insufficient,15013079321WP06_740,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Kapalamsenga,"30.50113224,-6.845658645",shallow well,2000,400,2008,enough,15013079321WP10_744,good,other,unknown,annually,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Kapalala,"31.17273309,-6.379269375",borehole,2000,889,1990,seasonal,15013079121WP11_240,salty,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+functional,Katavi,Mlele,Kapalala,"31.14284721,-6.385122022",borehole,14000,1300,2009,enough,15013079121WP06_235,good,other handpump,unknown,annually,DWE,DDCA,vwc,none
+functional,Katavi,Mlele,Kapalala,"31.12767559,-6.421192115",borehole,3000,100,2011,enough,15013079121WP04_233,salty,nira/tanira,unknown,annually,DWE,DWE,vwc,none
+functional,Katavi,Mlele,Kapalala,"31.15358913,-6.419250803",borehole,3000,1000,2010,enough,15013079121WP01_230,good,india mark ii,unknown,annually,DWE,Mwibal,vwc,none
+functional,Katavi,Kakonko,Kakese,"30.98588433,-6.427875453",borehole,50,1500,2012,enough,15013079382WP07_851,good,mono,unknown,per bucket,Bread for the wor,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"31.0136641,-6.399944177",borehole,500,50,1992,enough,15013079382WP05_849,salty,india mark ii,unknown,monthly,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"31.00243343,-6.405662856",borehole,50,1000,1992,enough,15013079382WP09_853,good,afridev,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"30.98585202,-6.427877516",borehole,50,1,2012,enough,15013079382WP06_850,good,india mark ii,unknown,per bucket,Bread for the wor,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"30.90998298,-6.508258388",shallow well,0,1,1998,insufficient,15013079382WP01_845,good,nira/tanira,unknown,on failure,Village council /,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"31.01536681,-6.400302007",borehole,500,50,1992,enough,15013079382WP02_846,salty,other,unknown,monthly,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"31.01396215,-6.406762388",borehole,500,23,1992,enough,15013079382WP04_848,salty,india mark ii,unknown,monthly,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"30.98855279,-6.423811343",borehole,50,450,2008,enough,15013079382WP08_852,good,afridev,unknown,per bucket,Bread of the worl,Distri,vwc,none
+functional,Katavi,Kakonko,Kakese,"31.01703459,-6.405512819",borehole,500,40,1992,insufficient,15013079382WP03_847,salty,india mark ii,unknown,monthly,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.9657365,-6.335683746",borehole,50,350,2005,enough,15013079201WP14_415,salty,india mark ii,unknown,per bucket,District Council,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.77995466,-6.417437897",shallow well,5000,3014,2009,enough,15013079201WP16_417,good,nira/tanira,unknown,annually,District Council,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.97340723,-6.302322879",borehole,1000,150,2005,enough,15013079201WP10_411,good,india mark ii,unknown,monthly,District Council,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"31.03203454,-6.3074654",borehole,0,700,1988,enough,15013079201WP276_421,good,india mark ii,unknown,on failure,RUDEP,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"31.02503237,-6.305366215",borehole,0,400,1985,insufficient,15013079201WP277_422,good,india mark ii,unknown,on failure,RUDEP,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"31.01375565,-6.314106694",borehole,0,160,1988,enough,15013079201WP274_419,salty,india mark ii,unknown,on failure,RUDEP,DWE,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.98500667,-6.312748206",rainwater harvesting,0,300,2007,seasonal,15013079201WP07_408,good,gravity,unknown,never pay,District Council,Distri,parastatal,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.9837999,-6.312810389",borehole,0,360,2010,insufficient,15013079201WP08_409,good,india mark ii,unknown,never pay,District Council,Distri,parastatal,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.97963593,-6.30885089",borehole,1000,250,1999,enough,15013079201WP09_410,salty,swn 80,unknown,monthly,District Council,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Kabungu,"30.83044524,-6.334656656",shallow well,1000,2395,2009,insufficient,15013079201WP17_418,colored,nira/tanira,unknown,annually,District Council,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05466472,-6.717033568",borehole,5000,150,1986,insufficient,15013079053WP11_89,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.06353304,-6.720024958",borehole,5000,400,1986,enough,15013079053WP03_81,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05733941,-6.720746916",borehole,5000,400,1986,enough,15013079053WP07_85,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05825635,-6.719580723",borehole,5000,400,1986,insufficient,15013079053WP08_86,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.06592613,-6.718212582",borehole,5000,200,1986,enough,15013079053WP04_82,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05716173,-6.732151693",borehole,5000,120,1986,enough,15013079053WP17_95,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05850806,-6.721604078",borehole,5000,150,1986,enough,15013079053WP05_83,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.06010941,-6.727651185",borehole,5000,450,1986,enough,15013079053WP06_84,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05435429,-6.719839598",borehole,100,450,2012,enough,15013079053WP10_88,good,mono,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.04884808,-6.715065437",borehole,5000,150,1986,enough,15013079053WP12_90,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05407058,-6.72303348",borehole,100,250,2012,enough,15013079053WP14_92,good,mono,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.11101834,-6.637411592",borehole,4000,300,1986,insufficient,15013079053WP26_104,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.1093045,-6.644340016",borehole,4000,200,1986,insufficient,15013079053WP25_103,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.1083475,-6.648290817",borehole,4000,300,1986,insufficient,15013079053WP24_102,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05876128,-6.72061533",borehole,100,350,2012,enough,15013079053WP23_101,good,mono,unknown,per bucket,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05786428,-6.724845238",borehole,5000,120,1986,insufficient,15013079053WP22_100,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05749879,-6.727796341",borehole,5000,120,1986,enough,15013079053WP21_99,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.06141257,-6.720346804",borehole,5000,450,1986,insufficient,15013079053WP02_80,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05435433,-6.728285194",borehole,5000,120,1986,enough,15013079053WP16_94,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Inyonga,"32.05355705,-6.725297936",borehole,5000,250,1986,enough,15013079053WP15_93,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilunde,"32.48685615,-6.747762456",borehole,5000,260,1988,insufficient,15013079061WP01_105,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilunde,"32.48648557,-6.742905493",borehole,5000,450,1988,insufficient,15013079061WP05_109,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilunde,"32.48129746,-6.743294043",borehole,5000,120,1988,insufficient,15013079061WP11_115,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilunde,"32.49152941,-6.752157912",borehole,5000,120,1988,insufficient,15013079061WP02_106,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Kakonko,Ilembo,"31.06513484,-6.368881796",borehole,0,1,2011,enough,15013079372WP43_844,good,afridev,unknown,never pay,Government of Tanzania,MUWASA,water authority,none
+functional,Katavi,Mlele,Ilembo,"31.07572939,-6.3987302",shallow well,0,250,2000,enough,15013079282WP02_716,milky,nira/tanira,unknown,on failure,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mlele,Ilembo,"31.07304254,-6.3778938",borehole,1000,1000,1987,insufficient,15013079282WP03_717,good,swn 80,unknown,monthly,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mlele,Ilembo,"31.07065067,-6.36085934",borehole,1000,500,1987,enough,15013079282WP04_718,good,other,unknown,annually,Government of Tanzania,MUWASA,vwc,none
+functional,Katavi,Mlele,Ilela,"32.04107546,-6.826376591",borehole,5000,460,1988,insufficient,15013079071WP21_136,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.04284711,-6.826563256",borehole,5000,230,1988,insufficient,15013079071WP19_134,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.08834682,-6.814627247",borehole,4000,130,1988,enough,15013079071WP14_129,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.12561446,-6.796197728",borehole,5000,50,1988,insufficient,15013079071WP10_125,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.12597089,-6.793426463",borehole,5000,90,1988,insufficient,15013079071WP09_124,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.12502398,-6.784357779",borehole,5000,96,1988,enough,15013079071WP08_123,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.12909,-6.797919557",borehole,5000,300,1988,insufficient,15013079071WP04_119,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.13095716,-6.799368836",borehole,5000,170,1988,enough,15013079071WP03_118,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.12684306,-6.79780837",borehole,5000,150,1988,insufficient,15013079071WP01_116,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mlele,Ilela,"32.08791049,-6.8130438",borehole,4000,150,1988,insufficient,15013079071WP16_131,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.40617372,-6.739117084",borehole,1000,450,2008,insufficient,15013079191WP04_377,salty,india mark ii,unknown,on failure,Government of Tanzania,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.40693865,-6.743070548",borehole,1000,350,1994,insufficient,15013079191WP16_389,good,nira/tanira,unknown,on failure,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.39212319,-6.727488247",borehole,1000,360,1995,insufficient,15013079191WP24_397,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.39081575,-6.729064805",borehole,1000,250,1995,insufficient,15013079191WP25_398,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.389126,-6.726067862",borehole,1000,300,1995,enough,15013079191WP27_400,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.39001844,-6.725768069",borehole,1000,247,1995,enough,15013079191WP29_402,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.39114573,-6.726403481",borehole,1000,275,1995,enough,15013079191WP30_403,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,none
+functional,Katavi,Mpanda Rural,Ikola,"30.40896314,-6.731995217",borehole,0,430,2008,enough,15013079191WP22_395,salty,india mark ii,unknown,never pay,Government of Tanzania,Distri,vwc,none
+needs repair,Katavi,Mlele,Utende,"32.00749025,-6.644124022",borehole,5000,253,1988,insufficient,15013079081WP11_147,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Usevya,"31.23696661,-7.099450626",borehole,5000,60,1987,enough,15013079153WP255_332,salty,india mark ii,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Urwira,"31.34397587,-6.436149518",borehole,2000,240,1993,insufficient,15013079111WP188_220,good,india mark ii,unknown,annually,RUDEP,RUDEP,vwc,none
+needs repair,Katavi,Mlele,Sitalike,"31.10633137,-6.541937518",other,500,550,1999,seasonal,15013079141WP140_316,salty,other,unknown,annually,LGA,DWE,vwc,pump broken
+needs repair,Katavi,Mlele,Nsimbo,"31.23551959,-6.373279741",spring,12000,130,1972,enough,15013079121WP51_280,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,pipe broken
+needs repair,Katavi,Mlele,Nsimbo,"31.23085443,-6.369938067",spring,0,1100,2008,insufficient,15013079121WP44_273,good,gravity,unknown,unknown,Government of Tanzania,DWE,vwc,none
+needs repair,Katavi,Mlele,Nsimbo,"31.24124975,-6.366702929",spring,12000,80,2008,enough,15013079121WP54_283,good,gravity,unknown,annually,Government of Tanzania,DWE,vwc,pump broken
+needs repair,Katavi,Mlele,Nsimbo,"31.2449711,-6.363864585",spring,0,87,1999,unknown,15013079121WP55_284,unknown,gravity,unknown,unknown,LGA,DWE,unknown,pipe broken
+needs repair,Katavi,Mlele,Nsimbo,"31.24629423,-6.366626451",spring,0,100,1987,enough,15013079121WP57_286,good,gravity,unknown,never pay,TCRS,Msagin,company,pipe broken
+needs repair,Katavi,Mlele,Nsenkwa,"32.01056573,-6.773786972",borehole,5000,270,1988,insufficient,15013079331WP12_758,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Nsenkwa,"32.01540513,-6.798200234",borehole,2500,400,1989,enough,15013079331WP29_775,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+needs repair,Katavi,Mlele,Nsenkwa,"32.01377096,-6.776347597",borehole,5000,150,1989,insufficient,15013079331WP21_767,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Nsenkwa,"32.01281356,-6.777589736",borehole,5000,300,1989,insufficient,15013079331WP22_768,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Nsenkwa,"32.01802941,-6.77556191",borehole,5000,50,1989,insufficient,15013079331WP18_764,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+needs repair,Katavi,Mlele,Nsemulwa,"31.08207682,-6.346837589",borehole,30,1,2010,enough,15013079282WP10_724,good,gravity,unknown,per bucket,Government of Tanzania,MUWASA,water authority,tap broken
+needs repair,Katavi,Mlele,Nsemulwa,"31.0763169,-6.353933718",shallow well,30,430,1987,enough,15013079282WP06_720,good,nira/tanira,unknown,per bucket,Government of Tanzania,MUWASA,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Nsemulwa,"31.09174078,-6.343577595",borehole,30,750,1980,enough,15013079272WP12_714,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mwese,"30.30669268,-6.179581554",rainwater harvesting,0,250,2008,seasonal,15013079211WP05_428,good,gravity,unknown,never pay,Sumriy,Sumry,parastatal,tap broken
+needs repair,Katavi,Mlele,Mwamapuli,"31.42842171,-7.148766193",borehole,0,50,2000,enough,15013079101WP241_203,salty,nira/tanira,unknown,never pay,LGA,DWE,vwc,none
+needs repair,Katavi,Mlele,Mtapenda,"31.17767584,-6.356365961",borehole,10000,20,1996,insufficient,15013079041WP110_43,good,india mark ii,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Mlele,Mtapenda,"31.16335164,-6.319479658",borehole,1000,660,1985,insufficient,15013079041WP103_36,good,nira/tanira,unknown,monthly,RUDEP,RUDEP,vwc,none
+needs repair,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98259592,-6.225425614",shallow well,1000,450,1994,enough,15013079241WP08_691,good,nira/tanira,unknown,on failure,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98611745,-6.224687213",borehole,1000,360,1999,enough,15013079241WP09_692,good,india mark ii,unknown,on failure,Government of Tanzania,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48812748,-5.705802017",shallow well,0,47,1985,enough,15013079223WP49_631,good,other,unknown,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48396889,-5.616370196",spring,500,1,1980,enough,15013079223WP28_610,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48429022,-5.615968709",spring,500,20,1980,enough,15013079223WP27_609,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48545162,-5.613308468",spring,500,68,1980,enough,15013079223WP25_604,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.31522757,-5.687554329",borehole,0,150,1982,enough,15013079223WP243_597,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.32447635,-5.675083304",borehole,2000,50,1984,insufficient,15013079223WP241_595,good,other,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.4847826,-5.613770162",spring,500,23,1980,enough,15013079223WP24_593,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.42962722,-5.642989811",borehole,500,300,1984,enough,15013079223WP221_573,good,other,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48437302,-5.614209461",spring,500,12,1980,enough,15013079223WP22_571,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48389656,-5.614720024",spring,500,12,1980,enough,15013079223WP21_560,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48314446,-5.614819699",spring,500,21,1980,enough,15013079223WP20_549,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48355294,-5.615220548",spring,500,12,1980,enough,15013079223WP19_538,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.47812616,-5.710419227",borehole,0,100,1985,enough,15013079223WP53_635,good,other,unknown,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.35735241,-5.625128739",borehole,500,320,1984,enough,15013079223WP168_514,good,other,unknown,on failure,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.3559078,-5.636257007",borehole,0,857,1983,insufficient,15013079223WP165_511,good,other,unknown,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48158316,-5.6146785",spring,500,1,1980,enough,15013079223WP15_494,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.41164467,-5.606403025",borehole,500,273,1985,enough,15013079223WP136_479,good,other,unknown,on failure,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48044091,-5.613830389",spring,500,10,1980,enough,15013079223WP12_461,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.39168458,-5.5580829",borehole,0,120,1985,insufficient,15013079223WP119_460,good,other,unknown,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48003244,-5.613273104",spring,500,12,1980,enough,15013079223WP11_450,good,gravity,unknown,monthly,TCRS,TCRS,vwc,none
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.33841287,-5.593250017",borehole,0,50,1985,enough,15013079223WP107_447,good,other,unknown,never pay,TCRS,TCRS,water board,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48137792,-5.613328156",spring,500,20,1980,enough,15013079223WP10_439,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.51053904,-5.597325443",borehole,0,120,1985,enough,15013079223WP55_637,good,other,unknown,never pay,TCRS,TCRS,water authority,pump broken
+needs repair,Katavi,Mpanda Rural,Mishamo,"30.48233965,-5.615314321",spring,500,15,1980,enough,15013079223WP17_516,good,gravity,unknown,monthly,TCRS,TCRS,vwc,tap broken
+needs repair,Katavi,Mlele,Mamba,"31.36630606,-7.319512652",spring,8000,200,2009,enough,15013079091WP227_189,good,gravity,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Mlele,Mamba,"31.36702822,-7.32312243",spring,8000,200,2009,insufficient,15013079091WP225_187,good,gravity,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Mlele,Mamba,"31.41426122,-7.359385328",borehole,3000,100,2010,insufficient,15013079091WP234_196,salty,india mark ii,unknown,annually,Africare,Africa,vwc,none
+needs repair,Katavi,Mlele,Mamba,"31.36576891,-7.315900695",spring,8000,400,2009,insufficient,15013079091WP230_192,good,gravity,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Mlele,Mamba,"31.36391682,-7.411670544",spring,5000,80,2011,enough,15013079091WP220_182,good,gravity,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Kakonko,Makanyagio,"31.06677368,-6.336135214",borehole,30,1,1985,enough,15013079352WP25_831,good,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+needs repair,Katavi,Kakonko,Makanyagio,"31.06422541,-6.346443672",borehole,0,1500,1985,enough,15013079372WP36_837,good,india mark ii,unknown,never pay,Government of Tanzania,MUWASA,water authority,pump broken
+needs repair,Katavi,Mlele,Magamba,"31.08136328,-6.410743206",borehole,4000,90,1990,seasonal,15013079131WP121_304,good,india mark ii,unknown,annually,NORAD,DWE,vwc,source damaged
+needs repair,Katavi,Mlele,Litapunga,"31.33885227,-6.325979796",borehole,0,300,1985,insufficient,15013079341WP09_786,good,india mark ii,unknown,never pay,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Kibondo,Litapunga,"31.2062141,-6.215072551",borehole,7000,150,1990,insufficient,15013079341WP45_823,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.23855447,-6.34864274",spring,0,200,2008,enough,15013079041WP84_63,good,gravity,unknown,on failure,World Bank,DWE,vwc,none
+needs repair,Katavi,Mlele,Litapunga,"31.23927685,-6.35217187",spring,0,500,2008,enough,15013079041WP90_69,good,gravity,unknown,never pay,World Bank,DWE,trust,none
+needs repair,Katavi,Mlele,Litapunga,"31.24266213,-6.354117947",spring,0,400,2008,enough,15013079041WP91_70,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+needs repair,Katavi,Mlele,Litapunga,"31.22561842,-6.322244443",spring,0,400,2008,enough,15013079041WP72_51,good,gravity,unknown,never pay,World Bank,DWE,water authority,pipe broken
+needs repair,Katavi,Mlele,Litapunga,"31.23495485,-6.344356619",spring,0,250,2008,enough,15013079041WP83_62,good,gravity,unknown,never pay,World Bank,DWE,trust,none
+needs repair,Katavi,Mlele,Litapunga,"31.28773599,-6.299250185",borehole,1000,250,1990,enough,15013079341WP06_783,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mpanda Urban,Litapunga,"31.21977568,-6.20730796",borehole,0,500,1990,enough,15013079341WP43_821,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.27043703,-6.337786125",borehole,3000,450,1985,insufficient,15013079341WP14_791,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.27082195,-6.317535377",borehole,2500,250,1990,enough,15013079341WP15_792,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.24969885,-6.31515287",borehole,2500,250,1990,enough,15013079341WP16_793,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.23432663,-6.299422242",borehole,2000,400,1990,enough,15013079341WP18_795,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mpanda Urban,Litapunga,"31.16008352,-6.253230983",borehole,3000,100,1990,enough,15013079341WP29_806,good,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.24185974,-6.28418038",borehole,2000,1000,1990,insufficient,15013079341WP21_798,salty,india mark ii,unknown,on failure,TCRS,TCRS,vwc,pump broken
+needs repair,Katavi,Mlele,Litapunga,"31.24609381,-6.360838279",spring,0,500,2008,enough,15013079041WP92_71,good,gravity,unknown,never pay,World Bank,DWE,water authority,none
+needs repair,Katavi,Mpanda Rural,Kibaoni,"31.16405313,-7.102888575",borehole,25,500,2007,insufficient,15013079161WP266_343,salty,india mark ii,unknown,per bucket,LGA,DDCA,vwc,none
+needs repair,Katavi,Mpanda Rural,Kibaoni,"31.13879354,-7.120830856",borehole,20,150,1997,enough,15013079161WP273_350,good,india mark ii,unknown,per bucket,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mpanda Rural,Kawajense,"31.07566036,-6.333502754",borehole,30,300,1980,insufficient,15013079262WP15_709,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+needs repair,Katavi,Mlele,Kasokola,"31.07612991,-6.267826504",borehole,0,500,1993,enough,15013079011WP172_20,good,nira/tanira,unknown,never pay,RUDEP,DWE,vwc,pipe broken
+needs repair,Katavi,Mlele,Kasokola,"31.05836794,-6.275219199",borehole,2000,500,2008,enough,15013079011WP153_1,salty,nira/tanira,unknown,annually,LGA,DWE,vwc,none
+needs repair,Katavi,Kakonko,Kashaulili,"31.07189028,-6.339253722",borehole,30,3000,2006,enough,15013079372WP42_843,good,submersible,unknown,per bucket,Government of Tanzania,MUWASA,water authority,tap broken
+needs repair,Katavi,Kakonko,Kashaulili,"31.07187839,-6.342888226",borehole,30,1,1985,insufficient,15013079372WP41_842,salty,india mark ii,unknown,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+needs repair,Katavi,Mlele,Kasansa,"31.3947193,-7.469599226",spring,3000,120,1987,insufficient,15013079091WP201_163,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.3921658,-7.465595184",spring,3000,300,1987,enough,15013079091WP202_164,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.39147818,-7.46419324",spring,3000,450,1987,enough,15013079091WP203_165,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.39017808,-7.462207089",spring,3000,380,1987,enough,15013079091WP204_166,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.38906302,-7.457905475",spring,3000,110,1987,enough,15013079091WP206_168,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.38697218,-7.454531784",spring,3000,280,1987,enough,15013079091WP208_170,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.38495019,-7.454174081",spring,3000,245,1987,enough,15013079091WP209_171,good,gravity,unknown,annually,RUDEP,DWE,vwc,none
+needs repair,Katavi,Mlele,Kasansa,"31.3852795,-7.451225112",spring,3000,260,1987,enough,15013079091WP210_172,good,gravity,unknown,annually,RUPED,DWE,vwc,none
+needs repair,Katavi,Mpanda Rural,Karema,"30.44165553,-6.816026905",shallow well,500,200,1994,insufficient,15013079183WP06_363,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Karema,"30.44134576,-6.820996111",borehole,500,200,1994,insufficient,15013079183WP08_365,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Kapalala,"31.15995228,-6.374469833",borehole,2000,240,1993,insufficient,15013079121WP10_239,salty,nira/tanira,2010,annually,LGA,DWE,vwc,pump broken
+needs repair,Katavi,Mlele,Kapalala,"31.17086736,-6.379405547",spring,0,70,1974,enough,15013079121WP12_241,good,gravity,unknown,never pay,Government of Tanzania,Townsh,water authority,pipe broken
+needs repair,Katavi,Mlele,Kapalala,"31.14115097,-6.38655108",borehole,14000,50,1995,seasonal,15013079121WP08_237,good,nira/tanira,2010,annually,LGA,DWE,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Kabungu,"31.02374625,-6.30997055",spring,0,150,1984,enough,15013079201WP278_423,good,gravity,unknown,on failure,RC Mission,RC Mis,vwc,none
+needs repair,Katavi,Mlele,Inyonga,"32.05249773,-6.724396277",borehole,100000,315,2011,enough,15013079053WP13_91,good,india mark ii,unknown,on failure,Government of Tanzania,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Inyonga,"32.05215516,-6.760773418",borehole,5000,450,1986,insufficient,15013079053WP20_98,salty,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Ilela,"32.08818145,-6.811214265",borehole,4000,350,1988,enough,15013079071WP18_133,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Ilela,"32.09185993,-6.810981373",borehole,0,400,1988,insufficient,15013079071WP17_132,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,none
+needs repair,Katavi,Mlele,Ilela,"32.08618566,-6.813925398",borehole,4000,140,1988,insufficient,15013079071WP15_130,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Ilela,"32.12835722,-6.792289397",borehole,5000,150,1988,insufficient,15013079071WP06_121,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Ilela,"32.13057921,-6.795701215",borehole,5000,170,1988,insufficient,15013079071WP05_120,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mlele,Ilela,"32.12872162,-6.800844312",borehole,5000,152,1988,enough,15013079071WP02_117,good,india mark ii,unknown,annually,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Ikola,"30.40992166,-6.744443925",borehole,500,256,1994,enough,15013079191WP18_391,salty,nira/tanira,unknown,on failure,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Ikola,"30.38989787,-6.727925934",borehole,1000,256,1995,insufficient,15013079191WP26_399,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Ikola,"30.38806721,-6.724834384",borehole,1000,256,1995,seasonal,15013079191WP28_401,good,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+needs repair,Katavi,Mpanda Rural,Ikola,"30.45420053,-6.730313437",borehole,1000,700,1995,insufficient,15013079191WP32_405,salty,nira/tanira,unknown,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Utende,"32.00033312,-6.654804577",borehole,5000,450,1988,insufficient,15013079081WP01_137,salty,india mark ii,2012,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Utende,"32.00404249,-6.650209523",borehole,5000,270,1988,enough,15013079081WP07_143,good,india mark ii,2012,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Usevya,"31.22710383,-7.108568854",borehole,5000,715,1997,enough,15013079153WP258_335,salty,india mark ii,2010,annually,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Urwira,"31.30810055,-6.387064429",borehole,2000,300,1988,enough,15013079111WP182_214,good,other,1999,annually,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Urwira,"31.30814899,-6.389183959",borehole,2000,250,1988,enough,15013079111WP183_215,good,nira/tanira,2011,annually,RUDEP,RUDEP,vwc,pipe broken
+not functional,Katavi,Mlele,Urwira,"31.3118411,-6.39220167",borehole,2000,400,1990,enough,15013079111WP184_216,salty,india mark ii,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Urwira,"31.30220873,-6.392796728",borehole,2000,250,1988,insufficient,15013079111WP186_218,good,other,1990,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Urwira,"31.34314578,-6.433382799",borehole,2000,240,1993,enough,15013079111WP189_221,good,india mark ii,2006,annually,RUDEP,RUDEP,vwc,pipe broken
+not functional,Katavi,Mlele,Urwira,"31.36309419,-6.45041318",borehole,2000,230,1991,insufficient,15013079111WP196_228,good,india mark ii,2001,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Urwira,"31.30609251,-6.392011386",borehole,2000,210,1988,seasonal,15013079111WP185_217,good,other,1990,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Ugala,"31.15352883,-5.785200518",borehole,0,200,1988,enough,15013079021WP01_30,good,mono,1999,never pay,Government of Tanzania,Distri,vwc,other
+not functional,Katavi,Mlele,Ugala,"31.16557333,-5.78150181",shallow well,0,300,2000,enough,15013079021WP03_32,good,other,2005,never pay,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Sitalike,"31.14203287,-6.616535964",borehole,3600,200,2004,enough,15013079141WP141_317,salty,other,unknown,annually,TANAPA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Sitalike,"31.13919638,-6.618616805",borehole,3600,200,2004,enough,15013079141WP142_318,salty,other,unknown,annually,TANAPA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Sitalike,"31.14189435,-6.616230739",spring,0,50,1978,enough,15013079141WP144_320,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sitalike,"31.14227776,-6.611243867",spring,0,50,1978,enough,15013079141WP146_322,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sitalike,"31.14361087,-6.611043438",spring,0,60,1978,enough,15013079141WP147_323,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sitalike,"31.14183768,-6.625902756",spring,0,80,1978,enough,15013079141WP148_324,good,gravity,1989,other,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sitalike,"31.14058771,-6.621058123",spring,0,50,1978,enough,15013079141WP149_325,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mpanda Rural,Sitalike,"31.13621215,-6.616997838",spring,0,50,1978,enough,15013079141WP150_326,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mpanda Rural,Sitalike,"31.13646767,-6.614415932",spring,0,62,1978,enough,15013079141WP151_327,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mpanda Rural,Sitalike,"31.13666933,-6.61210676",spring,0,52,1978,enough,15013079141WP152_328,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sitalike,"31.14213842,-6.613828347",spring,0,554,1978,enough,15013079141WP145_321,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Sibwesa,"30.74573854,-6.493445653",borehole,1000,500,1994,enough,15013079311WP04_733,good,other,2003,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Sibwesa,"30.74693727,-6.492280019",borehole,1000,1000,1994,insufficient,15013079311WP02_731,salty,nira/tanira,2012,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Sibwesa,"30.74924601,-6.488105099",borehole,0,1000,1994,dry,15013079311WP03_732,colored,other,1995,never pay,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Shanwe,"31.0689907,-6.327154673",borehole,30,750,2006,enough,15013079252WP19_701,good,submersible,2011,per bucket,REDESO,MUWASA,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Shanwe,"31.06905209,-6.32717323",borehole,30,250,1985,enough,15013079252WP20_702,unknown,india mark ii,2011,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+not functional,Katavi,Mlele,Nsimbo,"31.22207603,-6.373765678",borehole,0,6000,2010,enough,15013079121WP42_271,good,other,unknown,other,World Bank,PNR co,vwc,under construction
+not functional,Katavi,Mlele,Nsimbo,"31.23254826,-6.373480648",spring,0,100,1972,enough,15013079121WP47_276,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.2327405,-6.376188806",spring,0,1,1972,enough,15013079121WP48_277,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.23573319,-6.37608378",spring,0,70,1972,enough,15013079121WP49_278,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.23414324,-6.374753637",spring,0,110,1972,enough,15013079121WP50_279,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.22114732,-6.371047565",spring,0,110,1972,enough,15013079121WP40_269,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.18939888,-6.380003511",spring,0,50,1972,enough,15013079121WP26_255,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.20891425,-6.377378107",spring,0,1,1972,enough,15013079121WP34_263,unknown,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.20743325,-6.376136236",spring,0,60,1972,enough,15013079121WP33_262,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.2455772,-6.36707269",spring,12000,50,1991,enough,15013079121WP56_285,good,gravity,2011,annually,LGA,DWE,vwc,tap broken
+not functional,Katavi,Mlele,Nsimbo,"31.18615815,-6.37728467",spring,0,50,1972,enough,15013079121WP32_261,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.18778957,-6.376548738",spring,0,1250,1972,enough,15013079121WP31_260,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.18788988,-6.376544301",other,0,1250,1988,seasonal,15013079121WP30_259,good,other,1997,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Nsimbo,"31.2181339,-6.371288051",spring,0,150,1972,enough,15013079121WP41_270,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.24524601,-6.377453141",spring,0,100,1972,enough,15013079121WP58_287,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.19409322,-6.375633269",other,0,40,1988,enough,15013079121WP29_258,good,other,1997,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Nsimbo,"31.19418377,-6.375891645",shallow well,0,40,1985,seasonal,15013079121WP28_257,good,gravity,2010,never pay,Community,Commun,other,source damaged
+not functional,Katavi,Mlele,Nsimbo,"31.18939453,-6.377277399",spring,0,60,1972,unknown,15013079121WP27_256,unknown,gravity,1983,unknown,Government of Tanzania,DWE,unknown,other
+not functional,Katavi,Mlele,Nsimbo,"31.22087253,-6.368235732",spring,0,130,1972,enough,15013079121WP39_268,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.18611034,-6.379895841",spring,0,50,1972,enough,15013079121WP25_254,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.18418845,-6.377729482",borehole,0,50,1988,dry,15013079121WP24_253,good,other,1997,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Nsimbo,"31.21957566,-6.369774896",spring,0,120,1972,enough,15013079121WP38_267,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.20977156,-6.374782532",spring,0,100,1972,enough,15013079121WP35_264,good,gravity,2005,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.2103828,-6.375889289",spring,0,150,1972,enough,15013079121WP36_265,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.21791547,-6.368495602",spring,0,80,1972,enough,15013079121WP37_266,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.25319495,-6.395018952",spring,0,150,1972,enough,15013079121WP69_298,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.25192232,-6.393457076",spring,0,80,1972,enough,15013079121WP68_297,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.25340623,-6.392001548",spring,0,100,1972,enough,15013079121WP67_296,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.25074346,-6.391808325",spring,0,130,1972,enough,15013079121WP66_295,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.25047,-6.394861504",spring,0,80,1972,enough,15013079121WP65_294,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.2456724,-6.380267705",spring,0,90,1972,enough,15013079121WP63_292,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.24387308,-6.379117142",spring,0,70,1972,enough,15013079121WP62_291,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.2425631,-6.380447743",spring,0,120,1972,enough,15013079121WP61_290,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsimbo,"31.24217247,-6.377976058",spring,0,80,1972,enough,15013079121WP59_288,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Nsenkwa,"31.99918618,-6.751287661",borehole,3000,152,1988,enough,15013079331WP05_751,good,india mark ii,2012,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Nsenkwa,"32.00829635,-6.770350517",borehole,0,50,1988,enough,15013079331WP11_757,good,india mark ii,2009,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Nsenkwa,"32.01274208,-6.772586209",borehole,3000,160,1988,enough,15013079331WP13_759,good,other,2013,annually,RUDEP,Distri,vwc,none
+not functional,Katavi,Mlele,Nsenkwa,"32.01574135,-6.776814371",borehole,0,200,1989,dry,15013079331WP20_766,good,india mark ii,2005,never pay,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mlele,Nsenkwa,"32.01115074,-6.7766431",borehole,0,300,1989,dry,15013079331WP23_769,good,india mark ii,2003,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Nsenkwa,"32.0162338,-6.796800126",borehole,2500,230,1989,insufficient,15013079331WP27_773,good,india mark ii,2005,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Nsemulwa,"31.07640683,-6.350438719",shallow well,0,1,1987,enough,15013079282WP09_723,milky,other,2010,never pay,Government of Tanzania,MUWASA,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mwese,"30.32397057,-6.200413853",borehole,0,450,1995,enough,15013079211WP06_429,good,mono,2011,never pay,Government of Tanzania,Distri,vwc,tap broken
+not functional,Katavi,Mpanda Rural,Mwese,"30.3792692,-6.18988282",shallow well,500,100,1995,enough,15013079211WP01_424,good,nira/tanira,2010,on failure,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Mwamapuli,"31.44228361,-7.187314281",borehole,0,120,2004,insufficient,15013079101WP240_202,good,nira/tanira,2008,never pay,TANAPA,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Mwamapuli,"31.34411044,-7.132733678",borehole,0,300,2004,insufficient,15013079101WP244_206,good,other,2006,never pay,TANAPA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Mwamapuli,"31.39436188,-7.130616518",borehole,0,2000,2004,insufficient,15013079101WP243_205,salty,nira/tanira,2006,unknown,LGA,DWE,unknown,source damaged
+not functional,Katavi,Mlele,Mwamapuli,"31.43422578,-7.12714372",borehole,0,50,2004,insufficient,15013079101WP242_204,salty,nira/tanira,2006,unknown,LGA,DWE,unknown,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.17208747,-6.323308606",spring,0,110,1972,enough,15013079041WP99_78,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Mtapenda,"31.1714637,-6.337430089",borehole,0,125,1988,insufficient,15013079041WP108_41,good,other,1993,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.16705081,-6.32076156",spring,0,150,1972,enough,15013079041WP104_37,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Mtapenda,"31.17019682,-6.322065764",spring,0,160,1972,enough,15013079041WP102_35,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Mtapenda,"31.17336598,-6.320342798",spring,0,150,1972,enough,15013079041WP100_33,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Mtapenda,"31.17391264,-6.365741678",other,10000,300,2010,insufficient,15013079041WP114_47,good,nira/tanira,2011,annually,LGA,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.17324815,-6.363729741",borehole,0,200,1996,insufficient,15013079041WP113_46,good,other,2000,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.17610579,-6.358180353",borehole,10000,200,1996,insufficient,15013079041WP112_45,good,other,1998,annually,LGA,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.17609611,-6.358250875",borehole,0,6000,2010,enough,15013079041WP111_44,good,other,unknown,other,World Bank,PNR Da,vwc,under construction
+not functional,Katavi,Mlele,Mtapenda,"31.17524991,-6.352182202",borehole,0,500,1989,insufficient,15013079041WP109_42,good,other,1998,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.1782941,-6.322806039",borehole,0,100,1984,insufficient,15013079041WP97_76,good,other,1992,never pay,LGA,DWE,water authority,pump broken
+not functional,Katavi,Mlele,Mtapenda,"31.17443672,-6.323277106",borehole,0,110,1984,insufficient,15013079041WP98_77,good,other,1993,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Mtapenda,"31.16723648,-6.323572358",spring,0,150,1972,enough,15013079041WP107_40,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Mtapenda,"31.16852513,-6.322280781",borehole,0,130,1989,enough,15013079041WP106_39,good,other,1995,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.97059976,-6.24689582",borehole,0,500,1995,enough,15013079241WP14_697,good,other,2000,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98691606,-6.185530035",shallow well,0,782,2006,insufficient,15013079241WP03_686,good,nira/tanira,2011,never pay,District Council,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98374438,-6.220202671",shallow well,500,700,1994,enough,15013079241WP06_689,good,nira/tanira,2011,on failure,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.98155409,-6.222512904",borehole,0,760,1999,enough,15013079241WP07_690,good,india mark ii,2012,never pay,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"30.95987694,-6.221589505",shallow well,0,150,1995,enough,15013079241WP11_694,good,nira/tanira,2010,never pay,District Council,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mpanda Ndogo,"30.9692144,-6.251379448",borehole,0,1,1995,insufficient,15013079241WP17_700,good,other,2000,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Mpanda Ndogo,"31.03939143,-6.209060925",borehole,0,1,2011,enough,15013079241WP02_685,good,other,2011,never pay,World Bank,Distri,water authority,under construction
+not functional,Katavi,Kakonko,Mpanda Hotel,"31.06222812,-6.354024844",shallow well,0,2000,1996,enough,15013079362WP35_836,good,nira/tanira,2012,never pay,Government of Tanzania,MUWASA,water authority,pump broken
+not functional,Katavi,Kakonko,Mpanda Hotel,"31.05997183,-6.351224752",dam,0,1,1996,enough,15013079362WP34_835,good,mono,2010,never pay,MUWASA,MUWASA,water authority,none
+not functional,Katavi,Mlele,Misunkumilo,"31.05507241,-6.343493346",dam,0,1,2006,enough,15013079293WP32_729,good,mono,2012,never pay,Government of Tanzania,MUWASA,water authority,tap broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54685872,-5.619618948",borehole,0,150,1985,enough,15013079223WP64_646,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48123124,-5.70599115",borehole,0,10,1985,enough,15013079223WP51_633,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48778577,-5.705939508",borehole,0,40,1985,enough,15013079223WP50_632,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48215791,-5.716205433",borehole,0,100,1981,enough,15013079223WP47_629,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48285128,-5.715322375",borehole,0,1,1983,enough,15013079223WP46_628,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48317466,-5.715153806",borehole,0,50,1983,enough,15013079223WP45_627,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.49349933,-5.714325534",borehole,0,54,1983,enough,15013079223WP44_626,good,india mark ii,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.50568675,-5.71342054",borehole,0,50,1983,enough,15013079223WP43_625,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.52974323,-5.720910792",borehole,0,140,1983,enough,15013079223WP41_623,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.50718495,-5.610528735",shallow well,500,70,1984,enough,15013079223WP40_622,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.50750089,-5.618760368",borehole,500,100,1982,enough,15013079223WP39_621,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.5063005,-5.626891367",borehole,500,50,1982,enough,15013079223WP38_620,good,other,2003,monthly,TCRS,TCRS,vwc,none
+not functional,Katavi,Mpanda Rural,Mishamo,"30.49818958,-5.627233428",borehole,500,150,1982,enough,15013079223WP37_619,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.50332628,-5.629207025",borehole,500,300,1982,enough,15013079223WP35_617,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.49826763,-5.614315603",borehole,500,130,1982,enough,15013079223WP34_616,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.49738386,-5.603672454",borehole,500,135,1982,enough,15013079223WP33_615,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48893143,-5.609237831",borehole,500,100,1982,enough,15013079223WP32_614,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.4890947,-5.617031217",borehole,500,67,1982,enough,15013079223WP30_612,good,other,2003,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32556427,-5.697495045",borehole,0,179,1984,enough,15013079223WP250_605,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.30752083,-5.679394684",borehole,0,100,1984,enough,15013079223WP249_603,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.31182524,-5.681157469",borehole,0,1,1984,enough,15013079223WP248_602,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.31531234,-5.682490892",borehole,500,50,1982,enough,15013079223WP247_601,good,other,2012,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.31432601,-5.670828891",borehole,2000,1,1982,enough,15013079223WP246_600,good,other,2012,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.31574718,-5.687852557",borehole,0,150,1984,enough,15013079223WP244_598,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32503544,-5.683903043",borehole,0,50,1984,enough,15013079223WP242_596,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33348315,-5.683139467",borehole,0,76,1984,enough,15013079223WP240_594,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33449505,-5.696687788",borehole,0,89,1984,enough,15013079223WP237_590,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.34311167,-5.683073046",borehole,0,56,1984,enough,15013079223WP236_589,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35214625,-5.684775849",borehole,0,100,1984,enough,15013079223WP234_587,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35255658,-5.69174179",borehole,0,270,1984,enough,15013079223WP233_586,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.39718297,-5.664772524",borehole,0,153,1985,enough,15013079223WP232_585,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.403616,-5.679626382",borehole,0,56,1985,enough,15013079223WP231_584,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40298756,-5.670836369",borehole,0,80,1985,enough,15013079223WP230_583,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48414415,-5.613438945",spring,500,34,1980,enough,15013079223WP23_582,good,gravity,2003,monthly,TCRS,TCRS,vwc,tap broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43077339,-5.678500519",borehole,0,76,1984,enough,15013079223WP228_580,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43044557,-5.663875483",borehole,0,200,1983,enough,15013079223WP227_579,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.4296621,-5.654837616",borehole,500,370,1987,enough,15013079223WP226_578,good,india mark ii,2012,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42075161,-5.65008849",borehole,0,130,1983,enough,15013079223WP225_577,good,other,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42008504,-5.633777925",borehole,0,142,1983,enough,15013079223WP224_576,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43806114,-5.622924566",borehole,0,145,1984,enough,15013079223WP223_575,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43874323,-5.650507833",borehole,0,154,1984,enough,15013079223WP222_574,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.63665223,-5.747549747",borehole,0,214,1985,enough,15013079223WP219_570,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64162187,-5.755745575",borehole,0,140,1986,enough,15013079223WP218_569,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.47999234,-5.706155598",borehole,0,45,1985,enough,15013079223WP52_634,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.65088972,-5.747159734",borehole,0,1,1985,enough,15013079223WP216_567,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64716002,-5.750625403",borehole,0,1,1985,enough,15013079223WP215_566,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.6508957,-5.747203482",borehole,0,150,1985,enough,15013079223WP214_565,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.6410003,-5.743842212",borehole,0,400,1985,enough,15013079223WP213_564,good,india mark ii,2003,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64466231,-5.740143238",borehole,0,345,1985,enough,15013079223WP212_563,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.66939969,-5.717260237",borehole,0,169,1985,enough,15013079223WP211_562,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.67587223,-5.723972524",borehole,0,150,1985,enough,15013079223WP210_561,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64398941,-5.735463589",borehole,0,175,1985,enough,15013079223WP209_559,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64181353,-5.733222529",borehole,0,142,1984,enough,15013079223WP208_558,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.64072322,-5.731788758",borehole,0,200,1985,enough,15013079223WP207_557,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.61696731,-5.753816401",borehole,0,270,1985,enough,15013079223WP206_556,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.60630377,-5.763287273",borehole,0,1,1986,enough,15013079223WP205_555,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59430666,-5.7639441",borehole,0,150,1985,enough,15013079223WP204_554,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58751338,-5.764314583",borehole,0,50,1985,enough,15013079223WP203_553,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55153992,-5.79869945",borehole,0,147,1984,enough,15013079223WP202_552,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.53742953,-5.799209321",borehole,0,73,1984,enough,15013079223WP201_551,good,other,1997,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54496522,-5.799060765",borehole,0,1,1984,enough,15013079223WP200_550,good,other,1997,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54985566,-5.805675",borehole,0,93,1985,enough,15013079223WP199_548,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54949714,-5.80808477",borehole,0,375,1985,enough,15013079223WP198_547,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55038934,-5.823399751",borehole,0,300,1983,enough,15013079223WP197_546,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.57027529,-5.825531606",borehole,0,100,1985,enough,15013079223WP196_545,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.60033799,-5.824762864",borehole,0,142,1986,enough,15013079223WP195_544,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59669572,-5.818465242",borehole,0,153,1986,enough,15013079223WP194_543,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59562955,-5.801019012",borehole,0,400,1983,enough,15013079223WP193_542,good,india mark ii,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59472761,-5.789128538",borehole,0,61,1986,enough,15013079223WP192_541,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59450924,-5.784121703",borehole,0,1,1983,enough,15013079223WP191_540,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.59943605,-5.772488187",borehole,0,50,1982,enough,15013079223WP190_539,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58252715,-5.773348471",borehole,0,186,1986,enough,15013079223WP189_537,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.5648537,-5.755993949",borehole,0,276,1985,enough,15013079223WP188_536,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58492405,-5.754952406",borehole,0,72,1985,enough,15013079223WP187_535,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.57312021,-5.755493604",borehole,0,274,1985,enough,15013079223WP186_534,good,india mark ii,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.56138561,-5.746971339",borehole,0,1,1983,enough,15013079223WP185_533,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58238482,-5.7460855",borehole,500,172,1983,enough,15013079223WP184_532,good,other,2000,on failure,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.56622028,-5.739735955",borehole,0,342,1983,enough,15013079223WP183_531,good,other,2005,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54984165,-5.738140716",borehole,500,83,1984,enough,15013079223WP182_530,good,other,2005,on failure,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58114846,-5.736645655",borehole,0,130,1984,enough,15013079223WP181_529,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.58023764,-5.727309565",borehole,0,142,1985,enough,15013079223WP180_528,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48300138,-5.615830416",spring,500,1,1980,enough,15013079223WP18_527,good,gravity,2009,monthly,TCRS,TCRS,vwc,tap broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54390793,-5.72956423",borehole,0,275,1985,enough,15013079223WP179_526,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.56467216,-5.719349268",borehole,0,1,1983,enough,15013079223WP177_524,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54619569,-5.720374408",borehole,0,170,1985,enough,15013079223WP176_523,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.3418212,-5.634665396",borehole,0,154,1985,enough,15013079223WP175_522,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35815871,-5.635090444",borehole,0,156,1985,enough,15013079223WP174_521,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35614267,-5.633353044",borehole,0,132,1980,enough,15013079223WP173_520,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35038093,-5.630346363",borehole,0,82,1985,enough,15013079223WP172_519,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.34427492,-5.63029618",borehole,0,123,1985,enough,15013079223WP171_518,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.34507479,-5.627525597",borehole,500,142,1980,enough,15013079223WP170_517,good,other,2012,on failure,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35091232,-5.640331277",borehole,0,200,1980,enough,15013079223WP167_513,good,other,1997,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35372962,-5.632092759",borehole,0,240,1983,enough,15013079223WP166_512,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.37153442,-5.617455786",borehole,0,86,1985,enough,15013079223WP164_510,good,other,2001,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.36673956,-5.627144705",borehole,0,100,1985,enough,15013079223WP163_509,good,other,2004,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.36156545,-5.636288499",borehole,0,1,1983,enough,15013079223WP162_508,good,india mark ii,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.36954114,-5.640506402",borehole,0,80,1980,enough,15013079223WP161_507,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40084687,-5.552384868",borehole,500,1,1983,enough,15013079223WP158_503,good,other,2000,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42054962,-5.526301116",borehole,500,50,1981,enough,15013079223WP157_502,good,other,2000,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43041585,-5.521684932",borehole,500,1,1983,enough,15013079223WP156_501,good,other,1997,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42479434,-5.508796488",borehole,500,172,1983,enough,15013079223WP155_500,good,other,1999,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42457643,-5.512514533",borehole,500,243,1983,enough,15013079223WP154_499,good,other,2000,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.41169664,-5.511835195",borehole,500,200,1983,insufficient,15013079223WP153_498,good,other,2012,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42783514,-5.527410427",borehole,500,340,1983,enough,15013079223WP151_496,good,other,2000,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.44945182,-5.541154896",borehole,0,54,1981,enough,15013079223WP150_495,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.44392526,-5.538559745",borehole,0,98,1983,enough,15013079223WP149_493,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43710953,-5.535002936",borehole,0,175,1981,enough,15013079223WP148_492,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40712316,-5.519953999",borehole,0,263,1983,enough,15013079223WP147_491,good,other,1998,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40994013,-5.520801751",borehole,0,145,1983,enough,15013079223WP146_490,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.41464481,-5.533561344",borehole,0,84,1991,enough,15013079223WP145_489,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.39729588,-5.583155728",borehole,0,70,1985,enough,15013079223WP144_488,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40317941,-5.579289042",borehole,0,170,1985,enough,15013079223WP143_487,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.41275361,-5.583851928",borehole,0,140,1983,enough,15013079223WP142_486,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.38650622,-5.601711528",borehole,0,123,1982,enough,15013079223WP141_485,good,other,1997,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40921443,-5.586244334",borehole,0,240,1983,enough,15013079223WP139_482,good,other,1999,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.41684029,-5.597381384",borehole,0,146,1981,enough,15013079223WP135_478,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42063192,-5.59541844",borehole,0,370,1983,enough,15013079223WP134_477,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.42413741,-5.608658884",borehole,0,100,1980,dry,15013079223WP133_476,good,other,1983,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.41998634,-5.611795574",borehole,0,100,1983,enough,15013079223WP129_471,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.43135654,-5.614094923",borehole,0,1,1980,enough,15013079223WP128_470,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.44974214,-5.589554379",borehole,0,154,1985,enough,15013079223WP124_466,good,other,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.38643948,-5.572674107",borehole,0,145,1985,enough,15013079223WP122_464,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.40141597,-5.55212176",borehole,0,75,1983,enough,15013079223WP121_463,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.39481911,-5.567213805",borehole,0,1,1981,enough,15013079223WP120_462,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32956655,-5.588734418",borehole,0,1,1985,enough,15013079223WP117_458,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32320891,-5.603176314",borehole,0,1,1983,enough,15013079223WP116_457,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.31975248,-5.597967664",borehole,0,36,1985,enough,15013079223WP115_456,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.3241825,-5.592185205",borehole,0,56,1985,enough,15013079223WP114_455,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32605469,-5.607540772",borehole,0,30,1985,enough,15013079223WP113_454,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32594793,-5.607654446",borehole,0,53,1983,enough,15013079223WP112_453,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32087252,-5.599157093",borehole,0,350,1983,enough,15013079223WP111_452,unknown,india mark ii,2012,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32039206,-5.594993192",borehole,0,20,1985,enough,15013079223WP110_451,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32128301,-5.583909031",borehole,0,50,1985,enough,15013079223WP109_449,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33068734,-5.580822811",borehole,0,65,1985,enough,15013079223WP108_448,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33432584,-5.589961417",borehole,0,70,1984,enough,15013079223WP106_446,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33796113,-5.575888648",borehole,0,50,1985,enough,15013079223WP105_445,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.34481234,-5.586704463",borehole,5000,150,1985,enough,15013079223WP104_444,good,other,2000,on failure,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35823687,-5.569488048",borehole,0,100,1985,enough,15013079223WP103_443,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.37056475,-5.560042081",shallow well,0,1,1981,enough,15013079223WP102_442,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.37763738,-5.551999498",borehole,0,345,1983,enough,15013079223WP101_441,good,india mark ii,2011,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.37267258,-5.553676036",borehole,0,350,1983,enough,15013079223WP100_440,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48196225,-5.612537785",spring,500,15,1980,enough,15013079223WP09_438,good,gravity,2012,monthly,TCRS,TCRS,vwc,tap broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.51958568,-5.59396458",borehole,0,70,1985,enough,15013079223WP56_638,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.52836277,-5.60328213",borehole,0,176,1983,enough,15013079223WP57_639,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.51858183,-5.60601083",borehole,0,50,1985,enough,15013079223WP58_640,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.54301152,-5.61788529",borehole,0,80,1983,enough,15013079223WP60_642,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55155724,-5.621840292",borehole,0,150,1983,enough,15013079223WP61_643,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55986179,-5.626208536",borehole,500,70,1985,enough,15013079223WP62_644,good,other,2000,monthly,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55474178,-5.623639312",borehole,0,1,1985,enough,15013079223WP63_645,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.518714,-5.592858222",borehole,0,60,1985,enough,15013079223WP65_647,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.5141421,-5.588100533",borehole,0,55,1983,enough,15013079223WP66_648,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.50548536,-5.576683998",borehole,0,30,1984,enough,15013079223WP67_649,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.47028929,-5.575329376",borehole,0,100,1983,enough,15013079223WP68_650,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.55473841,-5.623608162",borehole,0,1,1985,enough,15013079223WP70_651,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.49405027,-5.573538252",borehole,0,100,1985,enough,15013079223WP71_652,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.48525491,-5.571570858",borehole,0,10,1981,enough,15013079223WP74_655,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.46840941,-5.575585457",borehole,0,176,1985,enough,15013079223WP75_656,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.46624664,-5.554516916",borehole,0,45,1982,enough,15013079223WP78_659,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.45814969,-5.570109993",borehole,0,100,1983,enough,15013079223WP79_660,good,other,2000,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.3514129,-5.540858056",borehole,0,75,1985,enough,15013079223WP80_661,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33859551,-5.549290445",borehole,0,40,1985,enough,15013079223WP81_662,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.36331643,-5.532961263",borehole,0,75,1983,enough,15013079223WP82_663,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.32959749,-5.544648536",borehole,0,30,1985,enough,15013079223WP84_665,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.35338825,-5.528919808",borehole,0,350,1983,enough,15013079223WP85_666,good,india mark ii,2010,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.37142899,-5.517356134",borehole,0,175,1985,enough,15013079223WP86_667,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.34597913,-5.523374338",borehole,0,56,1983,enough,15013079223WP87_668,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.33764371,-5.527779423",borehole,0,100,1981,enough,15013079223WP88_669,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.35178055,-5.51961487",borehole,0,70,1983,enough,15013079223WP89_670,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.3627429,-5.512492581",borehole,0,1,1985,enough,15013079223WP90_671,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.35537031,-5.533290759",borehole,0,1,1985,enough,15013079223WP91_672,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.36363895,-5.543315494",borehole,0,1,1982,enough,15013079223WP92_673,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.36362291,-5.543306011",borehole,0,1,1985,enough,15013079223WP93_674,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.36613689,-5.544553295",borehole,0,50,1983,enough,15013079223WP94_675,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.36920212,-5.549038121",borehole,0,36,1983,enough,15013079223WP95_676,good,other,2002,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.37326507,-5.549216449",borehole,0,20,1983,insufficient,15013079223WP96_677,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.3561771,-5.5585961",borehole,0,70,1981,enough,15013079223WP97_678,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.35662726,-5.559445244",borehole,0,30,1981,enough,15013079223WP98_679,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Mishamo,"30.36500228,-5.554300825",borehole,0,80,1983,enough,15013079223WP99_680,good,other,1998,monthly,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Rural,Mishamo,"30.65086891,-5.747147216",borehole,0,143,1985,enough,15013079223WP217_568,good,other,2000,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mlele,Mbede,"31.41459391,-7.191924691",borehole,0,1200,2004,enough,15013079101WP239_201,good,nira/tanira,2011,never pay,LGA,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Mbede,"31.32065722,-7.203711335",borehole,1000,400,1995,enough,15013079101WP251_213,good,india mark ii,1997,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Mbede,"31.31631523,-7.205792802",borehole,1000,200,1995,enough,15013079101WP250_212,good,india mark ii,1996,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Mbede,"31.31916107,-7.205129674",borehole,1000,8848,2011,enough,15013079101WP249_211,good,other,unknown,annually,World Bank,DWE,vwc,under construction
+not functional,Katavi,Mlele,Mbede,"31.32338945,-7.204197813",borehole,1000,500,1995,enough,15013079101WP247_209,salty,india mark ii,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Mamba,"31.36666687,-7.315063428",borehole,8000,9000,2010,enough,15013079091WP231_193,good,other,unknown,annually,World Bank,N.P.R.,vwc,under construction
+not functional,Katavi,Mlele,Mamba,"31.36976648,-7.322762479",spring,8000,200,2009,enough,15013079091WP223_185,good,gravity,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Mamba,"31.36836921,-7.318287163",spring,8000,200,2009,enough,15013079091WP233_195,good,afridev,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Mamba,"31.37107897,-7.320995473",borehole,8000,1500,2010,enough,15013079091WP222_184,good,india mark ii,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Mamba,"31.36931219,-7.317974127",spring,8000,300,2009,enough,15013079091WP232_194,good,gravity,2011,annually,LGA,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Mamba,"31.3640508,-7.417908079",spring,5000,711,2011,enough,15013079091WP219_181,good,gravity,2011,annually,LGA,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Majimoto,"31.39018044,-7.258555972",borehole,5000,6000,2010,enough,15013079091WP236_198,good,other,unknown,annually,World Bank,N.P.R.,vwc,under construction
+not functional,Katavi,Mlele,Magamba,"31.10252675,-6.427580302",borehole,3000,40,1990,insufficient,15013079131WP128_311,good,india mark ii,2004,annually,NORAD,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Magamba,"31.09366314,-6.412398876",borehole,4000,150,1984,enough,15013079131WP116_299,good,other,2000,annually,NORAD,DWE,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Machimboni,"31.08101296,-6.515088573",borehole,500,800,2010,enough,15013079171WP133_354,salty,india mark ii,2011,monthly,TANAPA,DDCA,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Machimboni,"31.07912539,-6.513436215",borehole,1000,150,1994,enough,15013079171WP135_356,salty,other,2003,annually,RUDEP,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.24099572,-6.348859293",spring,0,150,1975,insufficient,15013079041WP85_64,good,gravity,1988,never pay,TCRS,TCRS,trust,source damaged
+not functional,Katavi,Mlele,Litapunga,"31.2202617,-6.347757914",spring,0,400,1975,enough,15013079041WP86_65,good,gravity,2008,never pay,TCRS,TCRS,trust,source damaged
+not functional,Katavi,Mlele,Litapunga,"31.2254032,-6.34799513",spring,0,250,1975,enough,15013079041WP87_66,good,gravity,2008,on failure,TCRS,TCRS a,vwc,source damaged
+not functional,Katavi,Mlele,Litapunga,"31.23398153,-6.348509336",spring,0,300,1975,enough,15013079041WP88_67,good,gravity,1988,never pay,TCRS,TCRS a,trust,source damaged
+not functional,Katavi,Mlele,Litapunga,"31.2618464,-6.364258869",borehole,0,400,1975,enough,15013079041WP94_73,good,gravity,2008,never pay,TCRS,TCRS,water authority,pipe broken
+not functional,Katavi,Mlele,Litapunga,"31.22676076,-6.339421211",spring,0,150,1975,insufficient,15013079041WP80_59,good,gravity,2008,never pay,TCRS,TCRS,trust,pipe broken
+not functional,Katavi,Mlele,Litapunga,"31.22159983,-6.339050931",spring,0,100,1975,enough,15013079041WP78_57,good,gravity,2008,never pay,TCRST,TCRS,trust,pipe broken
+not functional,Katavi,Mlele,Litapunga,"31.21600807,-6.338617922",spring,0,150,1975,enough,15013079041WP77_56,good,gravity,2008,never pay,TCRS,TCRS,trust,pipe broken
+not functional,Katavi,Mlele,Litapunga,"31.22169224,-6.32852164",spring,0,109,1975,insufficient,15013079041WP76_55,good,gravity,2008,never pay,TCRS,TCRS,water authority,source damaged
+not functional,Katavi,Kakonko,Litapunga,"31.16516868,-6.084743654",shallow well,0,1010,2010,enough,15013079341WP52_830,salty,nira/tanira,2012,on failure,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.22824103,-6.330535091",spring,0,500,2008,enough,15013079041WP75_54,good,gravity,2011,never pay,World Bank,DWE,water authority,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.21587279,-6.3242926",spring,0,742,2008,enough,15013079041WP74_53,good,gravity,1998,never pay,TCRS,TCRS,water authority,tap broken
+not functional,Katavi,Mlele,Litapunga,"31.23286615,-6.318593581",borehole,0,250,1994,enough,15013079041WP70_49,good,india mark ii,2010,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Litapunga,"31.20992713,-6.275867527",borehole,0,500,1990,enough,15013079341WP26_803,good,india mark ii,2012,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Litapunga,"31.13832023,-6.232461197",borehole,0,670,1990,insufficient,15013079341WP34_811,milky,india mark ii,2003,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Litapunga,"31.1422039,-6.237319712",borehole,2500,100,1990,insufficient,15013079341WP32_809,good,india mark ii,2008,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Litapunga,"31.15306952,-6.238872102",borehole,0,100,1990,dry,15013079341WP31_808,unknown,india mark ii,1991,never pay,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.2647055,-6.288676132",borehole,2500,150,1990,enough,15013079341WP04_781,good,india mark ii,2011,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.24849977,-6.277514808",borehole,0,1,1985,enough,15013079341WP01_778,good,india mark ii,2008,never pay,TCRS,TCRS,water authority,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.27891321,-6.343294931",borehole,2500,250,1990,insufficient,15013079341WP13_790,good,india mark ii,2013,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.2353937,-6.284057788",borehole,2500,500,1990,insufficient,15013079341WP20_797,salty,india mark ii,2012,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Litapunga,"31.22695193,-6.283132045",borehole,0,1422,1990,enough,15013079341WP24_801,unknown,india mark ii,2011,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mlele,Litapunga,"31.29913716,-6.344878952",borehole,2500,400,1990,enough,15013079341WP11_788,salty,india mark ii,2013,on failure,TCRS,TCRS,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kibaoni,"31.07353348,-7.091501984",borehole,3000,300,2006,enough,15013079161WP270_347,salty,nira/tanira,2011,annually,LGA,DWE,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kibaoni,"31.16782278,-7.10682172",borehole,25,400,1997,enough,15013079161WP261_338,salty,india mark ii,2010,per bucket,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mpanda Rural,Kibaoni,"31.17387599,-7.10003691",borehole,0,4,2010,enough,15013079161WP263_340,good,other,unknown,unknown,World Bank,P.N.R.,vwc,under construction
+not functional,Katavi,Mpanda Rural,Kibaoni,"31.16638011,-7.104497352",borehole,0,100,1997,insufficient,15013079161WP264_341,good,india mark ii,1999,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Kibaoni,"31.1507367,-7.070230744",borehole,0,400,2010,insufficient,15013079161WP268_345,unknown,india mark ii,2010,unknown,Africare,Africa,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Kawajense,"31.07955734,-6.328315412",borehole,50,1500,1985,enough,15013079262WP18_712,salty,india mark ii,2012,per bucket,Government of Tanzania,MUWASA,water authority,pump broken
+not functional,Katavi,Mpanda Urban,Katuma,"30.70812825,-6.318669834",borehole,0,1,2008,insufficient,15013079231WP01_681,good,india mark ii,2012,never pay,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Urban,Katuma,"30.71100192,-6.265425141",borehole,0,450,2008,insufficient,15013079231WP03_683,good,india mark ii,2012,never pay,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kasokola,"31.07213517,-6.278497661",spring,0,300,1972,enough,15013079011WP163_11,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.07630631,-6.283428757",borehole,100,100,1993,enough,15013079011WP167_15,good,other,1999,annually,RUDEP,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.0774608,-6.279441011",borehole,100,100,1993,insufficient,15013079011WP166_14,good,other,1989,annually,RUDEP,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.07429402,-6.27968552",spring,0,150,1972,enough,15013079011WP165_13,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.07283695,-6.280372009",borehole,2000,100,1993,seasonal,15013079011WP164_12,good,other,1993,annually,RUDEP,DWE,vwc,under construction
+not functional,Katavi,Mlele,Kasokola,"31.07015511,-6.266392426",borehole,1000,387,1993,enough,15013079011WP168_16,salty,nira/tanira,2009,on failure,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Kasokola,"31.07092772,-6.266450044",spring,0,400,1982,enough,15013079011WP169_17,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.06586665,-6.277699923",borehole,100,200,1993,insufficient,15013079011WP161_9,good,other,1999,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.07549931,-6.265233836",spring,0,200,1983,enough,15013079011WP171_19,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.08030024,-6.269626259",borehole,0,430,1993,enough,15013079011WP173_21,good,other,2000,never pay,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Kasokola,"31.07957231,-6.266694362",spring,0,430,1983,enough,15013079011WP174_22,good,gravity,1989,never pay,Government of Tanzania,DWE,other,other
+not functional,Katavi,Mlele,Kasokola,"31.08065405,-6.267242101",spring,0,430,1983,enough,15013079011WP175_23,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.08802845,-6.268369396",borehole,0,300,1993,enough,15013079011WP176_24,good,other,2000,never pay,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mlele,Kasokola,"31.12743132,-6.269773755",borehole,5000,50,1994,enough,15013079011WP179_27,good,other,1996,annually,RUDEP,DWE,vwc,pump stolen
+not functional,Katavi,Mlele,Kasokola,"31.12792538,-6.274137083",borehole,0,40,1994,enough,15013079011WP180_28,good,other,1996,annually,RUDEP,DWE,vwc,pump stolen
+not functional,Katavi,Mlele,Kasokola,"31.06485728,-6.276691478",spring,0,100,1972,enough,15013079011WP160_8,good,gravity,1989,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kasokola,"31.13324879,-6.273954829",borehole,5000,200,1994,enough,15013079011WP178_26,good,other,1995,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.06696225,-6.273060973",borehole,2000,200,1993,enough,15013079011WP159_7,good,other,1993,annually,RUDEP,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Kasokola,"31.06088623,-6.271961",borehole,100,50,1993,insufficient,15013079011WP158_6,good,other,1999,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.05581658,-6.276823247",borehole,0,100,1993,unknown,15013079011WP157_5,unknown,other,1993,unknown,RUDEP,DW,unknown,pump broken
+not functional,Katavi,Mlele,Kasokola,"31.05374648,-6.274104239",borehole,100,40,1993,insufficient,15013079011WP156_4,good,other,1999,annually,RUDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.05002228,-6.276263854",borehole,100,150,1993,insufficient,15013079011WP155_3,good,other,1993,annually,REDEP,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kasokola,"31.05265843,-6.277055319",borehole,0,400,1993,enough,15013079011WP154_2,good,other,1999,never pay,RUPED,DWE,private operator,pump broken
+not functional,Katavi,Mlele,Kasokola,"31.07481706,-6.264994733",borehole,0,200,1993,insufficient,15013079011WP170_18,good,other,2000,never pay,RUDEP,The Co,vwc,source damaged
+not functional,Katavi,Kakonko,Kashaulili,"31.06627018,-6.348102085",dam,0,1,2006,dry,15013079372WP38_839,good,mono,2011,never pay,Government of Tanzania,MUWASA,water authority,none
+not functional,Katavi,Mlele,Kasansa,"31.38964083,-7.458672716",spring,3000,30,1987,enough,15013079091WP205_167,good,gravity,2004,annually,RUDEP,DWE,vwc,tap broken
+not functional,Katavi,Mpanda Rural,Karema,"30.44304072,-6.825661556",borehole,500,50,1994,insufficient,15013079183WP11_368,salty,other,2003,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.44232571,-6.819200297",borehole,500,100,1994,enough,15013079183WP16_373,good,other,2000,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.43950891,-6.821349536",borehole,500,360,1994,insufficient,15013079183WP15_372,salty,nira/tanira,2008,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.43863497,-6.818670438",borehole,500,50,1994,enough,15013079183WP14_371,salty,other,2004,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.43826147,-6.82065423",borehole,500,150,1994,insufficient,15013079183WP13_370,salty,nira/tanira,2012,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.44014916,-6.82353339",borehole,500,153,1994,enough,15013079183WP12_369,salty,other,2003,monthly,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Karema,"30.44251135,-6.815095563",borehole,0,230,1994,dry,15013079183WP05_362,salty,other,2007,never pay,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Karema,"30.44113292,-6.821049268",borehole,0,200,2011,enough,15013079183WP09_366,salty,other,2011,never pay,World Bank,Distri,vwc,under construction
+not functional,Katavi,Mlele,Kapalamsenga,"30.48992554,-6.812139508",borehole,1000,400,1997,enough,15013079321WP02_736,salty,india mark ii,2013,monthly,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalamsenga,"30.49137792,-6.808223109",borehole,1000,1000,1997,insufficient,15013079321WP01_735,good,swn 80,1997,monthly,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalamsenga,"30.48616811,-6.816961756",shallow well,0,230,1994,enough,15013079321WP08_742,good,other,1999,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalamsenga,"30.48940922,-6.815206668",borehole,3600,1,1997,insufficient,15013079321WP03_737,good,india mark ii,2012,annually,Government of Tanzania,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalamsenga,"30.48748922,-6.814388322",borehole,0,370,2013,enough,15013079321WP09_743,good,other,2012,never pay,Sikonge Copper Mi,Sikong,company,under construction
+not functional,Katavi,Mlele,Kapalamsenga,"30.490591,-6.816296344",shallow well,1000,150,1997,enough,15013079321WP12_746,good,other,1999,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalamsenga,"30.48799317,-6.820217121",shallow well,0,500,1994,enough,15013079321WP07_741,good,other,2000,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Kapalala,"31.1703983,-6.375220968",spring,0,100,1972,enough,15013079121WP13_242,unknown,gravity,1983,never pay,Government of Tanzania,Townsh,water authority,pipe broken
+not functional,Katavi,Mlele,Kapalala,"31.14898176,-6.382091475",borehole,14000,9000,2010,enough,15013079121WP09_238,good,other,unknown,annually,World Bank,P.N.R.,vwc,under construction
+not functional,Katavi,Mlele,Kapalala,"31.14337342,-6.386218438",borehole,14000,8,1995,seasonal,15013079121WP07_236,good,nira/tanira,2008,annually,LGA,DWE,vwc,source damaged
+not functional,Katavi,Mlele,Kapalala,"31.17405164,-6.37889117",borehole,0,57,1989,seasonal,15013079121WP19_248,good,other,2001,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Kapalala,"31.17389535,-6.379006393",spring,0,54,1972,enough,15013079121WP20_249,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kapalala,"31.16937117,-6.379358776",borehole,0,31,1989,seasonal,15013079121WP17_246,good,other,1991,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Kapalala,"31.17197783,-6.377378311",spring,0,54,1972,enough,15013079121WP18_247,good,gravity,1983,never pay,Government of Tanzania,DWE,water authority,other
+not functional,Katavi,Mlele,Kapalala,"31.12784686,-6.421193362",borehole,0,80,1999,insufficient,15013079121WP05_234,salty,other,2002,never pay,DWE,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Kapalala,"31.15739987,-6.422870173",shallow well,3000,70,1999,insufficient,15013079121WP03_232,good,nira/tanira,2006,unknown,DWE,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Kapalala,"31.1598839,-6.421237191",borehole,0,78,1999,enough,15013079121WP02_231,milky,other,2003,unknown,DWE,DWE,vwc,pump broken
+not functional,Katavi,Mlele,Kapalala,"31.17337287,-6.374863016",spring,0,100,1972,enough,15013079121WP14_243,good,gravity,1983,never pay,Government of Tanzania,LGA,water authority,pipe broken
+not functional,Katavi,Mlele,Kapalala,"31.17009942,-6.374183185",borehole,0,60,1989,seasonal,15013079121WP16_245,good,other,1993,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mlele,Kapalala,"31.17414018,-6.375711051",borehole,0,200,1989,seasonal,15013079121WP15_244,good,other,1993,never pay,LGA,DWE,water authority,source damaged
+not functional,Katavi,Mpanda Rural,Kabungu,"30.97889245,-6.297376477",shallow well,500,200,2007,enough,15013079201WP12_413,good,nira/tanira,2011,monthly,District Council,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kabungu,"30.98485815,-6.294554437",borehole,500,300,2000,enough,15013079201WP13_414,good,swn 80,2012,monthly,District Council,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kabungu,"30.9369053,-6.363749408",borehole,0,400,1985,insufficient,15013079201WP15_416,good,india mark ii,2012,never pay,District Council,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kabungu,"30.97468106,-6.298564987",borehole,0,250,2001,insufficient,15013079201WP11_412,good,swn 80,2007,never pay,,,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Kabungu,"31.016519,-6.309148025",borehole,0,150,1988,enough,15013079201WP275_420,salty,india mark ii,2000,on failure,RUDEP,DWE,vwc,pipe broken
+not functional,Katavi,Mpanda Rural,Itenka,"30.99797848,-6.483667984",borehole,1000,400,2010,enough,15013079171WP136_357,good,india mark ii,2011,annually,LGA,DDCA,vwc,pipe broken
+not functional,Katavi,Mlele,Inyonga,"32.05390992,-6.719630785",borehole,5000,550,1986,insufficient,15013079053WP09_87,good,india mark ii,2013,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Inyonga,"32.06011802,-6.71833936",borehole,5000,160,1986,dry,15013079053WP01_79,good,other,2003,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Inyonga,"32.05049553,-6.749488972",borehole,5000,250,1986,enough,15013079053WP19_97,good,india mark ii,2012,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Inyonga,"32.05930882,-6.739514223",borehole,5000,30,1986,enough,15013079053WP18_96,good,india mark ii,2011,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.4929443,-6.749580325",borehole,5000,123,1988,insufficient,15013079061WP03_107,good,india mark ii,2011,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.48456064,-6.744516209",borehole,5000,170,1988,dry,15013079061WP06_110,good,india mark ii,2012,annually,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mlele,Ilunde,"32.48336273,-6.74066873",borehole,5000,260,1988,insufficient,15013079061WP07_111,salty,india mark ii,2013,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.48253565,-6.736611571",borehole,5000,50,1988,insufficient,15013079061WP08_112,salty,india mark ii,2012,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.47898635,-6.737706615",borehole,5000,150,1988,insufficient,15013079061WP09_113,good,india mark ii,2011,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.49080377,-6.743947733",borehole,5000,300,1988,insufficient,15013079061WP04_108,salty,india mark ii,2010,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilunde,"32.47924244,-6.740272593",borehole,5000,123,1988,dry,15013079061WP10_114,good,other,2003,annually,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Ilembo,"31.07641629,-6.393713657",borehole,0,280,2000,enough,15013079282WP01_715,salty,india mark ii,2012,on failure,Government of Tanzania,MUWASA,vwc,pump broken
+not functional,Katavi,Mlele,Ilela,"32.04165717,-6.823463555",borehole,5000,230,1988,enough,15013079071WP20_135,good,india mark ii,2010,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilela,"32.09002937,-6.814745327",borehole,4000,230,1988,enough,15013079071WP13_128,good,india mark ii,2011,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilela,"32.09104171,-6.816102581",borehole,400,350,1988,insufficient,15013079071WP12_127,good,india mark ii,2013,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilela,"32.12758108,-6.795719903",borehole,5000,100,1988,insufficient,15013079071WP11_126,good,india mark ii,2013,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mlele,Ilela,"32.12632779,-6.787007877",borehole,5000,50,1988,insufficient,15013079071WP07_122,salty,other,2003,annually,RUDEP,Distri,vwc,source damaged
+not functional,Katavi,Mpanda Rural,Ikuba,"31.23699872,-7.095934501",borehole,2000,6000,2010,enough,15013079153WP254_331,good,other,unknown,annually,World Bank,P.N.R.,vwc,under construction
+not functional,Katavi,Mpanda Rural,Ikuba,"31.23691698,-7.095941304",borehole,2000,252,1997,enough,15013079153WP253_330,good,india mark ii,2011,annually,LGA,DWE,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikuba,"31.22784962,-7.069448314",borehole,5000,150,2010,enough,15013079153WP252_329,salty,india mark ii,2011,annually,Africare,P.N.R.,vwc,pipe broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.40521177,-6.74144252",borehole,0,175,1994,enough,15013079191WP12_385,salty,other,2003,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.40569427,-6.738595095",borehole,0,230,1994,enough,15013079191WP03_376,salty,other,2008,never pay,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.40719896,-6.73736777",borehole,5000,350,2012,enough,15013079191WP05_378,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40613197,-6.737348025",borehole,5000,250,2012,enough,15013079191WP06_379,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40396289,-6.739618173",borehole,5000,250,2012,enough,15013079191WP07_380,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.4014957,-6.739417865",borehole,5000,250,2012,enough,15013079191WP08_381,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40010367,-6.738280665",borehole,5000,250,2012,enough,15013079191WP09_382,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40119085,-6.733515861",borehole,5000,200,2012,enough,15013079191WP23_396,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40364283,-6.741418541",borehole,5000,350,2012,enough,15013079191WP10_383,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40458375,-6.740785256",borehole,1000,270,1994,insufficient,15013079191WP11_384,good,nira/tanira,2012,on failure,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.40331611,-6.738144994",borehole,5000,150,1994,enough,15013079191WP02_375,salty,other,2008,annually,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.4062276,-6.740832419",borehole,5000,250,2012,enough,15013079191WP13_386,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40633134,-6.741477198",borehole,1000,270,1994,insufficient,15013079191WP14_387,salty,nira/tanira,2012,on failure,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.40593327,-6.743441443",borehole,5000,250,2012,enough,15013079191WP15_388,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40829157,-6.742861755",borehole,1000,250,1994,insufficient,15013079191WP17_390,salty,nira/tanira,2008,on failure,RUDEP,Distri,vwc,pump broken
+not functional,Katavi,Mpanda Rural,Ikola,"30.41190322,-6.745506691",borehole,5000,230,2012,enough,15013079191WP19_392,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40840487,-6.741938905",borehole,5000,250,2012,enough,15013079191WP20_393,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40765029,-6.739661572",borehole,5000,250,2012,enough,15013079191WP21_394,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40488729,-6.738275664",borehole,0,250,2012,enough,15013079191WP01_374,good,other,2012,never pay,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.40505778,-6.74000253",borehole,5000,250,2012,enough,15013079191WP31_404,good,other,2012,annually,World Bank,Distri,water authority,under construction
+not functional,Katavi,Mpanda Rural,Ikola,"30.45749459,-6.72939667",borehole,0,500,1995,dry,15013079191WP33_406,salty,other,2008,never pay,RUDEP,Distri,vwc,pump broken

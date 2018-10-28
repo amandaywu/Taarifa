@@ -1,0 +1,470 @@
+---
+title: 'Predicting Well Functionality: Limitations of Survey Data'
+author: "Hubert Luo and Amanda Wu"
+date: "October 13, 2018"
+output:
+  github_document
+---
+
+```{r warning = FALSE, message = FALSE, echo = FALSE}
+source('../code/models.R')
+source('../code/data_analysis.R')
+library(ggplot2)
+library(dplyr)
+library(knitr)
+library(stringr)
+library(scales)
+```
+
+## Introduction
+
+Machine learning has previously been used to identify wells that might not be working, allowing for quicker repair of non-functional wells. Previous work in this space has focused on creating models using survey data, for example from information such as the source or type of the well.  Using new datasets from Taarifa and geospatial data, we improve upon the existing work completed by Topor et. al on predicting well functionality, with a focus on Tanzania.  We looked at seven categorical features and three numerical features across 122,076 wells and found that the most important features in predicting well functionality were water quantity,  distance to the nearest road, extraction type, and construction year. When we combined this survey data with just a single non-survey-based feature, the distance to the nearest road, there was an improvement in the random forest model's performance from 77.49% accuracy to 78.48% accuracy, illustrating the potential for data unrestricted to surveys in improving prediction abilities.
+
+## Data Summary 
+
+The total number of features examined was ten, with seven categorical features and three continuous features. There was also one response variable, which was categorical, the status of the well. These were all the unique features which could be applicable to wells in any country, so features such as the state the well was located were excluded. There was a total of 122,076 unique wells in the combined dataset. 
+
+### Categorical Variables
+
+The table below summarizes the categorical variables: water quantity, extraction type, waterpoint type, payment type, source, water quality, management type, and well status in the tables below. Note the last attribute in each row, specified (other), includes wells of known attribute that do not fall into one of the attributes listed above.
+
+```{r echo = FALSE}
+dat_as_factors = as.data.frame(unclass(dat))
+kable(summary(dat_as_factors[,c(1:3,5)]))
+kable(summary(dat_as_factors[,c(6,8:10)]))
+```
+
+### Summary of Well Status
+
+As mentioned in the introduction, each well has 3 possible statuses, as summarized below.  37.5% of wells are non-functional, while 7.23% are functional and in need of repair and the remaining wells (55.2%) are functional without the need of repair. Figure 1.1 demonstrates the overall well distribution that fall into the categories of either functional, non-functional, or functional but in need of repair.
+
+```{r echo = FALSE}
+ggplot(data = dat %>% group_by(status_group) %>% summarise(percentage = n()/nrow(dat)*100)) +
+  geom_bar(aes(x = "", y = percentage, fill = status_group), stat = "identity", width = 0.5) + 
+  ggtitle('Status of Well') +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) + # default ggplot2 colours in green-blue-red
+  geom_text(aes(x = 1, y = c(72, 42, 20), label = round(percentage,2)))
+```
+
+### Continuous Variables
+
+The tables and graphs below describe two continuous variables from the Taarifa survey data (population and construction year), and one newly computed variable, the distance to the nearest road from a well, that was computed from a road dataset using latitude and longitude. The data is right skewed, with a long right tail as the majority of wells have surrounding populations of less than 1,000 while some have populations that far exceed 1,000 and reach as high as 30,500.  The standard deviation is also extremely large at 573.64 even though 75% of the data is less than or equal to 320, demonstrating the significant effect the extremely high population values have on our data.
+
+```{r echo = FALSE}
+summary(as.integer(dat_population$population))
+#sd(dat_population$population)
+```
+
+Therefore, we binned the population data into 10 bins of size 100, ranging from 0 to 1,000 and putting all data points  exceeding 1,000 into the final bin of 900 to 1,000 in order to reduce the disproportionately large affect these extreme values played in our analysis. The final summary counts and a histogram are displayed below.
+
+```{r echo = FALSE}
+dat_population$population = as.integer(dat_population$population)
+dat_population$population[dat_population$population > 1000] = 1000 # Set all population values > 1000 to 1000
+binned_population = cut(dat_population$population, breaks = seq(from = 0, to = 1000, by = 100))
+
+ggplot(data = dat_population) +
+  geom_histogram(aes(x = population), bins = 10, fill = 'steelblue') +
+  labs(x = 'Population',y='Number of Wells') +
+  ggtitle('Number of Wells by Population Size')
+
+kable(summary(binned_population), col.names = c('Number of Wells'), caption = 'Number of Wells by Population Size')
+```
+
+The wells ranged from being constructed in 1960 to 2014, with a median of 2000.
+
+```{r echo = FALSE}
+summary(as.integer(dat_year$construction_year))
+
+ggplot(data = dat_year) +
+  geom_histogram(aes(x = as.integer(construction_year)), bins = 11, fill = 'steelblue') +
+  labs(x = 'Construction Year',y='Number of Wells') +
+  ggtitle('Number of Wells by Construction Year')
+
+binned_year = cut(as.numeric(dat_year$construction_year), breaks = seq(from = 1960, to = 2015, by = 5))
+kable(summary(binned_year), col.names = c('Number of Wells'), caption = 'Number of Wells by Construction Year')
+```
+
+The data is extremely right-skewed, as the mean of 54.72km exceeds even that of the 75th percentile of 7.88km. As a result, we capped the distances at 50km and assigned all distances greater than 50km a value of 50km.
+
+```{r echo = FALSE}
+summary(dat$NEAR_DIST)
+dat$NEAR_DIST[dat$NEAR_DIST > 50] = 50
+ggplot(data = dat) +
+  geom_histogram(aes(x = NEAR_DIST), bins = 10, fill = 'steelblue') +
+  labs(x = 'Distance to Nearest Road (km)',y='Number of Wells') +
+  ggtitle('Distance to Nearest Road of Wells')
+
+binned_distances = cut(dat$NEAR_DIST, breaks = seq(from = 0, to = 50, by = 5))
+kable(summary(binned_distances), col.names = c('Number of Wells'), caption = 'Distance to Nearest Road for Wells')
+```
+
+## Missing Data
+
+Most of our unknown categorical data is missing at random, so keeping these values in our dataset should not create bias.  However, water quality and water quantity have a large number of missing values as well as a higher-than-average non-functioning well fraction. Thus, there is evidence that missing values associated with these 3 categories need to be investigated further or handled through classification later.
+
+A table summary of the percentage of missing data for each variable is listed below. Note that waterpoint type for all of the data from the Taarifa API was missing so it had the highest percentage of missing values at 51.34%. Population and construction year had missing values around 35%, while the rest of the variables were below 15%. Source, well distance to nearest road, extraction type, management, and water quantity had the lowest percentages of missing values (all below 1.5%).
+
+For missing continuous data such as population, year, and distance, we replaced the missing values with the median, as the large number of outliers meant that the median was more meaningful than the mean for our data.
+
+```{r echo = FALSE}
+dat1 = dat[dat$Location == 'unknown',]
+dat2 = dat[dat$Location != 'unknown',]
+# Overall Dataset
+total_wells = nrow(dat)
+missing_percentages_overall = c(quantity = round(summary(as.factor(dat$quantity))['unknown'][[1]]/total_wells*100,2),
+                        extraction_type = round(summary(as.factor(dat$extraction_type))[('unknown')][[1]]/total_wells*100,2),
+                        waterpoint_type = round(summary(as.factor(dat$waterpoint_type))['unknown'][[1]]/total_wells*100,2),
+                        construction_year = round((total_wells - nrow(dat_year))/total_wells*100,2),
+                        payment = round(summary(as.factor(dat$payment))['unknown'][[1]]/total_wells*100,2),
+                        source = 0.00, #round(summary(as.factor(dat$source))['unknown'][[1]]/total_wells*100,2), # This has no missing values
+                        population = round((total_wells - nrow(dat_population))/total_wells*100,2),
+                        quality = round(summary(as.factor(dat$quality_group))['unknown'][[1]]/total_wells*100,2),
+                        management = round(summary(as.factor(dat$management_group))['unknown'][[1]]/total_wells*100,2),
+                        distance_to_nearest_road = round(4/total_wells*100,2)) # 4 instances found in data_alternative.R script
+
+# Dataset 1
+total_wells1 = nrow(dat1)
+missing_percentages_1 = c(quantity = round(summary(as.factor(dat1$quantity))['unknown'][[1]]/total_wells1*100,2),
+                        extraction_type = round(summary(as.factor(dat1$extraction_type))['unknown'][[1]]/total_wells1*100,2),
+                        waterpoint_type = round(summary(as.factor(dat1$waterpoint_type))['unknown'][[1]]/total_wells1*100,2),
+                        construction_year = round(sum(dat1$construction_year == 0)/total_wells1*100,2),
+                        payment = round(summary(as.factor(dat1$payment))['unknown'][[1]]/total_wells1*100,2),
+                        source = 0.00, #round(summary(as.factor(dat$source))['unknown'][[1]]/total_wells*100,2), # This has no missing values
+                        population = round(sum(dat1$population == 0)/total_wells1*100,2),
+                        quality = round(summary(as.factor(dat1$quality_group))['unknown'][[1]]/total_wells1*100,2),
+                        management = round(summary(as.factor(dat1$management_group))['unknown'][[1]]/total_wells1*100,2),
+                        distance_to_nearest_road = round(2/total_wells1*100,2)) # 2 instances found in data_alternative.R script
+
+# Dataset 2
+total_wells2 = nrow(dat2)
+missing_percentages_2 = c(quantity = round(summary(as.factor(dat2$quantity))['unknown'][[1]]/total_wells2*100,2),
+                        extraction_type = round(summary(as.factor(dat2$extraction_type))['unknown'][[1]]/total_wells2*100,2),
+                        waterpoint_type = 100.00, # All missing for 2nd dataset
+                        construction_year = round(sum(dat2$construction_year == 0)/total_wells2*100,2),
+                        payment = round(summary(as.factor(dat2$payment))['unknown'][[1]]/total_wells2*100,2),
+                        source = 0.00, #round(summary(as.factor(dat$source))['unknown'][[1]]/total_wells*100,2), # This has no missing values
+                        population = round(sum(dat2$population == 0)/total_wells2*100,2),
+                        quality = round(summary(as.factor(dat2$quality_group))['unknown'][[1]]/total_wells2*100,2),
+                        management = round(summary(as.factor(dat2$management_group))['unknown'][[1]]/total_wells2*100,2),
+                        distance_to_nearest_road = round(2/total_wells2*100,2)) # 2 instances found in data_alternative.R script
+
+missing_percentages_combined = data.frame(missing_percentages_overall, missing_percentages_1, missing_percentages_2)
+
+kable(missing_percentages_combined, col.names = c('Overall', 'Dataset 1', 'Dataset2') ,caption = 'Percentage of Missing Values for Datasets')
+```
+
+## Comparing Datasets
+
+We compared the coordinates of the wells in the two datasets to identify wells which were present in both datasets. We found 10,249 overlapping wells, resulting in a total of 122,076 unique wells in the merged dataset.
+
+38.42% of the wells in the first dataset were non-functional, compared to 37.7% in the second dataset. From the table of missing values above, we see that the largest difference was in waterpoint type as mentioned earlier (missing for Dataset 2, all present for Dataset 1). In addition, population, payment, and construction year were the features that had a higher proportion of missing values in the second dataset than the first one.
+
+## Feature Selection
+
+We first narrowed down the list of features to only include those that appeared in both datasets and were also meaningful for future analysis on different datasets. For example, we dropped region and latitude/longitude as any conclusions provided by these features from Tanzania were not broadly applicable to different situations. An exception was made for waterpoint type - we decided to investigate it as a feature even though it wasn't in both datasets as previous analysis by Topor et. al [1] had identified it as an important predictive feature.
+
+To analyze the importance of features, we used random forest methods to evaluate the importance of each feature by its mean decrease in Gini coefficient [2]. The results are outlined in the table and graph below.
+
+```{r echo = FALSE}
+kable(varImp(rf_model_overall), caption = 'Feature Importance by Mean Decrease in Gini')
+varImpPlot(rf_model_overall)
+```
+
+As seen above, the most important feature was quantity, followed by distance to the nearest road, extraction type, and construction year. It is interesting to note that distance to the nearest road, a feature absent in existing models in this field, was found to be the second most important feature, demonstrating the strong potential for further work using alternative, non-survey data.
+
+Note that this list of the most important features is intuitive.  For example, if a well is old and not producing sufficient water, it  is likely to be non-functional.  Due to the limitations of conducting a one-time field survey, we only have data from a single point in time. As a result, we do not know whether any changes have occurred to the well since it was last surveyed. Concrete action is therefore difficult to recommend. More timely and regular measurements of the well would increase the amount of data and further improve the accuracy. Although traditional field surveys are limited by the number of people that physically visit wells, sensor-based technologies could provide real-time measurement of well functionality and usage.
+
+## Predictive Features
+
+We then examined each of these features in further depth below. The black dotted line on the graphs marks the overall average percentage of non-functional wells (38.02%). Red bars that extend above this dotted line demonstrate a higher than average likelihood to be non-functional, and red bars which are below the dotted line are less likely to be non-functional.
+
+### 1. Water Quantity
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$quantity) +
+  geom_col(aes(x = quantity, y = prop, fill = status_group)) +
+  labs(x = 'Water Quantity', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Water Quantity') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  geom_text(aes(x = 0.7, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat) +
+  geom_bar(aes(x = quantity), fill = 'steelblue') +
+  labs(x= 'Water Quantity',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Water Quantity')
+kable(dat_proportions$quantity %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(quantity, number_of_wells, prop),col.names = c('Water Quantity','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Water Quantity')
+```
+
+It is noteworthy that 96.6% of dry wells are non-functional, while just 27.3% of wells with enough water quantity are non-functional. Clearly, wells with dry or insufficient water quantity are much more likely to be non-functional than those with seasonal or enough water quantity, and thus water quantity is one of the most significant features we can use to  predict whether a well is functional or not.
+
+### 2. Construction Year
+
+```{r echo = FALSE}
+ggplot(data = find_prop('construction_year', data = dat_year)) +
+  geom_col(aes(x = as.numeric(construction_year), y = prop, fill = status_group)) +
+  labs(x = 'Construction Year', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Construction Year') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  geom_text(aes(x = 1960, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_x_continuous(breaks = seq(1960,2015, by = 10))+
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+ggplot(data = dat_year) +
+  geom_histogram(aes(x = as.numeric(construction_year), fill = status_group), bins = 10, col = 'grey') + 
+  labs(x = 'Construction Year', y = 'Number of Wells', fill = 'Status') +
+  ggtitle('Status of Wells by Construction Year') +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+```
+
+Wells that are constructed later are generally more likely  to be functional.. However, only looking at the construction year does not take into account when the well has been last serviced, which would also be important in determining whether a well is functional.
+
+### 3. Extraction Type
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$extraction_type) +
+  geom_col(aes(x = extraction_type, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Extraction Type') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3)) +
+  geom_text(aes(x = 1.5, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(extraction_type) %>% summarise(count = n()), aes(x = extraction_type, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Extraction Type') +
+  geom_text(aes(label=count), vjust=-0.3, size=2) +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3))
+
+kable(dat_proportions$extraction_type %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(extraction_type, number_of_wells, prop),col.names = c('Extraction Type','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Extraction Type')
+```
+
+Gravity pumps are the most reliable extraction method, with a non-functional rate of just 29.4%.  The afridev handpump also has a below-average non-functional rate at 30.1%, while other handpumps such as the India Mark II and SWN80 are around or just under the average non-functional rate at 35.9% and 37.7%, respectively. 
+
+The results of the failure rates could imply that pumps with more complicated extraction types, such as mono (motor pump), climax (motor pump), ksb (submersible) and wind-powered, all of which have non-functional rates around 50% or higher, are more prone to failure as they may be less resilient to poor weather and not as conducive to maintenance conditions.  It is noteworthy that wells with an 'other' extraction type have an extremely high (79.9%) non-functional rate.  A possible explanation for this is that "other" extraction methods are less common and do not have standardized maintenance protocols. 
+
+### 4. Population
+
+```{r echo = FALSE}
+ggplot(data = dat_population) +
+  geom_histogram(aes(x = as.numeric(population), fill = status_group), bins = 10, col = 'grey') + 
+  labs(x = 'Population (log scale)', y = 'Number of Wells', fill = 'Status') +
+  ggtitle('Status of Wells by Population')  +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) + # default ggplot2 colours in green-blue-red
+  scale_x_log10()
+```
+
+Note this only includes 64.33% of the dataset because the rest are missing this factor. In general, wells with a very low surrounding population of between 0 and 10 (note this does *not* include the missing population values of 0) have an extremely high failure rate over 50% while the rest of the wells demonstrate somewhat similar failure rates between 30 and 40%. Somewhat surprisingly, there is no clear evidence of a link between higher population and increasing well non-functionality. This may be due to the fact that their heavy usage is compensated for by better maintenance and resources in larger population areas. In addition, it may be that people naturally settle in large population areas close to natural bodies of water such as a river or spring, which was shown in the section above to have a lower non-functional rate than wells with other sources.
+
+### 5. Payment
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$payment) +
+  geom_col(aes(x = payment, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Payment') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3)) +
+  geom_text(aes(x = 0.8, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(payment) %>% summarise(count = n()), aes(x = payment, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Payment') +
+  geom_text(aes(label=count), vjust=-0.3, size=2) +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3))
+
+kable(dat_proportions$payment %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(payment, number_of_wells, prop),col.names = c('Payment','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Payment')
+```
+
+Wells with a known payment method are more likely to be functional - wells with a payment type of 'never pay' have a 48.9% non-functional rate, much higher than the overall average of 37.5%. Those with annual payments have the lowest non-functional rate at 17.8%, followed by those with monthly payments at 22.6% and then per bucket payments at 25.8%.
+
+### 6. Source
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$source_type) +
+  geom_col(aes(x = source_type, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Source') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3)) +
+  geom_text(aes(x = 1, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(source_type) %>% summarise(count = n()), aes(x = source_type, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Source') +
+  geom_text(aes(label=count), vjust=-0.3, size=2) +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3))
+
+kable(dat_proportions$source_type %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(source_type, number_of_wells, prop),col.names = c('Source','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Source')
+```
+
+Wells with a dam source have the highest non-functional rate at 57.9%, followed by borehole wells at 44.9%. Wells that have a rainwater, spring, or river/lake source are less likely to experience failure with non-functional rates of 25.2%, 29.3% and 34.0% respectively.
+
+### 7. Well Management
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$management_group) +
+  geom_col(aes(x = management_group, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Well Management') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3)) +
+  geom_text(aes(x = 1, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(management_group) %>% summarise(count = n()), aes(x = management_group, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Well Management') +
+  geom_text(aes(label=count), vjust=-0.3, size=2) +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3))
+
+kable(dat_proportions$management_group %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(management_group, number_of_wells, prop),col.names = c('Well Management','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Well Management')
+```
+
+Wells managed by schools saw the highest non-functional rate of 70.2%, although such management types were rare. Most of the wells were managed by user-groups or vwc's, which had similar non-functional rates around the average for the entire dataset. Private operators and water boards had the lowest non-functional rates at 20.3% and 18.0%, although again the number of wells with such management types is much smaller than those managed by user-groups or vwc's.
+
+### 8. Waterpoint Type
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$waterpoint_type) +
+  geom_col(aes(x = waterpoint_type, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Waterpoint Type') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3)) +
+  geom_text(aes(x = 0.8, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(waterpoint_type) %>% summarise(count = n()), aes(x = waterpoint_type, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Waterpoint Type') +
+  geom_text(aes(label=count), vjust=-0.3, size=2) +
+  theme(axis.text.x = element_text(angle = 90, hjust= 1, vjust = 0.3))
+
+kable(dat_proportions$waterpoint_type %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(waterpoint_type, number_of_wells, prop),col.names = c('Waterpoint Type','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Waterpoint Type')
+```
+
+The findings in this section come with the caveat that over half of the dataset did not report the waterpoint type, so most of the data falls into the unknown category. Just 29.9% of communal standpipes are non-functional, which is significantly less than the overall average of 38%. Likewise, hand pumps are below average at 32.3%. Multiple communal standpipes have a high failure rate of 52.8% while wells marked 'other' have an extremely high 82.2% non-functional rate. However, this may be due to the fact that it is more difficult to determine the type of a non-functional well and therefore non-functional wells are more likely to be listed as other, which inflates the non-functional rate.
+
+### 9. Water Quality
+
+```{r echo = FALSE}
+ggplot(data = dat_proportions$quality_group) +
+  geom_col(aes(x = quality_group, y = prop, fill = status_group)) +
+  labs(x = '', fill = 'Status', y = 'Percentage') +
+  ggtitle('Status of Wells by Water Quality') +
+  geom_hline(aes(yintercept = prop_non_functional), size = 1, linetype = 'dashed') +
+  geom_text(aes(x = 0.8, y = prop_non_functional, label = 'Average'), size = 3, nudge_y = 3) +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+
+ggplot(data = dat %>% group_by(quality_group) %>% summarise(count = n()), aes(x = quality_group, y = count)) +
+  geom_bar(stat = "identity", fill = 'steelblue') +
+  labs(x= '',y = 'Number of Wells') +
+  ggtitle('Number of Wells by Water Quality') +
+  geom_text(aes(label=count), vjust=-0.3, size=2)
+
+kable(dat_proportions$quality_group %>% filter(status_group == 'non functional') %>% arrange(desc(prop)) %>% select(quality_group, number_of_wells, prop),col.names = c('Water Quality','Number of Non-Functional Wells', 'Percentage of Non-Functional Wells'), caption = 'Percentage of Non-Functional Wells by Water Quality')
+```
+
+The vast majority of wells reported good water quality, and their non-functional rate was slightly lower than the overall average at 34.9%. The wells with the lowest non-functional rates had fluoride water quality and just 22.9% of such wells were non-functional. All other water qualities observed were correlated with higher non-functional rates, with those of unknown water quality topping the list at 83% - this is likely because wells which are non-functional are much more likely to not have any water and thus making it more difficult to determine water quality. Out of wells with a known water quality, salty wells had the highest non-functional rate at 46.3%, followed by milky and coloured water at 42.4% and 38.6% respectively.
+
+### 10. Distance to Nearest Road
+
+```{r echo = FALSE}
+dat$NEAR_DIST[dat$NEAR_DIST > 50] = 50
+ggplot(data = dat) +
+  geom_histogram(aes(x = NEAR_DIST, fill = status_group), bins = 10, col = 'grey') + 
+  labs(x = 'Distance to Nearest Road', y = 'Number of Wells', fill = 'Status') +
+  ggtitle('Status of Wells by Distance to Nearest Road')  +
+  scale_fill_manual(values = c('#00BA38','#619CFF','#F8766D')) # default ggplot2 colours in green-blue-red
+``` 
+
+Wells close to roads saw a slightly lower than average nonfunctional rate, but there was not a large difference for wells observed that were somewhat close to a road. However, for wells located farther away, especially noticeable for those located about 50km or more from the nearest road, the non-functional rate increased.
+
+## Model Results
+
+We first split the combined dataset (removing overlapping locations) into training and testing sets using a 75-25 split, with 75% of the wells in the data going into the training set and 25% into the testing set. Two different Random Forest models were then trained on part of the combined dataset, with the first one without the distance to the nearest road feature and the second one with the distance to the nearest road feature. Each model was then applied to parts of the first dataset, the second dataset, and the combined dataset that were in the testing dataset. 
+
+### Dataset 1 Results
+
+Both models performed relatively well on testing data from just the first dataset (14,715 wells). The accuracy of the model without the distance feature was 77.51% and the accuracy with the distance feature was 78.86%. This meant the model's accuracy increased by 1.35% by including just one non-survey-based feature from the road data. 
+
+### Dataset 2 Results
+
+Both models performed slightly worse on testing data from just the second dataset (15,804 wells). The accuracy of the model without the distance feature was 77.45% and the accuracy with the distance feature was 78.06%. Although the model's accuracy after including the distance feature did not increase as much as it did in the first dataset, there was still an increase of 0.61% after including a single non-survey-based feature from the road data.The accuracy on the second dataset was lower than that on the first likely due the higher proportion of missing values in the second dataset than the first.
+
+### Combined Dataset Results
+
+On the combined testing data (30,519 wells), the accuracy of the model without the distance feature was 77.49% and the accuracy with the distance feature was 78.48%, an increase of 0.99% after including one non-survey-based feature. The accuracy on the combined dataset was lower than that on the first likely due the higher proportion of missing values in the second dataset, and thus the combined dataset, than the first. The results are summarized in the table below:
+
+```{r echo = FALSE}
+model_results = data.frame('Dataset' = c(1,2,'Combined'), 'Accuracy without Distance Feature' = c(77.51, 77.45, 77.49), 'Accuracy with Distance Feature' = c(78.86, 78.06, 78.48), 'Change in Accuracy' = c(1.35, 0.61, 0.99))
+kable(model_results, caption = 'Summary of Model Performance')
+```
+
+Since our model only uses reproducible features that would apply to wells in other countries besides Tanzania, we did not use features such as province, latitude, and longitude. As a result, we would expect an accuracy lower than the 81.1% accuracy found by Topor et. al [1] in their analysis as they considered all features. From the confusion matrix, we can see that our model was better at correctly predicting whether a well was non-functional rather than whether it was in one of the two other categories.
+
+```{r echo = FALSE}
+confusionMatrix(compare_status)
+```
+
+## Conclusion
+
+There are several limitations inherent to using survey data when predicting well failures.  The data collection process is costly and time-consuming due to the need for a human to visit each well in-person.  This limits the frequency of collection by the amount of money and the number of trained personnel that are available.  The data collected in this report was ultimately of low quality with numerous missing values and concerns about the accuracy and consistency of reported survey features. Regardless of the quality of data collected, however, the problem persists that survey data collection only accounts for one specific point in time.  The most important feature to predict functionality is water quantity, and since the functional status of a well can change abruptly, the validity of a single data snapshot is insufficient.
+
+A solution to this problem lies in having continuous data across an interval of time. Remote sensors will allow us to efficiently monitor wells and identify when a well is in need of repair, for example when the flow rate drops precipitously. It will then be possible to present technicians a concrete list of wells which are in need of repair with real-time information and updates, improving efficiency of repair efforts and ultimately boost the reliability of wells.
+
+## References
+
+1. [Topor et. al](https://rstudio-pubs-static.s3.amazonaws.com/339668_006f4906390e41cea23b3b786cc0230a.html) *Predicting Tanzanian Water Pump Maintenance Needs*
+
+2. [Liaw and Wiener](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf) CRAN-R randomForest Package Manual 
+
+## Appendix: Data Dictionary
+
+- amount_tsh - Total static head (amount water available to waterpoint)
+- date_recorded - The date the row was entered
+- funder - Who funded the well
+- gps_height - Altitude of the well
+- installer - Organization that installed the well
+- longitude - GPS coordinate
+- latitude - GPS coordinate
+- wpt_name - Name of the waterpoint if there is one
+- basin - Geographic water basin
+- subvillage - Geographic location
+- region - Geographic location
+- region_code - Geographic location (coded)
+- district_code - Geographic location (coded)
+- lga - Geographic location
+- ward - Geographic location
+- population - Population around the well
+- public_meeting - True/False
+- recorded_by - Group entering this row of data
+- scheme_management - Who operates the waterpoint
+- scheme_name - Who operates the waterpoint
+- permit - If the waterpoint is permitted
+- construction_year - Year the waterpoint was constructed
+- extraction_type - The kind of extraction the waterpoint uses
+- extraction_type_group - The kind of extraction the waterpoint uses
+- extraction_type_class - The kind of extraction the waterpoint uses
+- management - How the waterpoint is managed
+- management_group - How the waterpoint is managed
+- payment - What the water costs
+- payment_type - What the water costs
+- water_quality - The quality of the water
+- quality_group - The quality of the water
+- quantity - The quantity of water
+- quantity_group - The quantity of water
+- source - The source of the water
+- source_type - The source of the water
+- source_class - The source of the water
+- waterpoint_type - The kind of waterpoint
+- waterpoint_type_group - The kind of waterpoint
+- NEAR_DIST - Distance to nearest road in kilometers
